@@ -3,6 +3,7 @@
 # Authors: Peter T. Leeson and Jacob W. Russ (2017)
 
 library(readxl)
+library(readr)
 library(magrittr)
 library(tidyr)
 library(dplyr)
