@@ -1,0 +1,342 @@
+<metadata>
+	<mdFileID>{4A290765-70D6-4C0D-A702-F47C72F147EC}</mdFileID>
+	<mdLang>
+		<languageCode value="en">
+		</languageCode>
+		<countryCode value="GBR" Sync="TRUE"></countryCode></mdLang>
+	<mdChar Sync="TRUE">
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdParentID></mdParentID>
+	<mdHrLv2>other</mdHrLv2>
+	<mdHrLvName2>Geodatabase feature class</mdHrLvName2>
+	<mdDateSt Sync="TRUE">20150530</mdDateSt>
+	<mdStanName2>ISO19115:2003</mdStanName2>
+	<mdStanVer2>GISCO 1.2.0</mdStanVer2>
+	<dataSetURI>Server=anteater.cc.cec.eu.int; Service=port:5154; User=giscoread; Version=SDE.DEFAULT</dataSetURI>
+	<spatRepInfo>
+		<VectSpatRep><geometObjs Name="NUTS_SEPA_LI_2010"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<refSysInfo>
+		<refSysId>
+			<identCode>GCS_ETRS_1989</identCode>
+		</refSysId>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE" value="4258">GCS_ETRS_1989</identCode>
+				<idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">7.4.1</idVersion></refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>NUTS_SEPA_LI_2010</resTitle>
+			<resRefDate>
+				<refDate>20110708</refDate>
+				<refDateType>
+					<DateTypCd value="001"/>
+				</refDateType>
+			</resRefDate>
+			<resRefDate>
+				<refDate>20111206</refDate>
+				<refDateType>
+					<DateTypCd value="003"/>
+				</refDateType>
+			</resRefDate>
+			<resEd>2010</resEd>
+			<resEdDate>20111201</resEdDate>
+			<citRespParty>
+				<rpOrgName>Eurostat GISCO - European Commission</rpOrgName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>+352 4301 32076</voiceNum>
+						<faxNum>+352 4301 32029</faxNum>
+					</cntPhone>
+					<cntAddress>
+						<delPoint>5, rue Alphonse Weicker</delPoint>
+						<city>Luxembourg</city>
+						<adminArea>Luxembourg</adminArea>
+						<postCode>2920</postCode>
+						<eMailAdd>estat-gisco@ec.europa.eu</eMailAdd>
+						<country>lu</country>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpOrgName>Abaco Spa</rpOrgName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>+39 0376 222 181</voiceNum>
+						<faxNum>+39 0376 222 182</faxNum>
+					</cntPhone>
+					<cntAddress>
+						<delPoint>Corso Umberto I, 43</delPoint>
+						<city>Mantova</city>
+						<postCode>46100</postCode>
+						<eMailAdd>info@abacogroup.eu</eMailAdd>
+						<country>it</country>
+						<adminArea>Mantova</adminArea></cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="009"/>
+				</role>
+			</citRespParty>
+			<presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm><resRefDate><refDateType><DateTypCd value="002"></DateTypCd></refDateType><refDate></refDate></resRefDate><resAltTitle>NUTS_2010_SEPA_LI_2010</resAltTitle></idCitation>
+		<idAbs>When using this data set, it should be bibliographically referred to as 'GISCO NUTS 2010'. 
+The 'GISCO NUTS 2010' dataset represents the NUTS regions by means of region, arc and point topology. The NUTS geographical information is completed by attribute tables and a set of cartographic help lines to better visualize multipart polygonal regions.
+The NUTS nomenclature is a hierarchical classification of statistical regions defined by Eurostat. The NUTS classification subdivides the EU economic territory into 3 statistical levels.
+The Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) was enforced the 11 July 2003. This regulation provided the NUTS classification with a legal background.
+Since then, 12 new countries joined the European Union. The NUTS regulation was officially enforced in these 12 countries the day of their accession to the EU.
+A non official NUTS-like classification has been defined for the EFTA countries, Croatia, FYROM and Turkey. 
+For further information about the NUTS classification please check the RAMON Eurostat site at http://ec.europa.eu/comm/eurostat/ramon/nuts/home_regions_en.html
+At present, six scale ranges (100K, 1M, 3M, 10M and 20M, 60M) are maintained in the GISCO geodatabase. The polygon and boundary classes delineate the regions while the points provide a label for each region. Associated tables contain basic information such as the region's name.
+
+This feature class represents NUTS 2010 separators. A separator is a line to visually identify where the NUTS limits are in the archipelagos. Those separator lines divide the different NUTS areas from each other.</idAbs>
+		<idPurp>Data on administrative boundaries represent a fundamental element of almost any GIS. In the context of the GISCO information system, the NUTS boundaries data are a vital part of the geographic framework, providing means for registering data to regional territories. Equally, national and regional boundaries are essential components of the cartographic backdrop giving a recognisable geographic context to cartographic outputs.</idPurp>
+		<idStatus>completed</idStatus>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="010"/>
+			</maintFreq>
+		</resMaint>
+		<descKeys KeyTypCd="002">
+			<keyTyp>
+				<KeyTypCd value="002"/>
+			</keyTyp>
+			<keyword>European Union (EU27)</keyword>
+			<keyword>EFTA</keyword>
+			<keyword>Candidate Countries</keyword>
+		</descKeys>
+		<resConst>
+			<Consts>
+				<useLimit>This dataset has been created for cartographic purposes.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="001"/>
+				</accessConsts>
+				<useConsts>
+					<RestrictCd value="001"/>
+				</useConsts>
+				<othConsts>Usage of data is public</othConsts>
+				<othConsts>Source shall be acknowledged: "Source: GISCO - Eurostat (European Commission)"</othConsts>
+			</LegConsts>
+		</resConst>
+		<spatRpType>
+			<spatRepTypCd value="001"/>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType>
+		<dataScale>
+			<equScale>
+				<rfDenom>100000</rfDenom>
+			</equScale>
+		</dataScale>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.5.4400</envirDesc><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-16.221817</westBL><eastBL Sync="TRUE">29.655893</eastBL><northBL Sync="TRUE">68.926192</northBL><southBL Sync="TRUE">29.861299</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle><tempEle><TempExtent><exTemp><TM_GeometricPrimitive><TM_Period><begin></begin><end></end></TM_Period></TM_GeometricPrimitive></exTemp></TempExtent></tempEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-16.221817</westBL><eastBL Sync="TRUE">29.655893</eastBL><northBL Sync="TRUE">68.926192</northBL><southBL Sync="TRUE">29.861299</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><dataLang><languageCode value="multiple"></languageCode><countryCode value="GBR" Sync="TRUE"></countryCode></dataLang><tpCat><TopicCatCd value="03"></TopicCatCd></tpCat><descKeys KeyTypCd="005"><keyTyp><KeyTypCd value="005"></KeyTypCd></keyTyp><keyword>NUTS</keyword><keyword>Statistical Regions</keyword></descKeys><descKeys KeyTypCd="005"><keyTyp><KeyTypCd value="005"></KeyTypCd></keyTyp><thesaName><resTitle>Directive 20007/.../EC/ of the European parliament and of the Council of establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)</resTitle><resRefDate><refDate>20070314</refDate><refDateType><DateTypCd value="002"></DateTypCd></refDateType></resRefDate></thesaName><keyword>Administrative units</keyword><keyword>Area Management/restriction/regulation zones and reporting units</keyword><keyword>Statistical units</keyword></descKeys><idPoC Sync="TRUE"><rpOrgName Sync="TRUE">Eurostat GISCO - European Commission</rpOrgName><rpCntInfo><cntPhone><voiceNum Sync="TRUE">+352 4301 32076</voiceNum><faxNum Sync="TRUE">+352 4301 32029</faxNum></cntPhone><cntAddress><delPoint Sync="TRUE">5, rue Alphonse Weicker</delPoint><city Sync="TRUE">Luxembourg</city><adminArea Sync="TRUE">Luxembourg</adminArea><postCode Sync="TRUE">2920</postCode><country Sync="TRUE">lu</country><eMailAdd Sync="TRUE">estat-gisco@ec.europa.eu</eMailAdd></cntAddress></rpCntInfo><role><RoleCd Sync="TRUE" value="007"></RoleCd></role></idPoC></dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Eurostat GISCO - European Commission</rpOrgName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>+352 4301 32076</voiceNum>
+						<faxNum>+352 4301 32029</faxNum>
+					</cntPhone>
+					<cntAddress>
+						<delPoint>5, rue Alphonse Weicker</delPoint>
+						<city>Luxembourg</city>
+						<adminArea>Luxembourg</adminArea>
+						<postCode>2920</postCode>
+						<eMailAdd>estat-gisco@ec.europa.eu</eMailAdd>
+						<country>lu</country>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<ordInstr>Address to the point of contact specified in this metadata</ordInstr>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName Sync="TRUE">File Geodatabase Feature Class</formatName>
+				<formatVer>9.3.1</formatVer>
+			</distorFormat>
+			<distorTran>
+				<offLineMed>
+				</offLineMed>
+				<onLineSrc><linkage>file://\\ABACOPORT-PC\C\Condivisa\work\EUROSTAT\work\SC3\ACT_2\work\SC3_A2_GENERALISATION.gdb</linkage><orFunct><OnFunctCd value="001"></OnFunctCd></orFunct><orDesc Sync="TRUE">002</orDesc><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran>
+		</distributor>
+		<distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo>
+	<dqInfo>
+		<dataLineage>
+			<statement>This dataset (together with the other datasets: NUTS_2010, CNTR_2010, COMM_2010, EEZ_2010 and COAS_2010) is based on geometry of EBM_v5 of EuroGeographics on commune level with a resolution of 30m (scale 1:100.000) enriched with some other datasources like  Gaul 2008  country data and ArcWorld data.
+This resulted in a common repository of geometry of which the different datasets were derived. The different scale levels were derived of generalizations of the common repository on 100K scale. This means that within each scale level the feature classes of all these datasets: COMM_2010, NUTS_2010, CNTR_2010 and COAS_2010, are fully coherent and compliant.
+The NUTS_2010 dataset consists of 3 feature classes (regions labels and boundaries) per scale level (100k, 1M, 3M, 10M, 20M, 60M).
+The boundaries and regions are related to each other through a relationship table.
+ The 5 small scale feature classes should be used exclusively for cartographic purposes.
+Apart from the 12 above mentioned feature classes there is also a label feature class (scale independent). This labelpoint feature class was created with a label inside each NUTS region at the 4 NUTS levels (0 - 3).
+In addition two line feature classes were created: one feature class for cartograhic joiners to identify where NUTS areas have one or more enclaves and a second line feature class for cartographic separators, to identify where the NUTS limits are in the archipelagos. The arcs of two latter feature classes are only useful for cartographic purposes and are not meant to identify actual administrative or statistical boundaries stretching into the sea or any other significance.</statement>
+			<prcStep>
+				<description>Cartographic separators used for aiding the cartographic representation of NUTS 2003 (version 9) were updated to reflect the exclaves of NUTS 2010.
+
+All separators were edited or created in ETRS 1989 LAEA as this is the most likely projection used for display of the feature classes.
+
+To enable an efficient editorial process, a number of pre-processes were performed to the NUTS level 3 boundaries to extract multi-polygon regions to a separate layer.
+
+Separators were manually checked for each country in turn directly within the GIS environment. They were edited/created according to the following guidelines:
+
+"	Separators will only be added in the sea.
+"	Separators should not cross other separators or joiners.
+"	Separators will be added only where it is not clear (i.e. where a user of the cartographic representation of the NUTS data could not easily guess which region an exclave belongs to).
+"	No separators will be added to separate overseas territories from mainland Europe.
+
+All separators were attributed to reflect the validity of the arcs at NUTS level 3.
+
+The process was repeated for NUTS Level 2. New separators were created that are applicable at NUTS level 2, which were not applicable at NUTS level 3, and attributed accordingly.
+
+The process was repeated for NUTS level 1 and then at country level.
+A new field, "MIN_SCAL", was added to the cartographic separators and filled with the minimum scale at which the cartographic line should be used.</description>
+			</prcStep>
+			<dataSource>
+				<srcDesc>Digitized by Lovell Johns</srcDesc>
+			</dataSource>
+		</dataLineage>
+		<DQConcConsis>
+			<measName>Completeness of Dataset</measName>
+			<measId>
+				<identAuth>
+					<resTitle></resTitle>
+					<resRefDate>
+					</resRefDate>
+				</identAuth>
+				<identCode></identCode>
+			</measId>
+			<measDesc>All feature classes, attribute tables and relationship classes should be present</measDesc>
+			<evalMethType></evalMethType>
+			<evalMethDesc>Re-application of schema to dataset</evalMethDesc>
+			<evalProc>
+				<resTitle></resTitle>
+				<resRefDate>
+				</resRefDate>
+			</evalProc>
+			<measDateTm>20111201</measDateTm>
+			<ConResult>
+				<conExpl>All feature classes, attribute tables and relationship classes are present</conExpl>
+				<conPass>true</conPass>
+				<conSpec><resTitle></resTitle><resRefDate><refDateType><DateTypCd value="[invalid date type]"></DateTypCd></refDateType><refDate></refDate></resRefDate></conSpec></ConResult>
+		</DQConcConsis>
+		<DQDomConsis>
+			<measName>Referential Integrity of Dataset</measName>
+			<measId>
+				<identAuth>
+					<resTitle></resTitle>
+					<resRefDate>
+					</resRefDate>
+				</identAuth>
+				<identCode></identCode>
+			</measId>
+			<measDesc>The integrity and cardinality of the relationships (conceptual and implemented) was checked by enforcing primary and foreign key integrity constraints in Oracle. The constraints referencing coded value domain tables were a test of domain consistency.</measDesc>
+			<evalMethType></evalMethType>
+			<evalMethDesc>Errors will show during creation of integrity constraints in Oracle. Constraints will not be applicable in case of violations to the consistency.</evalMethDesc>
+			<evalProc>
+				<resTitle></resTitle>
+				<resRefDate>
+				</resRefDate>
+			</evalProc>
+			<measDateTm>20111201</measDateTm>
+			<ConResult>
+				<conExpl>No errors occurred, so the integrity of all primary and foreign keys was confirmed. All the values of each coded value attribute are compliant to the domains (except for any NULL values). The cardinality can only be confirmed where it is strict enough for this test to detect errors.</conExpl>
+				<conPass>true</conPass>
+				<conSpec><resTitle></resTitle><resRefDate><refDateType><DateTypCd value="[invalid date type]"></DateTypCd></refDateType><refDate></refDate></resRefDate></conSpec></ConResult>
+		</DQDomConsis>
+		<DQTopConsis>
+			<measName>Consistency of cartographic separators with NUTS regions.</measName>
+			<measId>
+				<identAuth>
+					<resTitle></resTitle>
+					<resRefDate>
+					</resRefDate>
+				</identAuth>
+				<identCode></identCode>
+			</measId>
+			<measDesc>Separators must not overlap NUTS regions.</measDesc>
+			<evalMethType></evalMethType>
+			<evalMethDesc>Select by location</evalMethDesc>
+			<evalProc>
+				<resTitle></resTitle>
+				<resRefDate>
+				</resRefDate>
+			</evalProc>
+			<measDateTm>20111201</measDateTm>
+			<ConResult>
+				<conExpl>No real topology errors identified. See QC report.</conExpl>
+				<conPass>true</conPass>
+				<conSpec><resTitle></resTitle><resRefDate><refDateType><DateTypCd value="[invalid date type]"></DateTypCd></refDateType><refDate></refDate></resRefDate></conSpec></ConResult>
+		</DQTopConsis>
+		<dqScope><scpLvl>other</scpLvl></dqScope></dqInfo>
+	<legislationInfo>
+		<title>
+			<resTitle>Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS)</resTitle>
+			<resRefDate>
+				<refDate>20030711</refDate>
+				<refDateType>publication</refDateType>
+			</resRefDate>
+			<identifierType></identifierType></title>
+		<countryOrOtherEntity></countryOrOtherEntity>
+		<internalReference></internalReference>
+		<legislationType>euRegulation</legislationType>
+	</legislationInfo>
+	<MdCoRefSys>
+		<ellipsoid>
+			<identCode>Geodetic Reference System 80</identCode>
+		</ellipsoid>
+		<datum>
+			<identCode>D_ETRS_1989</identCode>
+		</datum>
+		<ellParas>
+			<axisUnits>Degrees</axisUnits>
+			<semiMajAx>6378137.000000</semiMajAx>
+			<denFlatRat>298.257222</denFlatRat>
+		</ellParas>
+	</MdCoRefSys>
+	<eainfo>
+		<detailed Name="NUTS_SEPA_LI_2010">
+			<enttyp>
+				<enttypl Sync="TRUE">NUTS_SEPA_LI_2010</enttypl>
+				<enttypd>NUTS 2010 separators, arc topology. 
+
+A separator is a line to visually group or divide sea areas into regions. A separator are not meant to represent administrative boundaries. Separators are designed only for cartographic purposes.</enttypd>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attrlabl>MIN_SCAL</attrlabl>
+				<attrdef>Minimum cartographic display scale of NUTS separator. This is consistent with the different scale versions of NUTS 2010.</attrdef>
+				<attrdefs>GISCO</attrdefs>
+				<attwidth Sync="TRUE">9</attwidth>
+				<atprecis Sync="TRUE">9</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">MIN_SCAL</attalias></attr>
+			<attr>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">Shape</attalias><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr>
+			<attr>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attrlabl>CNTR_CODE</attrlabl>
+				<attrdef>Country code (ISO-3166-1). Not populated if separator valid at NUTS Level 0. Conceptual foreign key to CNTR_AT.</attrdef>
+				<attrdefs>GISCO</attrdefs>
+				<attwidth Sync="TRUE">3</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">CNTR_CODE</attalias></attr>
+			<subtype><stname Sync="TRUE">NUTS1</stname><stcode Sync="TRUE">1</stcode><stfield><stfldnm Sync="TRUE">STAT_LEVL_CODE</stfldnm><stflddv Sync="TRUE">1</stflddv></stfield></subtype><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><subtype><stname Sync="TRUE">Country</stname><stcode Sync="TRUE">0</stcode><stfield><stfldnm Sync="TRUE">STAT_LEVL_CODE</stfldnm><stflddv Sync="TRUE">0</stflddv></stfield></subtype><attr><attrlabl Sync="TRUE">NUTS_SEPA_</attrlabl><attalias Sync="TRUE">NUTS_SEPA_</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">STAT_LEVL_</attrlabl><attalias Sync="TRUE">STAT_LEVL_</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">9</attwidth><atprecis Sync="TRUE">9</atprecis><attscale Sync="TRUE">0</attscale></attr><subtype><stname Sync="TRUE">NUTS3</stname><stcode Sync="TRUE">3</stcode><stfield><stfldnm Sync="TRUE">STAT_LEVL_CODE</stfldnm><stflddv Sync="TRUE">3</stflddv></stfield></subtype><subtype><stname Sync="TRUE">NUTS2</stname><stcode Sync="TRUE">2</stcode><stfield><stfldnm Sync="TRUE">STAT_LEVL_CODE</stfldnm><stflddv Sync="TRUE">2</stflddv></stfield></subtype><attr><attrlabl Sync="TRUE">SHAPE_Leng</attrlabl><attalias Sync="TRUE">SHAPE_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+	</eainfo>
+	<idinfo><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native><descript><langdata Sync="TRUE">en</langdata><abstract>REQUIRED: A brief narrative summary of the data set.</abstract><purpose>REQUIRED: A summary of the intentions with which the data set was developed.</purpose></descript><citation><citeinfo><title Sync="TRUE">GISCO.NUTS_SEPA_LI_2010</title><ftname Sync="TRUE">GISCO.NUTS_SEPA_LI_2010</ftname><geoform Sync="TRUE">vector digital data</geoform><onlink Sync="TRUE">Server=salvia.cc.cec.eu.int; Service=port:5153; User=gisco; Version=SDE.DEFAULT</onlink><origin>REQUIRED: The name of an organization or individual that developed the data set.</origin><pubdate>REQUIRED: The date when the data set is published or otherwise made available for release.</pubdate></citeinfo></citation><natvform Sync="TRUE">SDE Feature Class</natvform><spdom><lboundng><leftbc Sync="TRUE">-16.221817</leftbc><rightbc Sync="TRUE">29.655893</rightbc><bottombc Sync="TRUE">29.861299</bottombc><topbc Sync="TRUE">68.926192</topbc></lboundng><bounding><westbc Sync="TRUE">-16.221817</westbc><eastbc Sync="TRUE">29.655893</eastbc><northbc Sync="TRUE">68.926192</northbc><southbc Sync="TRUE">29.861299</southbc></bounding></spdom><timeperd><current>REQUIRED: The basis on which the time period of content information is determined.</current><timeinfo><sngdate><caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate></sngdate></timeinfo></timeperd><status><progress>REQUIRED: The state of the data set.</progress><update>REQUIRED: The frequency with which changes and additions are made to the data set after the initial data set is completed.</update></status><keywords><theme><themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt><themekey>REQUIRED: Common-use word or phrase used to describe the subject of the data set.</themekey></theme></keywords><accconst>REQUIRED: Restrictions and legal prerequisites for accessing the data set.</accconst><useconst>REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.</useconst></idinfo><metainfo><langmeta Sync="TRUE">en</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metd Sync="TRUE">20120319</metd><metc><cntinfo><cntorgp><cntper>REQUIRED: The person responsible for the metadata information.</cntper><cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg></cntorgp><cntaddr><addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype><city>REQUIRED: The city of the address.</city><state>REQUIRED: The state or province of the address.</state><postal>REQUIRED: The ZIP or other postal code of the address.</postal></cntaddr><cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice></cntinfo></metc></metainfo><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distinfo><resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="3" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo><spref><horizsys><cordsysn><geogcsn Sync="TRUE">GCS_ETRS_1989</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph><geodetic><horizdn Sync="TRUE">D_ETRS_1989</horizdn><ellips Sync="TRUE">Geodetic Reference System 80</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257222</denflat></geodetic></horizsys><vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">1.000000</altres></altsys></vertdef></spref><Esri><SyncDate>20150530</SyncDate><SyncTime>14131200</SyncTime><ModDate>20150530</ModDate><ModTime>14131200</ModTime><CreaDate>20150522</CreaDate><CreaTime>21582800</CreaTime><SyncOnce>FALSE</SyncOnce><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>GISCO Metadata Editor 2012</ArcGISstyle><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\L02DI1308623\C$\Temp\2015-MAY-NUTS_2010_Scottish_islands_update\NUTS_2010_03M_SH\Data\NUTS_SEPA_LI_2010.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemName Sync="TRUE">NUTS_SEPA_LI_2010</itemName><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize></itemProps><lineage><Process Name="Delete Features" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteFeatures" Date="20121128" Time="165626">DeleteFeatures Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20121128" Time="170241">Append 'J:\users\diegoce\Specific convention\Specific convention 08\02 AB generalisatons\Final delivery v1.3\SC3_A2_GENERALISATION(12_09_2012).gdb\NUTS_2010\NUTS_SEPA_LI_2010' Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010 TEST # #</Process><Process Name="Delete Features" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteFeatures" Date="20130220" Time="095306">DeleteFeatures Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20130220" Time="095312">Append J:\develop\Database-Updates\NUTS_Croatia.gdb\NUTS_2010\NUTS_SEPA_LI_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010 TEST # #</Process><Process Name="Delete Features" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteFeatures" Date="20130514" Time="155315">DeleteFeatures Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20130514" Time="155321">Append J:\users\harromi\NUTS_Changes\Errors\NUTS.gdb\NUTS_2010\NUTS_SEPA_LI_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010 TEST # #</Process><Process Name="Delete Features" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteFeatures" Date="20130603" Time="173536">DeleteFeatures Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20130603" Time="173542">Append J:\develop\Database-Updates\NUTS.gdb\NUTS_2010\NUTS_SEPA_LI_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010 TEST # #</Process><Process Name="Delete Features" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteFeatures" Date="20130705" Time="120116">DeleteFeatures Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20130705" Time="120124">Append J:\develop\Database-Updates\Croatia_acsession\NUTS_2010.gdb\NUTS_2010\NUTS_SEPA_LI_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010 TEST # #</Process><Process Name="Delete Features" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteFeatures" Date="20140709" Time="142943">DeleteFeatures Y:\PROD\PROD-SDE-GISCO.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010</Process><Process Name="Append" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20140709" Time="142951">Append J:\develop\Database-Updates\CNTR_AT.gdb\NUTS_2010\NUTS_SEPA_LI_2010 Y:\PROD\PROD-SDE-GISCO.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010 TEST # #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\ChangePrivileges" Date="20141202" Time="115620">ChangePrivileges \\s-tpol\connection-files\PROD\PROD-SDE-GISCO.sde\NUTS_SEPA_LI_2010 giscoread GRANT AS_IS</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20150522" Time="130432">CopyFeatures \\s-tpol\connection-files\PROD\PROD-DIRECT-GISCOVIEW-ARCESTP-11g.sde\GISCO.NUTS_2010\GISCO.NUTS_SEPA_LI_2010 J:\develop\Database-Updates\CNTR_and_NUTS_db_updates_for_GISCO\2015-MAY-NUTS_2010_Scottish_islands_update\NUTS_2010.gdb\NUTS_SEPA_LI_2010 # 0 0 0</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20150530" Time="141312">CopyFeatures C:\Temp\2015-MAY-NUTS_2010_Scottish_islands_update\NUTS_2010_03M_PGDB\data\NUTS_2010_03M.mdb\NUTS_SEPA_LI_2010 C:\Temp\2015-MAY-NUTS_2010_Scottish_islands_update\NUTS_2010_03M_SH\Data\NUTS_SEPA_LI_2010.shp # 0 0 0</Process></lineage><coordRef><type Sync="TRUE">Geographic</type><geogcsn Sync="TRUE">GCS_ETRS_1989</geogcsn><csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits><peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.0'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_ETRS_1989&amp;quot;,DATUM[&amp;quot;D_ETRS_1989&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4258]]&lt;/WKT&gt;&lt;XOrigin&gt;-399.99999999999989&lt;/XOrigin&gt;&lt;YOrigin&gt;-399.99999999999989&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.24&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952117e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4258&lt;/WKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml></coordRef></DataProperties></Esri><dataqual><lineage><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Server=anteater.cc.cec.eu.int; Service=port:5154; User=gisco; Version=SDE.DEFAULT</srcused><procdate Sync="TRUE">20090217</procdate><proctime Sync="TRUE">11180800</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\D02DI0616275\E\WorkSpace\GISCODBBackups\20090216_FULL_DEV_BeforeReinstall_RasterIncluded\20090216_DEV.gdb</srcused><procdate Sync="TRUE">20090221</procdate><proctime Sync="TRUE">06245600</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">J:\develop\metadata\20091125-DEV-Contract5\GISCO.NUTS_2010.GISCO.NUTS_SEPA_LI_2010.xml</srcused><procdate Sync="TRUE">20091126</procdate><proctime Sync="TRUE">10302900</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Service=sde:oracle10g; User=gisco; Version=SDE.DEFAULT</srcused><procdate Sync="TRUE">20100210</procdate><proctime Sync="TRUE">10040900</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Condivisa\work\EUROSTAT\work\SC3\ACT_2\docs\TASKDESCRIPTION\metadati\final\New\NUTS_SEPA_LI_2006.xml</srcused><procdate Sync="TRUE">20111213</procdate><proctime Sync="TRUE">09435500</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Condivisa\work\EUROSTAT\work\SC3\ACT_2\docs\TASKDESCRIPTION\metadati\final\New\NUTS_SEPA_LI_2010.xml</srcused><procdate Sync="TRUE">20111213</procdate><proctime Sync="TRUE">09573800</proctime></procstep></lineage></dataqual><mdResourceType></mdResourceType><mdURI></mdURI><editorCustomization version="v1.1.4"></editorCustomization></metadata>

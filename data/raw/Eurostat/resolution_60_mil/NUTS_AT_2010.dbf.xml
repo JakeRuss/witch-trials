@@ -1,0 +1,290 @@
+<metadata>
+	<mdFileID>{E6E53BDA-4B88-48FA-AE2B-518E930143BD}</mdFileID>
+	<mdLang>
+		<languageCode value="en">
+		</languageCode>
+		<countryCode value="GBR" Sync="TRUE"></countryCode></mdLang>
+	<mdChar Sync="TRUE">
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdParentID></mdParentID>
+	<mdHrLv2>attribute</mdHrLv2>
+	<mdHrLvName2>Geodatabase attribute table</mdHrLvName2>
+	<mdDateSt Sync="TRUE">20150530</mdDateSt>
+	<mdStanName2>ISO19115:2003</mdStanName2>
+	<mdStanVer2>GISCO 1.2.0</mdStanVer2>
+	<dataSetURI>Server=anteater.cc.cec.eu.int; Service=port:5154; User=giscoread; Version=SDE.DEFAULT</dataSetURI>
+	<refSysInfo>
+		<refSysId>
+			<identCode>ETRS89</identCode>
+		</refSysId>
+		<RefSystem>
+			<refSysID>
+				<identCode>ETRS89</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>NUTS attribute table 2010</resTitle>
+			<resRefDate>
+				<refDate>20110707</refDate>
+				<refDateType>
+					<DateTypCd value="001"/>
+				</refDateType>
+			</resRefDate>
+			<resRefDate>
+				<refDate>20111201</refDate>
+				<refDateType>
+					<DateTypCd value="003"/>
+				</refDateType>
+			</resRefDate>
+			<resEd>2010</resEd>
+			<resEdDate>20110707</resEdDate>
+			<citRespParty>
+				<rpOrgName>Eurostat GISCO - European Commission</rpOrgName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>+352 4301 32076</voiceNum>
+						<faxNum>+352 4301 32029</faxNum>
+					</cntPhone>
+					<cntAddress>
+						<delPoint>5, rue Alphonse Weicker</delPoint>
+						<city>Luxembourg</city>
+						<adminArea>Luxembourg</adminArea>
+						<postCode>2920</postCode>
+						<eMailAdd>estat-gisco@ec.europa.eu</eMailAdd>
+						<country>lu</country>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpOrgName>Abaco Spa</rpOrgName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>+39 0376 222 181</voiceNum>
+						<faxNum>+39 0376 222 182</faxNum>
+					</cntPhone>
+					<cntAddress>
+						<delPoint>Corso Umberto I, 43</delPoint>
+						<city>Mantova</city>
+						<postCode>46100</postCode>
+						<eMailAdd>info@abacogroup.eu</eMailAdd>
+						<country>it</country>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="009"/>
+				</role>
+			</citRespParty>
+			<resAltTitle>GISCO.NUTS_AT_2010</resAltTitle><resRefDate><refDateType><DateTypCd value="002"></DateTypCd></refDateType><refDate></refDate></resRefDate><presForm><PresFormCd value="011" Sync="TRUE"></PresFormCd></presForm></idCitation>
+		<idAbs>Attribute table for the region feature class of the GISCO NUTS 2010 dataset containing the names of the NUTS regions for the NUTS levels 0 to 3.
+The 'GISCO NUTS 2010' dataset represents the NUTS regions by means of region, arc and point topology. The NUTS geographical information is completed by attribute tables and a set of cartographic help lines to better visualise multipart polygonal regions.
+
+The NUTS nomenclature is a hierarchical classification of statistical regions defined by Eurostat. The NUTS classification subdivides the EU economic territory into 3 statistical levels.
+The Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) was enforced the 11 July 2003. This regulation provided the NUTS classification with a legal background.
+Since then, 12 new countries joined the European Union. The NUTS regulation was officially enforced in these 12 countries the day of their accession to the EU.
+A non official NUTS-like classification has been defined for the EFTA countries, Croatia and Turkey. 
+For further information about the NUTS classification please check the RAMON Eurostat site at http://ec.europa.eu/comm/eurostat/ramon/nuts/home_regions_en.html
+At present, six scale ranges (100K, 1M, 3M, 10M and 20M, 60M) are maintained in the GISCO geodatabase. The polygon and boundary classes delineate the regions while the points provide a label for each region. Associated tables contain basic information such as the region's name.</idAbs>
+		<idPurp>Data on administrative boundaries represent a fundamental element of almost any GIS. In the context of the GISCO information system, the NUTS boundaries data are a vital part of the geographic framework, providing means for registering data to regional territories. Equally, national and regional boundaries are essential components of the cartographic backdrop giving a recognisable geographic context to cartographic outputs.</idPurp>
+		<idStatus>completed</idStatus>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="010"/>
+			</maintFreq>
+		</resMaint>
+		<descKeys KeyTypCd="002">
+			<keyTyp>
+				<KeyTypCd value="002"/>
+			</keyTyp>
+			<keyword>European Union (EU27)</keyword>
+			<keyword>EFTA</keyword>
+			<keyword>Candidate Countries</keyword>
+		</descKeys>
+		<resConst>
+			<Consts>
+				<useLimit>The datasets have been created for cartographic purposes.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Usage of data is public</othConsts>
+			</LegConsts>
+		</resConst>
+		<spatRpType>
+			<spatRepTypCd value="003"/>
+			<SpatRepTypCd value="003" Sync="TRUE"></SpatRepTypCd></spatRpType>
+		<dataScale>
+			<equScale>
+				<rfDenom>100000</rfDenom>
+			</equScale>
+		</dataScale>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.5.4400</envirDesc><dataLang><languageCode value="multiple"></languageCode><countryCode value="GBR" Sync="TRUE"></countryCode></dataLang><tpCat><TopicCatCd value="03"></TopicCatCd></tpCat><dataExt><tempEle><TempExtent><exTemp><TM_GeometricPrimitive><TM_Period><begin></begin><end></end></TM_Period></TM_GeometricPrimitive></exTemp></TempExtent></tempEle></dataExt><idPoC Sync="TRUE"><rpOrgName Sync="TRUE">Eurostat GISCO - European Commission</rpOrgName><rpCntInfo><cntPhone><voiceNum Sync="TRUE">+352 4301 32076</voiceNum><faxNum Sync="TRUE">+352 4301 32029</faxNum></cntPhone><cntAddress><delPoint Sync="TRUE">5, rue Alphonse Weicker</delPoint><city Sync="TRUE">Luxembourg</city><adminArea Sync="TRUE">Luxembourg</adminArea><postCode Sync="TRUE">2920</postCode><country Sync="TRUE">lu</country><eMailAdd Sync="TRUE">estat-gisco@ec.europa.eu</eMailAdd></cntAddress></rpCntInfo><role><RoleCd Sync="TRUE" value="007"></RoleCd></role></idPoC><descKeys KeyTypCd="005"><keyTyp><KeyTypCd value="005"></KeyTypCd></keyTyp><thesaName><resTitle>Directive 20007/.../EC/ of the European parliament and of the Council of establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)</resTitle><resRefDate><refDate>20070314</refDate><refDateType><DateTypCd value="002"></DateTypCd></refDateType></resRefDate></thesaName><keyword>Administrative units</keyword><keyword>Area Management/restriction/regulation zones and reporting units</keyword><keyword>Statistical units</keyword></descKeys></dataIdInfo>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Eurostat GISCO - European Commission</rpOrgName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>+352 4301 32076</voiceNum>
+						<faxNum>+352 4301 32029</faxNum>
+					</cntPhone>
+					<cntAddress>
+						<delPoint>5, rue Alphonse Weicker</delPoint>
+						<city>Luxembourg</city>
+						<adminArea>Luxembourg</adminArea>
+						<postCode>2920</postCode>
+						<eMailAdd>estat-gisco@ec.europa.eu</eMailAdd>
+						<country>lu</country>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<ordInstr>Address to the point of contact specified in this metadata</ordInstr>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName Sync="TRUE">File Geodatabase Table</formatName>
+				<formatVer>9.3.1</formatVer>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc><linkage>file://\\ABACOPORT-PC\C\Condivisa\work\EUROSTAT\work\SC3\ACT_2\work\SC3_A2_GENERALISATION.gdb</linkage><orFunct><OnFunctCd value="001"></OnFunctCd></orFunct><orDesc Sync="TRUE">002</orDesc><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran>
+		</distributor>
+		<distFormat><formatName Sync="TRUE">dBASE Table</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo>
+	<dqInfo>
+		<dataLineage>
+			<statement>This table was processed at Eurostat and does not involve any geometry processing.</statement>
+			<prcStep>
+				<description>The received input table NUTS_AT_2010 in MSAccess format (Eurostat) could be loaded directly into the empty table schema in ArcGIS through the simple dataloader in ArcCatalog.</description>
+			</prcStep>
+			<dataSource>
+				<srcDesc>(i) NUTS nomenclature supplied by EUROSTAT - Regional Statistics.</srcDesc>
+			</dataSource>
+		</dataLineage>
+		<DQConcConsis>
+			<measName>Completeness of Dataset</measName>
+			<measId>
+				<identAuth>
+					<resTitle></resTitle>
+					<resRefDate>
+					</resRefDate>
+				</identAuth>
+				<identCode></identCode>
+			</measId>
+			<measDesc>All feature classes, attribute tables and relationship classes should be present</measDesc>
+			<evalMethType></evalMethType>
+			<evalMethDesc>Re-application of schema to dataset</evalMethDesc>
+			<evalProc>
+				<resTitle></resTitle>
+				<resRefDate>
+				</resRefDate>
+			</evalProc>
+			<measDateTm>20111201</measDateTm>
+			<ConResult>
+				<conExpl>All feature classes, attribute tables and relationship classes are present</conExpl>
+				<conPass>true</conPass>
+				<conSpec><resTitle></resTitle><resRefDate><refDateType><DateTypCd value="[invalid date type]"></DateTypCd></refDateType><refDate></refDate></resRefDate></conSpec></ConResult>
+		</DQConcConsis>
+		<DQDomConsis>
+			<measName>Referential Integrity of Dataset</measName>
+			<measId>
+				<identAuth>
+					<resTitle></resTitle>
+					<resRefDate>
+					</resRefDate>
+				</identAuth>
+				<identCode></identCode>
+			</measId>
+			<measDesc>The integrity and cardinality of the relationships (conceptual and implemented) was checked by enforcing primary and foreign key integrity constraints in Oracle. The constraints referencing coded value domain tables were a test of domain consistency.</measDesc>
+			<evalMethType></evalMethType>
+			<evalMethDesc></evalMethDesc>
+			<evalProc>
+				<resTitle></resTitle>
+				<resRefDate>
+				</resRefDate>
+			</evalProc>
+			<measDateTm>20111201</measDateTm>
+			<ConResult>
+				<conExpl>No errors occurred, so the integrity of all primary and foreign keys was confirmed. All the values of each coded value attribute are compliant to the domains (except for any NULL values). The cardinality can only be confirmed where it is strict enough for this test to detect errors.</conExpl>
+				<conPass>true</conPass>
+				<conSpec><resTitle></resTitle><resRefDate><refDateType><DateTypCd value="[invalid date type]"></DateTypCd></refDateType><refDate></refDate></resRefDate></conSpec></ConResult>
+		</DQDomConsis>
+		<dqScope><scpLvl>attribute</scpLvl></dqScope></dqInfo>
+	<eainfo>
+		<detailed Name="NUTS_AT_2010">
+			<enttyp>
+				<enttypl>NUTS_AT_2010</enttypl>
+				<enttypd>NUTS attribute table 2010</enttypd>
+				<enttypt Sync="TRUE">Table</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">OID</attrlabl><attalias Sync="TRUE">OID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attrlabl>NUTS_ID</attrlabl>
+				<attrdef>NUTS ReGion Identifier
+
+This attribute contains the regional NUTS codes made up of 5,4,3 or 2 characters. As the NUTS code is hierarchical, the subsequent attributes, indicating level 0 to 2, are derived from the complete NUTS code by taking res. the first 2, 3 or 4 characters (this is the PK which can be used to relate to the NUTS label feature class and NUTS region feature class)</attrdef>
+				<attrdefs>GISCO</attrdefs>
+				<attwidth Sync="TRUE">7</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">NUTS_ID</attalias></attr>
+			<attr>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attrlabl>CNTR_CODE</attrlabl>
+				<attrdef>Country Code (2 character ISO-code for countries)</attrdef>
+				<attrdefs>GISCO</attrdefs>
+				<attwidth Sync="TRUE">3</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">CNTR_CODE</attalias></attr>
+			<attr>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attrlabl>NUTS_NAME</attrlabl>
+				<attrdef>NUTS Region Name in native language</attrdef>
+				<attrdefs>GISCO</attrdefs>
+				<attwidth Sync="TRUE">150</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">NUTS_NAME</attalias></attr>
+			<attr>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attrlabl>NAME_LATN</attrlabl>
+				<attrdef>NUTS Region Name in native language converted to  the Latin character set</attrdef>
+				<attrdefs>GISCO</attrdefs>
+				<attwidth Sync="TRUE">150</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">NAME_LATN</attalias></attr>
+			<attr>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attrlabl>NAME_ASCI</attrlabl>
+				<attrdef>NUTS Region Name in native language converted to  ASCII-7 character set</attrdef>
+				<attrdefs>GISCO</attrdefs>
+				<attwidth Sync="TRUE">150</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">NAME_ASCI</attalias></attr>
+			<attr>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attrlabl>NAME_HTML</attrlabl>
+				<attrdef>NUTS Region Name in native language in HTML encoding</attrdef>
+				<attrdefs>GISCO</attrdefs>
+				<attwidth Sync="TRUE">225</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attalias Sync="TRUE">NAME_HTML</attalias></attr>
+		</detailed>
+	</eainfo>
+	<Esri><CreaDate>20150522</CreaDate><CreaTime>21581400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20150530</SyncDate><SyncTime>14141000</SyncTime><ModDate>20150530</ModDate><ModTime>14141000</ModTime><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\TableToTable" Date="20110615" Time="114311">TableToTable C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\Activity1\SC3_A1_Adm_Boundaries(final).gdb\NUTS_AT_2010 "C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\COMM_PLUS\FINAL_DB\QC\New File Geodatabase.gdb" NUTS_AT_2010 # "NUTS_ID 'NUTS_ID' true true false 7 Text 0 0 ,First,#,C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\Activity1\SC3_A1_Adm_Boundaries(final).gdb\NUTS_AT_2010,NUTS_ID,-1,-1;CNTR_CODE 'CNTR_CODE' true true false 3 Text 0 0 ,First,#,C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\Activity1\SC3_A1_Adm_Boundaries(final).gdb\NUTS_AT_2010,CNTR_CODE,-1,-1;NUTS_NAME 'NUTS_NAME' true true false 150 Text 0 0 ,First,#,C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\Activity1\SC3_A1_Adm_Boundaries(final).gdb\NUTS_AT_2010,NUTS_NAME,-1,-1;NAME_LATN 'NAME_LATN' true true false 150 Text 0 0 ,First,#,C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\Activity1\SC3_A1_Adm_Boundaries(final).gdb\NUTS_AT_2010,NAME_LATN,-1,-1;NAME_ASCI 'NAME_ASCI' true true false 150 Text 0 0 ,First,#,C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\Activity1\SC3_A1_Adm_Boundaries(final).gdb\NUTS_AT_2010,NAME_ASCI,-1,-1;NAME_HTML 'NAME_HTML' true true false 225 Text 0 0 ,First,#,C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\Activity1\SC3_A1_Adm_Boundaries(final).gdb\NUTS_AT_2010,NAME_HTML,-1,-1" # "C:\Condivisa\work\EUROSTAT\work\SC3\ACT_1\COMM_PLUS\FINAL_DB\QC\New File Geodatabase.gdb\NUTS_AT_2010"</Process><Process Name="Delete Rows" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20121129" Time="101850">DeleteRows Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process Name="Delete Rows" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20121129" Time="103120">DeleteRows Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20121129" Time="104017">Append 'J:\users\diegoce\Specific convention\Specific convention 08\02 AB generalisatons\Final delivery v1.3\SC3_A2_GENERALISATION(12_09_2012).gdb\NUTS_AT_2010' Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010 TEST # #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\ChangePrivileges" Date="20121220" Time="125553">ChangePrivileges Z:\app\tools\MSMToolset\GISCO.sde\GISCO.NUTS_AT_2010 giscoview GRANT AS_IS</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\ChangePrivileges" Date="20121220" Time="125654">ChangePrivileges Z:\app\tools\MSMToolset\GISCO.sde\GISCO.NUTS_AT_2010 giscoview GRANT AS_IS</Process><Process Name="Delete Rows" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20130220" Time="100822">DeleteRows Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20130220" Time="100825">Append J:\develop\Database-Updates\NUTS_Croatia.gdb\NUTS_AT_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010 TEST # #</Process><Process Name="Delete Rows" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20130514" Time="160101">DeleteRows Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20130514" Time="160104">Append J:\users\harromi\NUTS_Changes\Errors\tables.gdb\NUTS_AT_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010 TEST # #</Process><Process Name="Delete Rows" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20130603" Time="172655">DeleteRows Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20130603" Time="172657">Append J:\develop\Database-Updates\tables.gdb\NUTS_AT_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010 TEST # #</Process><Process Name="Delete Rows" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20140106" Time="151541">DeleteRows Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20140106" Time="151543">Append V:\QA\Edits\Final\Final.gdb\NUTS_AT_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010 TEST # #</Process><Process Name="Delete Rows" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20140114" Time="143658">DeleteRows Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process Name="Append" ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20140114" Time="143701">Append J:\develop\Database-Updates\Jan_14\Final.gdb\NUTS_AT_2010 Z:\webapp\mapservices\Maps\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010 TEST # #</Process><Process Name="Delete Rows" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20140130" Time="153404">DeleteRows Z:\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process Name="Append" ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20140130" Time="153407">Append J:\develop\Database-Updates\NUTS_turkey.gdb\NUTS_AT_2010 Z:\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010 TEST # #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteRows" Date="20140423" Time="111215">DeleteRows \\s-tpol\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20140423" Time="111454">Append J:\develop\Database-Updates\NUTS_AT.gdb\NUTS_AT_2010 \\s-tpol\connection-files\PROD\PROD-DIRECT-GISCO_11g.sde\GISCO.NUTS_AT_2010 TEST # #</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\ChangePrivileges" Date="20141202" Time="112932">ChangePrivileges \\s-tpol\connection-files\PROD\PROD-SDE-GISCO.sde\NUTS_AT_2010 giscoread GRANT AS_IS</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\ChangePrivileges" Date="20150504" Time="104018">ChangePrivileges \\s-tpol\connection-files\PROD\PROD-SDE-GISCO.sde\NUTS_AT_2010 giscoread GRANT AS_IS</Process><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\ChangePrivileges" Date="20150504" Time="110605">ChangePrivileges \\s-tpol\connection-files\PROD\PROD-SDE-GISCO.sde\NUTS_AT_2010 giscoread GRANT AS_IS</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyRows" Date="20150530" Time="141411">CopyRows C:\Temp\2015-MAY-NUTS_2010_Scottish_islands_update\NUTS_2010_03M_PGDB\data\NUTS_2010_03M.mdb\NUTS_AT_2010 C:\Temp\2015-MAY-NUTS_2010_Scottish_islands_update\NUTS_2010_03M_SH\Data\NUTS_AT_2010.dbf #</Process></lineage><itemProps><itemLocation><linkage Sync="TRUE">file://\\L02DI1308623\C$\Temp\2015-MAY-NUTS_2010_Scottish_islands_update\NUTS_2010_03M_SH\Data\NUTS_AT_2010.dbf</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemName Sync="TRUE">NUTS_AT_2010</itemName><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize></itemProps></DataProperties><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>GISCO Metadata Editor 2012</ArcGISstyle></Esri><dataqual><lineage><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">J:\develop\metadata\GISCO.NUTS_AT_2010.xml</srcused><date Sync="TRUE">20081205</date><time Sync="TRUE">12101800</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Server=anteater.cc.cec.eu.int; Service=port:5154; User=gisco; Version=SDE.DEFAULT</srcused><procdate Sync="TRUE">20090217</procdate><proctime Sync="TRUE">09241900</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\D02DI0616275\E\WorkSpace\GISCODBBackups\20090216_FULL_DEV_BeforeReinstall_RasterIncluded\20090216_DEV.gdb</srcused><procdate Sync="TRUE">20090220</procdate><proctime Sync="TRUE">17242800</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">J:\develop\metadata\20091125-DEV-Contract5\GISCO.NUTS_AT_2010.xml</srcused><procdate Sync="TRUE">20091126</procdate><proctime Sync="TRUE">10310600</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Service=sde:oracle10g; User=gisco; Version=SDE.DEFAULT</srcused><procdate Sync="TRUE">20100210</procdate><proctime Sync="TRUE">09162600</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\ABACOPORT-PC\Condivisa\work\EUROSTAT\work\Preliminary Data\GISCO_database\GISCO_2010\GISCO_DATABASE.gdb</srcused><procdate Sync="TRUE">20110615</procdate><proctime Sync="TRUE">11144500</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\ABACOPORT-PC\Condivisa\work\EUROSTAT\work\SC3\ACT_1\COMM_PLUS\FINAL_DB\QC\New File Geodatabase.gdb</srcused><procdate Sync="TRUE">20110615</procdate><proctime Sync="TRUE">11284100</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\ABACOPORT-PC\Condivisa\work\EUROSTAT\work\SC3\ACT_1\COMM_PLUS\FINAL_DB\QC\New File Geodatabase.gdb</srcused><procdate Sync="TRUE">20110615</procdate><proctime Sync="TRUE">11451700</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\ABACOPORT-PC\Condivisa\work\EUROSTAT\work\SC3\ACT_1\COMM_PLUS\FINAL_DB\CORRECTIONS_06_11\SC3_A1_Adm_Boundaries.gdb</srcused><procdate Sync="TRUE">20110712</procdate><proctime Sync="TRUE">17033400</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\Condivisa\work\EUROSTAT\work\SC3\ACT_2\docs\TASKDESCRIPTION\metadati\final\New\NUTS_AT_2010.xml</srcused><procdate Sync="TRUE">20111213</procdate><proctime Sync="TRUE">12501300</proctime></procstep></lineage></dataqual><idinfo><citation><citeinfo><onlink Sync="TRUE">Server=salvia.cc.cec.eu.int; Service=port:5153; User=gisco; Version=SDE.DEFAULT</onlink><origin>REQUIRED: The name of an organization or individual that developed the data set.</origin><pubdate>REQUIRED: The date when the data set is published or otherwise made available for release.</pubdate><title Sync="TRUE">GISCO.NUTS_AT_2010</title><ftname Sync="TRUE">GISCO.NUTS_AT_2010</ftname><geoform Sync="TRUE">tabular digital data</geoform></citeinfo></citation><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native><descript><langdata Sync="TRUE">en</langdata><abstract>REQUIRED: A brief narrative summary of the data set.</abstract><purpose>REQUIRED: A summary of the intentions with which the data set was developed.</purpose></descript><timeperd><current>REQUIRED: The basis on which the time period of content information is determined.</current><timeinfo><sngdate><caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate></sngdate></timeinfo></timeperd><status><progress>REQUIRED: The state of the data set.</progress><update>REQUIRED: The frequency with which changes and additions are made to the data set after the initial data set is completed.</update></status><spdom><bounding><westbc Sync="TRUE">REQUIRED: Western-most coordinate of the limit of coverage expressed in longitude.</westbc><eastbc Sync="TRUE">REQUIRED: Eastern-most coordinate of the limit of coverage expressed in longitude.</eastbc><northbc Sync="TRUE">REQUIRED: Northern-most coordinate of the limit of coverage expressed in latitude.</northbc><southbc Sync="TRUE">REQUIRED: Southern-most coordinate of the limit of coverage expressed in latitude.</southbc></bounding></spdom><keywords><theme><themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt><themekey>REQUIRED: Common-use word or phrase used to describe the subject of the data set.</themekey></theme></keywords><accconst>REQUIRED: Restrictions and legal prerequisites for accessing the data set.</accconst><useconst>REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.</useconst><natvform Sync="TRUE">SDE Table</natvform></idinfo><metainfo><langmeta Sync="TRUE">en</langmeta><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metc><cntinfo><cntorgp><cntper>REQUIRED: The person responsible for the metadata information.</cntper><cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg></cntorgp><cntaddr><addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype><city>REQUIRED: The city of the address.</city><state>REQUIRED: The state or province of the address.</state><postal>REQUIRED: The ZIP or other postal code of the address.</postal></cntaddr><cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice></cntinfo></metc><metd Sync="TRUE">20120319</metd></metainfo><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdHrLv><ScopeCd Sync="TRUE" value="007"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distinfo><resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo><mdResourceType></mdResourceType><mdURI></mdURI><editorCustomization version="v1.1.4"></editorCustomization></metadata>
