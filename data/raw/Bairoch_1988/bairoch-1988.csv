@@ -1,0 +1,2205 @@
+country,city,800,900,1000,1200,1300,1400,1500,1600,1700,1750,1800,1850
+Albania,Berat,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,8
+Albania,Delvina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4
+Albania,Durres,NA,NA,NA,25,25,NA,2,3,NA,NA,10,2
+Albania,Elbasan,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,8,10
+Albania,Gjirokaster,NA,NA,NA,NA,NA,NA,3,4,NA,NA,10,5
+Albania,Korca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Albania,Kruja,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,5,6
+Albania,Peqin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1
+Albania,Permet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Albania,Shkoder,NA,NA,NA,NA,NA,2,NA,5,23,24,40,38
+Albania,Tirane,NA,NA,NA,NA,NA,NA,NA,NA,3,4,6,20
+Albania,Vlora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Albania,Voskpoje,NA,NA,NA,NA,NA,NA,NA,30,13,NA,NA,NA
+Austria,Bad Ischl,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,5,6
+Austria,Dornbirn,NA,NA,NA,NA,NA,NA,NA,1,2,4,5,8
+Austria,Eisenstadt,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,6
+Austria,Gmunden,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,5
+Austria,Graz,NA,NA,NA,NA,5,NA,5,8,22,20,31,55
+Austria,Innsbruck,NA,NA,NA,NA,1,NA,4,6,7,10,12,13
+Austria,Klagenfurt,NA,NA,NA,NA,NA,NA,1,4,5,7,10,12
+Austria,Krems,NA,NA,NA,NA,NA,NA,NA,4,NA,4,4,7
+Austria,Linz,NA,NA,NA,NA,NA,NA,3,3,NA,10,17,27
+Austria,Mattersburg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4
+Austria,Neunkirchen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,5
+Austria,Salzburg,NA,NA,NA,NA,NA,NA,7,9,13,15,16,17
+Austria,Schwaz,NA,NA,NA,NA,NA,NA,17,9,8,6,4,5
+Austria,Steyr,NA,NA,NA,NA,NA,NA,6,9,6,7,8,11
+Austria,Wels,NA,NA,NA,NA,NA,NA,NA,5,4,3,4,6
+Austria,Wien,NA,NA,NA,12,20,20,20,50,114,175,247,431
+Austria,Wiener Neustadt,NA,NA,NA,NA,NA,7,NA,4,4,4,7,12
+Belgium,Aalst,NA,NA,NA,NA,4,4,5,7,8,8,11,17
+Belgium,Aarschot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4
+Belgium,Antwerpen,NA,NA,NA,15,17,5,30,47,67,43,62,88
+Belgium,Ardooie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8
+Belgium,Arlon,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,3,5
+Belgium,Ath,NA,NA,NA,NA,NA,3,5,NA,3,5,8,8
+Belgium,Beveren,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,7
+Belgium,Binche,NA,NA,NA,NA,NA,3,3,NA,NA,NA,4,5
+Belgium,Bouillon,NA,NA,NA,NA,NA,NA,NA,NA,1,2,2,3
+Belgium,Brugge,NA,NA,12,25,40,125,35,27,35,28,31,50
+Belgium,Bruxelles,NA,NA,1,NA,18,26,33,50,80,59,66,132
+Belgium,Charleroi,NA,NA,NA,NA,NA,NA,NA,NA,1,2,4,7
+Belgium,Deinze,NA,NA,NA,NA,NA,NA,NA,2,NA,2,3,4
+Belgium,Dendermonde,NA,NA,NA,NA,9,NA,5,5,5,NA,5,8
+Belgium,Diest,NA,NA,NA,NA,NA,6,5,NA,3,4,6,8
+Belgium,Dinant,NA,NA,NA,NA,5,6,NA,NA,5,NA,4,5
+Belgium,Dour,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,7
+Belgium,Eekloo,NA,NA,NA,NA,NA,NA,2,4,3,3,6,9
+Belgium,Enghien,NA,NA,NA,NA,NA,2,5,NA,NA,5,3,4
+Belgium,Eupen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,12
+Belgium,Evergem,NA,NA,NA,NA,NA,NA,NA,3,NA,4,7,8
+Belgium,Geeraardsbergen,NA,NA,NA,NA,4,NA,5,NA,4,5,6,8
+Belgium,Gent,NA,NA,8,25,NA,56,55,31,52,44,55,107
+Belgium,Halle,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,7
+Belgium,Hamme,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Belgium,Hasselt,NA,NA,NA,NA,NA,NA,NA,5,6,NA,6,10
+Belgium,Huy,NA,NA,NA,6,5,NA,NA,7,6,6,5,9
+Belgium,Ieper,NA,NA,NA,40,30,10,10,5,12,11,12,17
+Belgium,Izegem,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7,10
+Belgium,Jumet,NA,NA,NA,NA,NA,NA,NA,NA,2,3,5,9
+Belgium,Kortrijk,NA,NA,NA,NA,NA,NA,6,10,11,12,14,22
+Belgium,Kruishoutem,NA,NA,NA,NA,NA,NA,NA,NA,2,3,5,7
+Belgium,Leuven,NA,NA,NA,7,20,17,17,8,15,14,19,30
+Belgium,Liege,NA,NA,12,20,11,30,20,30,45,57,55,76
+Belgium,Lier,NA,NA,NA,NA,NA,4,5,5,5,6,10,14
+Belgium,Lokeren,NA,NA,NA,NA,NA,6,NA,NA,11,9,12,16
+Belgium,Malmedy,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,5
+Belgium,Mechelen,NA,NA,NA,NA,10,13,25,11,20,18,20,30
+Belgium,Menen,NA,NA,NA,NA,NA,NA,2,2,NA,NA,5,8
+Belgium,Meulebeke,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7,9
+Belgium,Mons,NA,NA,NA,NA,6,9,15,16,14,17,18,24
+Belgium,Namur,NA,NA,NA,NA,NA,6,8,9,12,13,15,22
+Belgium,Nieuwpoort,NA,NA,NA,NA,5,3,6,NA,NA,2,3,3
+Belgium,Nivelles,NA,NA,NA,NA,5,6,NA,NA,5,5,7,8
+Belgium,Oostende,NA,NA,NA,NA,NA,2,3,5,7,5,10,14
+Belgium,Oudenaarde,NA,NA,NA,NA,NA,NA,7,7,4,4,5,6
+Belgium,Peruwelz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Belgium,Poperinge,NA,NA,NA,NA,NA,NA,4,NA,3,NA,8,11
+Belgium,Roeselare,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11
+Belgium,Ronse,NA,NA,NA,NA,NA,NA,2,4,5,8,9,11
+Belgium,Ruiselede,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Belgium,Soignies,NA,NA,NA,NA,NA,2,NA,NA,NA,4,4,7
+Belgium,Spa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4
+Belgium,St-Niklaas,NA,NA,NA,NA,NA,NA,NA,2,6,7,11,20
+Belgium,St-Truiden,NA,NA,NA,3,4,NA,NA,5,NA,5,7,11
+Belgium,Temse,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,8
+Belgium,Thuin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4
+Belgium,Tielt,NA,NA,NA,NA,NA,NA,1,NA,3,5,9,12
+Belgium,Tienen,NA,NA,NA,NA,NA,NA,9,4,5,4,8,10
+Belgium,Tongeren,NA,NA,NA,NA,NA,NA,8,6,5,4,6,6
+Belgium,Torhout,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,5,8
+Belgium,Tournai,NA,NA,NA,NA,20,40,35,20,29,21,21,30
+Belgium,Turnhout,NA,NA,NA,NA,NA,NA,NA,NA,6,8,8,15
+Belgium,Verviers,NA,NA,NA,NA,NA,NA,NA,4,8,12,10,24
+Belgium,Veurne,NA,NA,NA,NA,NA,NA,2,NA,2,2,3,5
+Belgium,Waregem,NA,NA,NA,NA,NA,1,1,1,2,4,5,7
+Belgium,Wavre,NA,NA,NA,NA,NA,NA,NA,NA,2,3,5,6
+Belgium,Wetteren,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Belgium,Wingene,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,8
+Belgium,Zele,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11
+Belgium,Zomergem,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Belgium,Zoutleeuw,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,2
+Bulgaria,Burgas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Bulgaria,Kolarovgrad,NA,NA,NA,NA,15,NA,NA,NA,NA,20,20,30
+Bulgaria,Lom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+Bulgaria,Lovec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+Bulgaria,Nikopol,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,6
+Bulgaria,Omurtag,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+Bulgaria,Pleven,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,15
+Bulgaria,Plovdiv,NA,NA,20,20,20,18,30,28,25,30,30,30
+Bulgaria,Preslav,30,60,30,NA,20,NA,NA,NA,NA,NA,30,NA
+Bulgaria,Razgrad,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+Bulgaria,Ruse,NA,NA,NA,NA,8,NA,15,16,23,26,30,30
+Bulgaria,Sevlievo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+Bulgaria,Silistra,NA,NA,NA,NA,5,NA,10,NA,24,22,20,22
+Bulgaria,Sliven,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,20,21
+Bulgaria,Sofija,NA,NA,NA,NA,20,20,22,30,40,30,46,43
+Bulgaria,Stara Zagora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,20
+Bulgaria,Svistov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+Bulgaria,Tatar-Pazardzik,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10
+Bulgaria,Tutrakan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+Bulgaria,Varna,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,16,18
+Bulgaria,Veliko Turnovo,NA,NA,20,35,35,NA,20,20,NA,NA,NA,15
+Bulgaria,Vidin,NA,NA,NA,NA,6,NA,NA,9,14,15,25,23
+Czechoslovakia,Banska Bystrica,NA,NA,NA,NA,3,2,3,5,3,4,5,4
+Czechoslovakia,Banska Stiavnica,NA,NA,NA,NA,3,5,6,7,7,17,17,14
+Czechoslovakia,Bratislava,NA,NA,NA,NA,5,4,6,9,10,25,28,42
+Czechoslovakia,Brezova,NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,6
+Czechoslovakia,Brno,NA,NA,NA,NA,7,NA,15,15,10,15,16,47
+Czechoslovakia,Ceske Budejovice,NA,NA,NA,NA,NA,NA,NA,NA,16,NA,5,NA
+Czechoslovakia,Cesky Tesin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Czechoslovakia,Cheb,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,9,NA
+Czechoslovakia,Eperjes,NA,NA,NA,NA,3,2,3,5,3,5,7,6
+Czechoslovakia,Ersekujvar,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,7
+Czechoslovakia,Gelnica,NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,5
+Czechoslovakia,Iglo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6
+Czechoslovakia,Jihlava,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,16
+Czechoslovakia,Kolin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+Czechoslovakia,Komarno,NA,NA,NA,NA,NA,NA,NA,NA,8,10,9,18
+Czechoslovakia,Kosice,NA,NA,NA,NA,5,5,4,4,2,6,9,15
+Czechoslovakia,Kremnica,NA,NA,NA,NA,3,2,4,NA,5,4,5,5
+Czechoslovakia,Kutna Hora,NA,NA,NA,NA,8,NA,NA,NA,12,NA,5,NA
+Czechoslovakia,Levoca,NA,NA,NA,NA,3,3,3,4,4,4,5,5
+Czechoslovakia,Liberec,NA,NA,NA,NA,NA,NA,NA,NA,16,NA,10,15
+Czechoslovakia,Litomerice,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA
+Czechoslovakia,Marianske Lazne,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA
+Czechoslovakia,Mikulov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA
+Czechoslovakia,Myjava,NA,NA,NA,NA,NA,NA,NA,NA,1,8,9,9
+Czechoslovakia,Nitra,NA,NA,NA,NA,3,NA,NA,1,1,4,5,6
+Czechoslovakia,Olomouc,NA,NA,NA,NA,10,NA,12,NA,NA,NA,9,13
+Czechoslovakia,Opava,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+Czechoslovakia,Ostrava,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,4
+Czechoslovakia,Plzen,NA,NA,NA,NA,10,NA,12,NA,8,NA,6,11
+Czechoslovakia,Praha,NA,NA,10,10,30,95,70,100,48,59,76,118
+Czechoslovakia,Prostejov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA
+Czechoslovakia,Skalica,NA,NA,NA,NA,NA,NA,NA,5,4,4,6,6
+Czechoslovakia,Sternberk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+Czechoslovakia,Trnava,NA,NA,NA,NA,3,3,NA,NA,4,6,6,8
+Czechoslovakia,Vratz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA
+Czechoslovakia,Znojmo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Denmark,Aalborg,NA,NA,NA,NA,NA,NA,NA,6,4,4,6,8
+Denmark,Aarhus,NA,NA,NA,NA,NA,NA,NA,5,3,4,4,8
+Denmark,Helsingor,NA,NA,NA,NA,NA,NA,NA,5,4,4,5,8
+Denmark,Kobenhavn,NA,NA,NA,NA,3,9,10,40,65,80,101,130
+Denmark,Odense,NA,NA,NA,NA,NA,NA,NA,5,4,5,6,11
+Denmark,Randers,NA,NA,NA,NA,NA,NA,NA,NA,2,3,5,7
+Denmark,Ribe,NA,NA,NA,NA,NA,NA,3,5,2,2,2,3
+Denmark,Roskilde,NA,NA,NA,NA,NA,NA,NA,8,2,2,2,4
+Denmark,Svendborg,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,5
+Denmark,Viborg,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,4
+Finland,Haemeenlinna,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,3
+Finland,Helsinki,NA,NA,NA,NA,NA,NA,NA,1,1,2,4,21
+Finland,Kuopio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3
+Finland,Oulu,NA,NA,NA,NA,NA,NA,NA,NA,1,2,3,6
+Finland,Pori,NA,NA,NA,NA,NA,NA,NA,1,1,1,3,6
+Finland,Tampere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3
+Finland,Turku,NA,NA,NA,NA,NA,1,2,4,5,6,11,17
+Finland,Vaasa,NA,NA,NA,NA,NA,NA,NA,NA,1,1,3,4
+France,Abbeville,NA,NA,NA,NA,NA,NA,NA,NA,15,17,18,19
+France,Agde,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+France,Agen,NA,NA,NA,NA,6,NA,NA,NA,10,10,10,16
+France,Aire,NA,NA,NA,NA,2,5,NA,NA,NA,NA,6,9
+France,Aix,NA,NA,NA,15,6,4,13,18,27,25,21,24
+France,Ajaccio,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6,10
+France,Albi,NA,NA,NA,NA,7,NA,8,7,10,8,10,14
+France,Alencon,NA,NA,NA,NA,NA,NA,NA,NA,10,12,13,15
+France,Ales,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,9,19
+France,Ambert,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,8
+France,Amboise,NA,NA,NA,NA,NA,5,NA,NA,NA,6,5,4
+France,Amiens,NA,NA,10,12,21,NA,20,25,35,35,40,52
+France,Anduze,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4
+France,Angers,NA,NA,15,30,33,25,13,26,29,25,32,46
+France,Angouleme,NA,NA,NA,NA,5,NA,NA,NA,NA,9,15,19
+France,Annecy,NA,NA,NA,NA,1,1,2,NA,5,4,5,5
+France,Annonay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,11
+France,Antibes,NA,NA,NA,NA,NA,NA,NA,NA,3,4,5,4
+France,Apt,NA,NA,NA,NA,2,NA,NA,NA,5,5,5,6
+France,Arbois,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,5,6
+France,Argentan,NA,NA,NA,NA,NA,NA,NA,NA,5,5,6,6
+France,Argenteuil,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5
+France,Arles,NA,NA,NA,20,8,5,10,16,23,22,17,23
+France,Armentieres,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+France,Arras,NA,NA,NA,20,30,10,11,20,15,17,19,25
+France,Aubagne,NA,NA,NA,NA,NA,NA,NA,NA,4,5,7,6
+France,Auch,NA,NA,NA,NA,NA,NA,NA,5,6,8,10,12
+France,Aurillac,NA,NA,NA,NA,NA,NA,NA,8,8,7,9,11
+France,Autun,NA,NA,NA,NA,7,NA,NA,NA,NA,3,9,12
+France,Auxerre,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,12,14
+France,Avallon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Avignon,NA,NA,NA,13,6,30,18,26,24,26,30,35
+France,Avranches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+France,Bagneres-De-Bigorre,NA,NA,NA,NA,5,1,NA,NA,NA,5,5,6
+France,Bagnols,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,4
+France,Bailleul,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,10
+France,Barcelonnette,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,2
+France,Bar-Le-Duc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,15
+France,Bastia,NA,NA,NA,NA,NA,NA,NA,1,3,6,11,22
+France,Bayeux,NA,NA,NA,NA,NA,NA,NA,6,7,7,10,9
+France,Bayonne,NA,NA,NA,NA,15,NA,NA,NA,10,11,12,18
+France,Beaucaire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10
+France,Beaugency,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4
+France,Beaune,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10
+France,Beauvais,NA,NA,NA,12,16,NA,10,12,12,12,13,14
+France,Bedarrieux,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,10
+France,Belfort,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,4,8
+France,Bergerac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,10
+France,Bergues,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Bernay,NA,NA,NA,NA,NA,NA,NA,NA,5,7,5,7
+France,Besancon,NA,NA,NA,NA,8,NA,9,12,12,25,30,41
+France,Bethune,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+France,Beziers,NA,NA,NA,10,16,4,6,NA,13,13,15,20
+France,Billom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3
+France,Blois,NA,NA,NA,NA,5,NA,NA,NA,10,11,11,18
+France,Bonifacio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3
+France,Bonnetable,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,3
+France,Bordeaux,NA,NA,NA,15,30,30,50,40,45,62,96,130
+France,Boulogne,NA,NA,NA,NA,NA,NA,2,NA,4,NA,11,29
+France,Bourbourg,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,2
+France,Bourg-En-Bresse,NA,NA,NA,NA,NA,NA,5,5,6,6,7,12
+France,Bourges,NA,NA,NA,NA,16,18,32,18,14,16,15,19
+France,Brest,NA,NA,NA,NA,NA,NA,1,3,15,30,26,61
+France,Brignoles,NA,NA,NA,NA,2,NA,NA,NA,5,5,5,6
+France,Brioude,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,Brive,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+France,Brouage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
+France,Caen,NA,NA,20,12,15,18,25,30,27,35,35,45
+France,Cahors,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,10,13
+France,Calais,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,20
+France,Cambrai,NA,NA,NA,NA,NA,10,NA,12,12,13,15,21
+France,Cannes,NA,NA,NA,NA,NA,NA,NA,NA,4,4,3,6
+France,Carcassonne,NA,NA,NA,NA,11,6,NA,NA,11,12,15,20
+France,Carpentras,NA,NA,NA,NA,2,NA,3,NA,5,NA,8,11
+France,Castelnaudary,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,8,8
+France,Castelsarrasin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+France,Castres,NA,NA,NA,NA,NA,NA,NA,NA,8,9,13,21
+France,Cavaillon,NA,NA,NA,NA,2,NA,NA,4,NA,6,6,7
+France,Chalons-Sur-Marne,NA,NA,NA,12,10,NA,NA,NA,11,12,11,16
+France,Chalon-Sur-Saone,NA,NA,NA,NA,3,NA,8,NA,NA,5,11,16
+France,Chambery,NA,NA,NA,NA,2,NA,2,2,10,9,10,13
+France,Charleville,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8,9
+France,Chartres,NA,NA,NA,7,9,NA,NA,NA,12,10,16,18
+France,Chateaudun,NA,NA,NA,NA,NA,NA,10,7,5,6,6,6
+France,Chateau-Gontier,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,7
+France,Chateauroux,NA,NA,NA,NA,NA,NA,NA,NA,4,6,9,13
+France,Chatellerault,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10
+France,Chaumont,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6,6
+France,Cherbourg,NA,NA,NA,NA,NA,NA,NA,NA,4,5,11,28
+France,Chinon,NA,NA,NA,NA,NA,6,NA,NA,NA,6,5,7
+France,Cholet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+France,Clamecy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Clermont-Ferrand,NA,NA,NA,NA,5,NA,3,NA,12,24,24,33
+France,Clermont-L'herault,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Cluny,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4
+France,Colmar,NA,NA,NA,NA,5,4,8,NA,8,10,11,16
+France,Comines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,Compiegne,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6,9
+France,Conde-Sur-L'escaut,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3
+France,Conde-Sur-Noireau,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Condom,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,7
+France,Condrieu,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,2
+France,Corte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,Cosne,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6
+France,Coulommiers,NA,NA,NA,NA,NA,NA,NA,4,3,NA,3,4
+France,Coutances,NA,NA,NA,NA,NA,NA,NA,NA,6,8,8,8
+France,Cuers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Darnetal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Dax,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6
+France,Die,NA,NA,NA,NA,NA,2,NA,NA,2,3,4,4
+France,Dieppe,NA,NA,NA,NA,3,NA,20,30,8,13,17,18
+France,Digne,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5
+France,Dijon,NA,NA,3,NA,17,11,13,21,21,31,19,32
+France,Dinan,NA,NA,NA,NA,NA,NA,NA,6,10,NA,7,7
+France,Dole,NA,NA,NA,NA,NA,NA,NA,5,5,7,9,11
+France,Douai,NA,NA,NA,NA,30,NA,10,NA,13,21,18,16
+France,Draguignan,NA,NA,NA,NA,2,NA,NA,NA,5,5,8,9
+France,Dreux,NA,NA,NA,NA,NA,NA,8,5,5,NA,5,7
+France,Dunkerque,NA,NA,NA,NA,NA,NA,7,10,13,15,21,28
+France,Elbeuf,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,17
+France,Epernay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+France,Epinal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,10
+France,Etampes,NA,NA,NA,NA,NA,NA,NA,NA,5,6,7,8
+France,Eu,NA,NA,NA,NA,NA,NA,NA,NA,6,8,3,2
+France,Evreux,NA,NA,NA,NA,NA,NA,NA,NA,5,6,10,9
+France,Falaise,NA,NA,NA,NA,NA,NA,NA,NA,6,8,10,9
+France,Fecamp,NA,NA,NA,NA,NA,NA,NA,NA,4,5,8,10
+France,Figeac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+France,Fontainebleau,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10
+France,Fontenay-Le-Comte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,8
+France,Fougeres,NA,NA,NA,NA,NA,NA,4,NA,4,10,7,8
+France,Gaillac,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7,8
+France,Gap,NA,NA,NA,NA,NA,8,NA,NA,5,NA,9,9
+France,Gentilly,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,20
+France,Givors,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,8
+France,Granville,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11
+France,Grasse,NA,NA,NA,NA,NA,NA,NA,NA,9,9,9,7
+France,Gray,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,5,7
+France,Grenoble,NA,NA,NA,NA,3,2,2,12,20,23,20,31
+France,Guerande,NA,NA,NA,NA,NA,3,4,NA,NA,NA,8,9
+France,Guingamp,NA,NA,NA,NA,NA,3,4,NA,NA,NA,5,6
+France,Haguenau,NA,NA,NA,NA,NA,4,6,NA,3,3,7,8
+France,Hasparren,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,Hazebrouck,NA,NA,NA,NA,NA,NA,3,NA,4,NA,4,5
+France,Herbault,NA,NA,NA,NA,NA,NA,NA,NA,4,5,1,1
+France,Hesdin,NA,NA,NA,NA,NA,9,NA,NA,NA,NA,3,3
+France,Hondschoote,NA,NA,NA,NA,NA,NA,12,4,4,NA,4,2
+France,Honfleur,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+France,Hyeres,NA,NA,NA,NA,2,NA,NA,NA,4,5,7,10
+France,Issoire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Issoudun,NA,NA,NA,NA,NA,NA,NA,NA,6,8,11,13
+France,Joigny,NA,NA,NA,NA,NA,NA,NA,7,5,NA,5,6
+France,La Charite-Sur-Loire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,La Ciotat,NA,NA,NA,NA,NA,NA,NA,NA,4,6,5,5
+France,La Fleche,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,7
+France,La Rochelle,NA,NA,NA,NA,2,NA,NA,23,14,16,19,14
+France,La Seyne-Sur-Mer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+France,Laigle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Langres,NA,NA,NA,NA,NA,NA,NA,NA,7,8,8,11
+France,Laon,NA,28,25,NA,20,8,10,NA,5,7,7,10
+France,Laval,NA,NA,NA,NA,NA,NA,NA,NA,15,12,12,19
+France,Lavaur,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,7
+France,Le Blanc,NA,NA,NA,NA,NA,NA,NA,NA,4,5,4,7
+France,Le Cateau,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,8
+France,Le Creusot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,8
+France,Le Croisic,NA,NA,NA,NA,NA,NA,NA,NA,6,4,2,2
+France,Le Havre,NA,NA,NA,NA,NA,NA,NA,4,18,14,16,43
+France,Le Mans,NA,NA,NA,3,NA,NA,NA,NA,17,16,18,23
+France,Le Puy,NA,NA,NA,NA,6,NA,NA,NA,10,10,12,16
+France,Lectoure,NA,NA,NA,NA,NA,NA,4,5,5,5,6,6
+France,Lens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,10
+France,Les Sables-D'olonne,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6
+France,Libourne,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+France,Lille,NA,NA,NA,NA,30,22,26,33,60,63,56,75
+France,Limoges,NA,NA,NA,NA,4,NA,NA,NA,5,18,21,41
+France,Limoux,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+France,Lisieux,NA,NA,NA,NA,NA,NA,NA,NA,5,6,11,12
+France,Loches,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,4,5
+France,Lodeve,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,8,11
+France,Lons-Le-Saunier,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6,9
+France,Lorient,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,21
+France,Loudun,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,Lourdes,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,2,4
+France,Louviers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+France,Lunel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Luneville,NA,NA,NA,NA,NA,NA,NA,NA,2,12,11,16
+France,Luxeuil,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3,4
+France,Lyon,12,NA,20,22,20,33,50,35,97,114,109,177
+France,Macon,NA,NA,NA,NA,4,NA,NA,NA,NA,3,10,15
+France,Mamers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Manosque,NA,NA,NA,NA,2,NA,NA,NA,5,4,5,5
+France,Marmande,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,8
+France,Marseille,NA,NA,7,25,31,21,45,45,90,68,101,195
+France,Martigues,NA,NA,NA,NA,NA,NA,NA,NA,5,6,5,6
+France,Maubeuge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,15
+France,Mayenne,NA,NA,NA,NA,NA,NA,2,NA,8,5,7,10
+France,Meaux,NA,NA,NA,NA,NA,NA,NA,NA,4,5,7,8
+France,Melun,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7,10
+France,Mende,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+France,Metz,25,14,16,27,30,25,15,20,19,30,46,57
+France,Meudon,NA,NA,NA,NA,NA,NA,NA,NA,3,2,2,4
+France,Millau,NA,NA,NA,NA,NA,NA,NA,NA,3,4,6,9
+France,Mirecourt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,Moissac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6
+France,Montargis,NA,NA,NA,NA,NA,NA,NA,NA,5,6,6,8
+France,Montauban,NA,NA,NA,NA,8,NA,NA,14,17,16,24,24
+France,Montbeliard,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,4,5
+France,Montbrison,NA,NA,NA,NA,6,3,NA,NA,NA,NA,5,8
+France,Montceau-Les-Mines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,2
+France,Mont-De-Marsan,NA,NA,NA,NA,NA,1,NA,NA,NA,2,5,5
+France,Montelimar,NA,NA,NA,NA,NA,NA,NA,NA,6,4,5,6
+France,Montlucon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,9
+France,Montpellier,NA,NA,1,13,35,17,6,15,23,35,33,45
+France,Montreuil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4
+France,Morlaix,NA,NA,NA,NA,NA,2,5,7,NA,NA,8,11
+France,Moulins,NA,NA,NA,NA,NA,NA,NA,NA,11,11,13,17
+France,Mulhouse,NA,NA,NA,NA,8,9,8,8,7,5,7,32
+France,Nancy,NA,NA,NA,NA,1,1,1,11,14,22,29,45
+France,Nantes,NA,NA,NA,NA,8,NA,14,25,40,60,77,96
+France,Narbonne,NA,NA,12,31,30,2,2,NA,8,8,9,13
+France,Nerac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+France,Nevers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,17
+France,Nice,NA,NA,NA,NA,10,7,NA,16,15,16,23,34
+France,Nimes,NA,NA,NA,NA,18,7,6,13,17,28,41,53
+France,Niort,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,19
+France,Nogent-Le-Rotrou,NA,NA,NA,NA,NA,NA,NA,NA,5,5,6,6
+France,Noyon,NA,NA,NA,3,NA,NA,NA,NA,5,5,6,5
+France,Obernai,NA,NA,NA,NA,NA,NA,3,NA,4,4,5,5
+France,Oloron-Ste-Marie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Orange,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,10
+France,Orleans,NA,NA,NA,27,10,30,50,40,32,36,48,47
+France,Orthez,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+France,Pamiers,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,5,6
+France,Paris,25,NA,20,110,150,275,225,300,500,570,550,1053
+France,Pau,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,15
+France,Perigueux,NA,NA,NA,NA,7,6,8,NA,NA,5,6,13
+France,Perpignan,NA,NA,NA,NA,12,NA,7,NA,NA,11,13,18
+France,Pezenas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+France,Ploermel,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,5,6
+France,Poitiers,10,NA,12,21,15,NA,20,20,18,18,20,24
+France,Poligny,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Pont-A-Mousson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+France,Pont-Audemer,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5,6
+France,Pontoise,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5,6
+France,Provins,10,NA,12,20,10,NA,15,NA,5,5,5,7
+France,Quimper,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,7,11
+France,Quimperle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,6
+France,Rambervillers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,Reims,20,NA,13,11,14,15,12,16,25,25,30,45
+France,Rennes,10,NA,10,NA,8,12,13,33,30,30,25,39
+France,Rethel,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6,8
+France,Ribeauville,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6
+France,Richelieu,NA,NA,NA,NA,NA,NA,NA,NA,5,5,3,2
+France,Riom,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,12
+France,Rive-De-Gier,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,13
+France,Roanne,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,13
+France,Rochefort,NA,NA,NA,NA,NA,NA,NA,NA,22,NA,15,24
+France,Rodez,NA,NA,NA,NA,5,NA,NA,NA,NA,5,6,10
+France,Romans,NA,NA,NA,NA,NA,4,NA,NA,6,7,6,8
+France,Romorantin,NA,NA,NA,NA,NA,NA,NA,NA,5,6,6,7
+France,Roubaix,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,8,32
+France,Rouen,10,NA,12,15,35,35,40,70,50,66,80,101
+France,Saintes,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,8,13
+France,Salies-De-Bearn,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,7
+France,Salins-Les-Bains,NA,NA,NA,NA,NA,NA,NA,5,6,NA,8,7
+France,Salon-De-Provence,NA,NA,NA,NA,2,NA,NA,NA,4,5,5,7
+France,Saumur,NA,NA,NA,NA,NA,NA,NA,10,10,9,10,13
+France,Saverne,NA,NA,NA,NA,NA,NA,NA,NA,2,1,4,5
+France,Sedan,NA,NA,NA,NA,NA,NA,2,4,6,9,13,17
+France,Selestat,NA,NA,NA,NA,NA,5,NA,NA,6,7,8,8
+France,Semur-En-Auxois,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4
+France,Senlis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Sens,NA,NA,NA,NA,5,NA,NA,NA,6,8,9,11
+France,Sete,NA,NA,NA,NA,NA,NA,NA,NA,1,4,10,18
+France,Sisteron,NA,NA,NA,NA,6,NA,NA,NA,5,3,3,5
+France,Soissons,NA,NA,NA,3,NA,NA,NA,NA,7,7,8,8
+France,Sollies-Pont,NA,NA,NA,NA,NA,NA,NA,NA,5,5,3,2
+France,St-Amand-Les-Eaux,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,10
+France,St-Amand-Montrond,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+France,St-Brieuc,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,7,10
+France,St-Chamond,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+France,St-Denis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,16
+France,St-Die,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6,9
+France,St-Dizier,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+France,Steenvoorde,NA,NA,NA,NA,NA,NA,NA,15,NA,NA,3,2
+France,St-Etienne,NA,NA,NA,NA,NA,1,3,NA,15,21,18,54
+France,St-Flour,NA,NA,NA,NA,5,3,NA,NA,NA,NA,5,6
+France,St-Germain,NA,NA,NA,NA,NA,NA,NA,NA,5,8,10,10
+France,St-Gilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,St-Hippolyte,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,4
+France,St-Jean-D'angely,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,6
+France,St-Junien,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,6
+France,St-Leonard,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,5,6
+France,St-Lo,NA,NA,NA,NA,NA,NA,NA,NA,5,5,8,10
+France,St-Malo,NA,NA,NA,NA,1,NA,4,11,25,15,14,20
+France,St-Marie-Aux-Mines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+France,St-Mihiel,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5
+France,St-Nazaire,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5
+France,St-Omer,NA,NA,1,10,35,13,11,8,15,16,22,22
+France,St-Pol,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,7
+France,St-Quentin,NA,NA,NA,NA,NA,NA,NA,NA,7,9,10,25
+France,Strasbourg,NA,NA,4,10,15,17,20,25,25,40,49,66
+France,St-Sever,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4
+France,St-Yrieix-La-Perche,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,7
+France,Tarascon,NA,NA,NA,NA,NA,NA,NA,NA,6,9,10,13
+France,Tarbes,NA,NA,NA,NA,4,NA,10,NA,NA,NA,7,14
+France,Thiers,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,14
+France,Thionville,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+France,Tonneins,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+France,Toul,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7,9
+France,Toulon,NA,NA,NA,NA,3,2,3,10,25,20,22,69
+France,Toulouse,NA,NA,10,20,30,21,30,40,43,44,50,93
+France,Tourcoing,NA,NA,NA,NA,NA,NA,NA,NA,12,NA,12,28
+France,Tournon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5
+France,Tournus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4
+France,Tours,20,NA,20,20,25,13,60,65,21,16,13,33
+France,Troyes,NA,NA,12,12,25,17,20,18,16,18,23,26
+France,Tulle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,12
+France,Uzes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+France,Valence,NA,NA,NA,NA,5,NA,NA,NA,5,4,7,11
+France,Valenciennes,NA,NA,NA,NA,25,23,15,30,19,17,17,23
+France,Valognes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+France,Vannes,NA,NA,NA,NA,NA,5,5,9,NA,NA,9,14
+France,Vendome,NA,NA,NA,NA,NA,NA,NA,NA,5,6,6,9
+France,Verdun,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9,14
+France,Verdun-Sur-Garonne,NA,NA,NA,NA,NA,NA,NA,NA,3,4,5,2
+France,Versailles,NA,NA,NA,NA,NA,NA,NA,NA,25,50,23,35
+France,Vesoul,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6,7
+France,Vienne,NA,NA,NA,NA,5,4,NA,NA,8,8,11,13
+France,Vierzon,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,7
+France,Villefranche-De-Rouergue,NA,NA,NA,NA,NA,NA,NA,10,NA,9,7,8
+France,Villefranche-Sur-Saone,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,8
+France,Villeneuve,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,10,13
+France,Villeneuve-Lez-Avignon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3
+France,Vire,NA,NA,NA,NA,NA,NA,NA,NA,5,6,8,7
+France,Vitre,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,7,9
+France,Vitry-Le-Francois,NA,NA,NA,NA,NA,NA,NA,NA,7,7,6,8
+France,Voiron,NA,NA,NA,NA,NA,NA,NA,NA,5,5,4,10
+France,Wissembourg,NA,NA,NA,NA,NA,NA,5,NA,2,2,5,5
+France,Yssingeaux,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7,8
+France,Yvetot,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Germany,Aachen,5,NA,10,NA,21,10,18,23,15,24,24,52
+Germany,Altenburg,NA,NA,NA,NA,NA,3,3,4,6,7,9,16
+Germany,Altona,NA,NA,NA,NA,NA,NA,2,6,12,17,23,37
+Germany,Amberg,NA,NA,NA,NA,NA,3,NA,4,4,4,6,8
+Germany,Andernach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Germany,Anklam,NA,NA,NA,NA,3,NA,NA,5,2,3,4,9
+Germany,Annaberg,NA,NA,NA,NA,NA,NA,4,6,3,5,NA,9
+Germany,Ansbach,NA,NA,NA,NA,NA,NA,NA,NA,4,6,12,10
+Germany,Aschaffenburg,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,7,8
+Germany,Aschersleben,NA,NA,NA,NA,NA,NA,NA,NA,3,6,7,12
+Germany,Augsburg,NA,NA,NA,12,25,12,30,45,21,31,30,35
+Germany,Bad Hersfeld,NA,NA,NA,NA,NA,NA,NA,6,NA,3,5,6
+Germany,Bad Kreuznach,NA,NA,NA,NA,NA,NA,NA,4,2,3,5,10
+Germany,Baden-Baden,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,7
+Germany,Bamberg,NA,NA,NA,NA,8,NA,7,12,10,12,17,18
+Germany,Barmen,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,13,36
+Germany,Bautzen,NA,NA,NA,NA,3,5,5,5,4,8,11,10
+Germany,Bayreuth,NA,NA,NA,NA,NA,1,2,2,4,8,10,14
+Germany,Beckum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2
+Germany,Berlin,NA,NA,NA,NA,5,5,9,10,55,113,172,437
+Germany,Bernburg,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,5,10
+Germany,Biberach,NA,NA,NA,NA,NA,NA,3,NA,3,NA,5,6
+Germany,Bielefeld,NA,NA,NA,NA,NA,NA,2,NA,3,5,6,10
+Germany,Bingen,NA,NA,NA,NA,NA,NA,NA,2,3,3,5,8
+Germany,Bochum,NA,NA,NA,NA,NA,NA,1,NA,2,2,5,6
+Germany,Bonn,NA,NA,NA,NA,NA,NA,NA,4,NA,8,11,18
+Germany,Borna,NA,NA,NA,NA,1,NA,1,NA,NA,3,NA,3
+Germany,Brandenburg,NA,NA,NA,NA,NA,NA,NA,7,7,8,12,20
+Germany,Braunschweig,NA,NA,10,21,12,18,18,16,17,21,30,40
+Germany,Breisach Am Rhein,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,3,3
+Germany,Bremen,NA,NA,NA,NA,12,20,18,21,27,28,36,55
+Germany,Bruchsal,NA,NA,NA,NA,NA,NA,1,NA,1,3,5,9
+Germany,Burg,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7,14
+Germany,Burscheid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Germany,Celle,NA,NA,NA,NA,NA,NA,1,3,3,3,4,5
+Germany,Charlottenburg,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,10
+Germany,Clausthal-Zellerfeld,NA,NA,NA,NA,NA,NA,NA,3,5,8,4,10
+Germany,Coburg,NA,NA,NA,NA,NA,4,3,2,4,7,8,10
+Germany,Coesfeld,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4
+Germany,Cottbus,NA,NA,NA,NA,NA,2,NA,NA,NA,3,6,9
+Germany,Cronenberg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Germany,Darmstadt,NA,NA,NA,NA,NA,NA,NA,2,2,5,9,27
+Germany,Dessau,NA,NA,NA,NA,NA,NA,2,NA,NA,7,10,14
+Germany,Dinkelsbuehl,NA,NA,NA,NA,NA,4,3,4,4,NA,5,5
+Germany,Doebeln,NA,NA,NA,NA,1,NA,2,NA,2,3,4,6
+Germany,Dortmund,NA,NA,NA,NA,7,9,8,7,3,NA,5,15
+Germany,Dresden,NA,NA,3,NA,5,4,5,12,40,57,60,97
+Germany,Dueren,NA,NA,NA,NA,NA,NA,3,4,2,3,5,8
+Germany,Duesseldorf,NA,NA,NA,NA,2,2,2,5,9,9,20,41
+Germany,Duisburg,NA,NA,NA,NA,NA,NA,NA,NA,3,3,4,15
+Germany,Ebersbach,NA,NA,NA,NA,NA,NA,NA,NA,2,3,4,6
+Germany,Eichstaett,NA,NA,NA,NA,NA,NA,NA,NA,4,7,6,6
+Germany,Eilenburg,NA,NA,NA,NA,NA,NA,NA,NA,2,2,5,10
+Germany,Einbeck,NA,NA,NA,NA,NA,3,7,4,NA,5,5,6
+Germany,Eisenach,NA,NA,NA,NA,NA,NA,4,5,7,NA,8,10
+Germany,Eisleben,NA,NA,NA,NA,NA,4,9,8,5,6,5,10
+Germany,Elberfeld,NA,NA,NA,NA,NA,NA,NA,2,NA,7,19,47
+Germany,Emden,NA,NA,NA,NA,NA,NA,5,15,10,7,10,12
+Germany,Emmerich,NA,NA,NA,NA,NA,NA,NA,5,5,4,6,6
+Germany,Erfurt,NA,NA,10,21,30,24,19,19,17,17,17,32
+Germany,Erlangen,NA,NA,NA,NA,NA,NA,NA,1,2,8,9,11
+Germany,Eschweiler,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,10
+Germany,Essen,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,2,9
+Germany,Esslingen,NA,NA,NA,NA,NA,NA,7,5,7,7,7,13
+Germany,Flensburg,NA,NA,NA,NA,NA,3,3,6,NA,7,13,16
+Germany,Forchheim,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,3,3
+Germany,Frankenberg,NA,NA,NA,NA,NA,NA,1,NA,3,4,5,7
+Germany,Frankenthal,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,3,NA
+Germany,Frankfurt Am Main,3,NA,NA,3,13,11,12,20,28,32,48,62
+Germany,Frankfurt An Der Oder,NA,NA,NA,NA,10,NA,11,13,9,9,13,31
+Germany,Freiberg,NA,NA,NA,NA,6,NA,8,12,8,9,10,16
+Germany,Freiburg,NA,NA,NA,NA,10,9,6,10,5,NA,9,16
+Germany,Freising,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,5
+Germany,Fuerth,NA,NA,NA,NA,NA,NA,NA,1,5,8,12,17
+Germany,Fulda,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,8,10
+Germany,Gelnhausen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4
+Germany,Gera,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,7,13
+Germany,Giessen,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,9
+Germany,Glauchau,NA,NA,NA,NA,1,NA,1,2,3,5,4,10
+Germany,Glueckstadt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Germany,Goeppingen,NA,NA,NA,NA,NA,NA,NA,2,3,3,4,7
+Germany,Goerlitz,NA,NA,NA,NA,5,8,11,10,5,11,9,16
+Germany,Goettingen,NA,NA,NA,NA,8,5,7,7,4,6,9,11
+Germany,Goslar,NA,NA,NA,4,9,NA,12,8,NA,NA,5,8
+Germany,Gotha,NA,NA,NA,NA,NA,NA,3,4,7,12,12,15
+Germany,Greifswald,NA,NA,NA,NA,8,NA,NA,NA,NA,4,6,13
+Germany,Grimma,NA,NA,NA,NA,1,NA,2,NA,NA,3,NA,5
+Germany,Grossenhain,NA,NA,NA,NA,NA,NA,2,2,3,NA,5,7
+Germany,Guestrow,NA,NA,NA,NA,NA,NA,NA,2,3,NA,7,10
+Germany,Halberstadt,NA,NA,NA,NA,6,NA,NA,12,10,11,12,20
+Germany,Halle,NA,NA,12,NA,4,NA,8,10,5,13,20,35
+Germany,Hamburg,NA,NA,NA,2,8,22,15,40,70,90,130,149
+Germany,Hameln,NA,NA,NA,NA,NA,NA,NA,2,2,2,5,6
+Germany,Hamm,NA,NA,NA,NA,NA,NA,NA,NA,3,2,5,8
+Germany,Hanau,NA,NA,NA,NA,NA,1,1,NA,2,11,12,16
+Germany,Hannover,NA,NA,NA,2,5,5,6,7,11,17,17,31
+Germany,Harburg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,10
+Germany,Hardenberg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Germany,Hattingen,NA,NA,NA,NA,NA,NA,NA,NA,1,1,5,4
+Germany,Heidelberg,NA,NA,NA,3,10,5,8,6,NA,10,11,14
+Germany,Heilbronn,NA,NA,NA,NA,NA,6,6,6,NA,6,6,12
+Germany,Helmstedt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Germany,Herford,NA,NA,NA,NA,NA,NA,NA,NA,3,3,5,9
+Germany,Hildesheim,NA,NA,NA,NA,NA,6,10,9,NA,NA,11,15
+Germany,Hof,NA,NA,NA,NA,NA,NA,NA,3,NA,4,5,9
+Germany,Hueckeswagen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Germany,Husum,NA,NA,NA,NA,NA,1,NA,7,4,3,4,4
+Germany,Ibbenbueren,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2
+Germany,Iena,NA,NA,NA,NA,NA,NA,4,NA,NA,4,4,7
+Germany,Ingolstadt,NA,NA,NA,NA,NA,3,4,NA,7,8,5,7
+Germany,Iserlohn,NA,NA,NA,NA,NA,NA,2,NA,2,4,5,11
+Germany,Kaiserslautern,NA,NA,NA,NA,NA,NA,NA,2,1,2,3,10
+Germany,Karl-Marx-Stadt,NA,NA,NA,NA,2,NA,3,5,4,10,14,32
+Germany,Karlsruhe,NA,NA,NA,NA,NA,NA,NA,NA,2,3,7,25
+Germany,Kassel,NA,NA,NA,NA,NA,NA,5,6,10,17,18,36
+Germany,Kaufbeuren,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4
+Germany,Kempten,NA,NA,NA,NA,NA,3,NA,5,NA,3,3,8
+Germany,Kiel,NA,NA,NA,NA,1,NA,2,NA,NA,5,7,16
+Germany,Kleve,NA,NA,NA,NA,2,NA,4,NA,3,5,6,8
+Germany,Koblenz,NA,NA,NA,NA,NA,NA,NA,NA,7,7,9,22
+Germany,Koeln,15,21,21,50,54,40,45,40,40,44,41,110
+Germany,Koenigswinter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2
+Germany,Koethen,NA,NA,NA,NA,NA,NA,NA,2,NA,4,5,9
+Germany,Konstanz,NA,NA,NA,NA,6,5,NA,NA,NA,4,4,7
+Germany,Krefeld,NA,NA,NA,NA,NA,NA,NA,1,1,5,11,36
+Germany,Krempe,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,1,1
+Germany,Lahr,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,5,7
+Germany,Landau,NA,NA,NA,NA,NA,NA,2,NA,2,3,6,7
+Germany,Landshut,NA,NA,NA,NA,NA,9,NA,NA,NA,NA,7,10
+Germany,Langensalza,NA,NA,NA,NA,NA,5,NA,4,NA,5,5,8
+Germany,Lauingen,NA,NA,NA,NA,NA,NA,3,6,6,3,4,4
+Germany,Leer,NA,NA,NA,NA,NA,NA,NA,4,4,5,5,8
+Germany,Leipzig,NA,NA,2,NA,3,NA,10,17,20,35,30,63
+Germany,Lippstadt,NA,NA,NA,NA,NA,NA,3,NA,2,2,3,5
+Germany,Ludwigsburg,NA,NA,NA,NA,NA,NA,NA,NA,1,3,5,11
+Germany,Luebeck,NA,NA,NA,6,28,25,25,23,23,21,25,26
+Germany,Lueneburg,NA,NA,NA,NA,8,NA,NA,14,NA,9,10,12
+Germany,Magdeburg,NA,NA,NA,16,15,20,18,40,10,18,36,72
+Germany,Mainz,20,NA,30,25,25,NA,6,13,24,25,28,43
+Germany,Mannheim,NA,NA,NA,NA,NA,NA,NA,1,13,20,23,24
+Germany,Marburg,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,6,8
+Germany,Marienberg,NA,NA,NA,NA,1,NA,NA,5,NA,3,3,5
+Germany,Mecklenburg,NA,NA,NA,NA,NA,11,NA,NA,NA,NA,1,NA
+Germany,Meiningen,NA,NA,NA,NA,NA,NA,2,5,3,3,4,6
+Germany,Meissen,NA,NA,NA,NA,2,NA,2,3,NA,4,5,9
+Germany,Memmingen,NA,NA,NA,NA,NA,4,5,6,3,NA,7,7
+Germany,Merseburg,NA,NA,5,NA,NA,NA,NA,5,NA,4,6,11
+Germany,Mettmann,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,5,6
+Germany,Michelstadt,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3
+Germany,Minden,NA,NA,NA,NA,NA,NA,4,4,3,4,5,10
+Germany,Mittweida,NA,NA,NA,NA,1,NA,3,NA,NA,4,3,6
+Germany,Muelheim An Der Ruhr,NA,NA,NA,NA,NA,1,NA,2,NA,NA,10,10
+Germany,Muenchen,NA,NA,NA,NA,10,NA,13,20,20,32,40,11
+Germany,Muenster,NA,NA,NA,NA,16,NA,10,11,7,9,14,22
+Germany,Nauen,NA,NA,NA,NA,NA,NA,NA,NA,2,3,5,5
+Germany,Naumburg,NA,NA,NA,NA,2,NA,5,8,7,7,8,13
+Germany,Neubrandenburg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Germany,Neuburg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Germany,Neuruppin,NA,NA,NA,NA,2,NA,4,NA,3,3,6,8
+Germany,Neuss,NA,NA,NA,NA,NA,5,NA,NA,NA,3,5,9
+Germany,Neustrelitz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Germany,Neuwied,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4,9
+Germany,Noerdlingen,NA,NA,NA,NA,10,5,6,8,5,NA,6,7
+Germany,Norden,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Germany,Nordhausen,NA,NA,NA,3,NA,3,6,7,NA,8,8,14
+Germany,Nuernberg,NA,NA,NA,10,12,20,38,40,40,30,30,54
+Germany,Offenbach,NA,NA,NA,NA,NA,NA,NA,NA,1,3,6,11
+Germany,Oldenburg,NA,NA,NA,NA,NA,NA,2,NA,NA,3,6,11
+Germany,Oppenheim,NA,NA,NA,NA,NA,4,NA,5,1,1,2,3
+Germany,Osnabrueck,NA,NA,NA,NA,9,5,10,9,NA,5,9,13
+Germany,Paderborn,NA,NA,NA,NA,7,NA,NA,5,NA,2,5,10
+Germany,Passau,NA,NA,NA,NA,3,4,4,NA,NA,NA,10,9
+Germany,Pforzheim,NA,NA,NA,NA,NA,NA,NA,4,2,3,5,9
+Germany,Pirmasens,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,5,7
+Germany,Pirna,NA,NA,NA,NA,2,NA,NA,NA,2,3,4,6
+Germany,Plauen,NA,NA,NA,NA,1,NA,1,NA,NA,4,6,12
+Germany,Potsdam,NA,NA,NA,NA,1,NA,1,1,2,15,27,31
+Germany,Prenzlau,NA,NA,NA,NA,NA,NA,NA,1,NA,6,10,12
+Germany,Quedlinburg,NA,NA,NA,NA,3,NA,5,6,NA,8,11,14
+Germany,Radevormwald,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,9
+Germany,Ratzeburg,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,3
+Germany,Ravensburg,NA,NA,NA,NA,1,3,5,NA,NA,NA,3,6
+Germany,Regensburg,25,NA,40,NA,11,NA,22,20,20,20,23,22
+Germany,Reichenbach,NA,NA,NA,NA,NA,NA,NA,1,3,5,4,9
+Germany,Remscheid,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,12
+Germany,Rendsburg,NA,NA,NA,NA,NA,NA,1,2,NA,3,8,11
+Germany,Reutlingen,NA,NA,NA,NA,5,NA,5,5,NA,7,8,13
+Germany,Rheine,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3
+Germany,Rheydt,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,8
+Germany,Rochlitz,NA,NA,NA,NA,2,NA,3,NA,1,3,2,4
+Germany,Rostock,NA,NA,NA,NA,14,14,10,15,NA,6,14,23
+Germany,Rottenburg Am Neckar,NA,NA,NA,NA,NA,4,NA,3,3,3,5,7
+Germany,Rothenburg Ob Der Tauber,NA,NA,NA,NA,5,6,NA,NA,NA,5,6,5
+Germany,Saarbruecken,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,6,9
+Germany,Saarlouis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5
+Germany,Salzwedel,NA,NA,NA,NA,NA,NA,NA,7,4,4,4,8
+Germany,Schleswig,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8,12
+Germany,Schmalkalden,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Germany,Schneeberg,NA,NA,NA,NA,NA,NA,6,NA,NA,6,NA,8
+Germany,Schorndorf,NA,NA,NA,NA,NA,1,3,5,2,3,3,4
+Germany,Schwabach,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,6
+Germany,Schwaebisch Gmuend,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Germany,Schwaebisch Hall,NA,NA,NA,NA,NA,6,NA,6,NA,5,7,NA
+Germany,Schweinfurt,NA,NA,NA,NA,NA,3,NA,5,NA,NA,6,9
+Germany,Schwerin,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,10,20
+Germany,Siegen,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,4,7
+Germany,Soest,NA,NA,NA,12,12,18,10,10,5,5,6,9
+Germany,Solingen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,7
+Germany,Spandau,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,6,12
+Germany,Speyer,20,NA,25,30,25,20,13,8,2,3,5,10
+Germany,Stade,NA,NA,NA,NA,NA,NA,NA,NA,3,4,5,6
+Germany,Stendal,NA,NA,NA,NA,NA,6,6,NA,3,4,5,7
+Germany,Stralsund,NA,NA,NA,NA,12,15,11,15,10,8,11,18
+Germany,Straubing,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,5,9
+Germany,Stuttgart,NA,NA,NA,NA,5,4,NA,9,13,17,20,50
+Germany,Suhl,NA,NA,NA,NA,NA,NA,NA,4,4,NA,6,9
+Germany,Toenning,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+Germany,Torgau,NA,NA,NA,NA,NA,NA,3,6,4,4,5,7
+Germany,Trier,15,NA,20,25,11,10,8,5,7,9,13,19
+Germany,Tuebingen,NA,NA,NA,NA,NA,NA,4,4,4,5,6,9
+Germany,Ueberlingen,NA,NA,NA,NA,NA,NA,3,4,2,NA,3,4
+Germany,Ulm,NA,NA,NA,NA,4,10,16,21,10,15,16,20
+Germany,Unna,NA,NA,NA,NA,NA,NA,3,5,1,1,6,6
+Germany,Velbert,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6
+Germany,Verden,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,3,5
+Germany,Viersen,NA,NA,NA,NA,NA,NA,2,NA,4,5,5,12
+Germany,Warburg,NA,NA,NA,NA,NA,NA,NA,5,NA,2,2,3
+Germany,Weimar,NA,NA,NA,NA,NA,NA,2,4,NA,6,6,13
+Germany,Weissenfels,4,NA,NA,NA,NA,NA,NA,2,4,NA,4,9
+Germany,Werden,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Germany,Wesel,NA,NA,NA,2,NA,6,NA,6,4,6,7,17
+Germany,Wetzlar,NA,NA,NA,NA,6,NA,NA,3,3,6,5,6
+Germany,Wiesbaden,NA,NA,NA,NA,NA,NA,NA,1,1,2,2,14
+Germany,Wismar,NA,NA,NA,NA,8,NA,9,NA,NA,NA,7,12
+Germany,Wittenberg,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,7,10
+Germany,Wolfenbuettel,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,6,8
+Germany,Worms,10,NA,20,28,20,NA,8,10,2,5,5,9
+Germany,Wuelfrath,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5
+Germany,Wuerzburg,NA,2,1,5,7,6,7,10,14,15,20,25
+Germany,Xanten,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,4
+Germany,Zeitz,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,12
+Germany,Zerbst,NA,NA,NA,NA,9,5,6,7,NA,6,7,10
+Germany,Zittau,NA,NA,NA,NA,2,5,NA,6,9,7,8,10
+Germany,Zweibruecken,NA,NA,NA,NA,NA,NA,NA,1,NA,5,5,7
+Germany,Zwickau,NA,NA,NA,NA,3,NA,NA,6,4,4,4,13
+Great Britain,Aberdeen,NA,NA,NA,NA,4,3,3,6,12,15,27,72
+Great Britain,Ashton-Upon-Lyne,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,15,57
+Great Britain,Barnsley,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,4,13
+Great Britain,Bath,NA,NA,NA,NA,5,NA,NA,2,3,10,33,54
+Great Britain,Berwick,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Great Britain,Beverley,NA,NA,NA,NA,NA,NA,NA,NA,3,4,6,9
+Great Britain,Bilston,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,24
+Great Britain,Birmingham,NA,NA,NA,NA,NA,NA,1,2,7,24,71,233
+Great Britain,Blackburn,NA,NA,NA,NA,NA,NA,NA,2,1,4,12,47
+Great Britain,Bolton,NA,NA,NA,NA,NA,NA,NA,NA,2,1,13,61
+Great Britain,Boston,NA,NA,NA,NA,7,6,2,2,4,NA,6,15
+Great Britain,Bournemouth,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+Great Britain,Bradford,NA,NA,NA,NA,NA,NA,NA,NA,7,9,13,110
+Great Britain,Brighton,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,8,66
+Great Britain,Bristol,NA,NA,5,3,11,10,10,12,20,50,64,137
+Great Britain,Bromsgrove,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,6,10
+Great Britain,Burnley,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,25
+Great Britain,Burslem,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,7,20
+Great Britain,Bury,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,7,25
+Great Britain,Bury-St-Edmunds,NA,NA,NA,NA,NA,NA,3,4,6,NA,8,31
+Great Britain,Cambridge,NA,NA,2,NA,NA,NA,4,5,9,6,10,28
+Great Britain,Canterbury,NA,NA,2,5,NA,4,3,6,8,NA,9,18
+Great Britain,Cardiff,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,20
+Great Britain,Carlisle,NA,NA,NA,NA,NA,1,NA,NA,2,4,9,26
+Great Britain,Chatham,NA,NA,NA,NA,NA,NA,NA,1,5,5,22,49
+Great Britain,Cheltenham,NA,NA,NA,NA,NA,NA,NA,1,2,2,3,35
+Great Britain,Chester,NA,NA,3,NA,NA,3,NA,6,5,13,15,28
+Great Britain,Chesterfield,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,5,7
+Great Britain,Chichester,NA,NA,NA,NA,NA,NA,2,NA,3,4,5,9
+Great Britain,Colchester,NA,NA,2,NA,7,4,5,8,10,9,12,19
+Great Britain,Congleton,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,4,11
+Great Britain,Coventry,NA,NA,NA,NA,12,10,6,6,7,12,16,36
+Great Britain,Croydon,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6,20
+Great Britain,Darlington,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,11
+Great Britain,Deal,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5,7
+Great Britain,Deptford,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,18,32
+Great Britain,Derby,NA,NA,NA,NA,NA,NA,NA,NA,3,6,11,43
+Great Britain,Doncaster,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6,12
+Great Britain,Dover,NA,NA,NA,NA,NA,NA,2,3,4,NA,11,28
+Great Britain,Dudley,NA,NA,NA,NA,NA,NA,NA,NA,4,5,10,38
+Great Britain,Dundee,NA,NA,NA,NA,2,NA,4,7,10,12,26,79
+Great Britain,Durham,NA,NA,NA,NA,NA,NA,3,NA,1,NA,8,13
+Great Britain,Edinburgh,NA,NA,NA,NA,1,2,18,15,36,57,83,194
+Great Britain,Ellesmere,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6,7
+Great Britain,Elmbridge,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,3,5
+Great Britain,Ely,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,5,12
+Great Britain,Exeter,NA,NA,NA,NA,NA,NA,7,9,14,16,17,39
+Great Britain,Frome,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,9,12
+Great Britain,Gateshead,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,9,26
+Great Britain,Gillingham,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,8
+Great Britain,Glasgow,NA,NA,NA,NA,2,2,4,8,13,25,70,345
+Great Britain,Gloucester,NA,NA,3,NA,NA,NA,4,4,5,5,8,25
+Great Britain,Gosport,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,8,7
+Great Britain,Gravesend,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,2,17
+Great Britain,Great-Yarmouth,NA,NA,NA,NA,NA,NA,4,8,10,10,17,31
+Great Britain,Greenock,NA,NA,NA,NA,NA,NA,NA,NA,3,4,17,37
+Great Britain,Greenwich,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,14,57
+Great Britain,Grimsby,NA,NA,NA,NA,NA,NA,NA,1,1,NA,2,9
+Great Britain,Guildford,NA,NA,NA,NA,NA,NA,NA,1,1,NA,3,7
+Great Britain,Halifax,NA,NA,NA,NA,NA,NA,NA,NA,3,6,12,34
+Great Britain,Halton,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2,8
+Great Britain,Hamilton,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,7,11
+Great Britain,Hartlepool,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1,10
+Great Britain,Haslingden,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,6,NA
+Great Britain,Hereford,NA,NA,NA,NA,NA,NA,5,NA,2,5,7,NA
+Great Britain,Huddersfield,NA,NA,NA,NA,NA,NA,NA,NA,3,5,11,31
+Great Britain,Hull,NA,NA,NA,NA,4,2,3,NA,6,6,30,85
+Great Britain,Ilkeston,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2,6
+Great Britain,Inverness,NA,NA,2,NA,NA,NA,5,NA,NA,10,15,14
+Great Britain,Ipswich,NA,NA,NA,NA,NA,NA,3,4,8,8,11,33
+Great Britain,Kendal,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,7,10
+Great Britain,Kidderminster,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6,17
+Great Britain,King's Lynn,NA,NA,NA,NA,8,5,4,8,5,9,10,19
+Great Britain,Kirkcaldy,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,7,36
+Great Britain,Lancaster,NA,NA,NA,NA,NA,NA,NA,NA,1,8,9,15
+Great Britain,Leeds,NA,NA,NA,NA,3,NA,3,5,5,16,53,172
+Great Britain,Leek,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3,9
+Great Britain,Leicester,NA,NA,NA,NA,3,3,3,4,5,8,17,61
+Great Britain,Lichfield,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,5,7
+Great Britain,Lincoln,NA,NA,8,NA,9,5,4,3,4,6,7,18
+Great Britain,Liverpool,NA,NA,NA,NA,NA,NA,1,2,6,22,83,376
+Great Britain,London,NA,NA,25,25,35,45,50,200,575,675,948,2236
+Great Britain,Loughborough,NA,NA,NA,NA,NA,NA,NA,2,2,NA,5,11
+Great Britain,Luton,NA,NA,NA,NA,NA,NA,NA,2,2,NA,3,11
+Great Britain,Macclesfield,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,11,39
+Great Britain,Maidstone,NA,NA,NA,NA,NA,NA,2,3,4,5,8,21
+Great Britain,Manchester,NA,NA,NA,NA,2,NA,NA,10,8,18,84,303
+Great Britain,Mansfield,NA,NA,NA,NA,NA,NA,NA,1,1,NA,6,11
+Great Britain,Margate,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,10
+Great Britain,Merthyr-Tydfil,NA,NA,NA,NA,NA,NA,NA,NA,2,1,9,46
+Great Britain,Nantwich,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,3,6
+Great Britain,Newark,NA,NA,NA,NA,NA,NA,NA,3,2,NA,7,11
+Great Britain,Newbury,NA,NA,NA,NA,NA,NA,3,NA,2,NA,4,7
+Great Britain,Newcastle-Under-Lyme,NA,NA,NA,NA,NA,NA,NA,1,1,NA,5,11
+Great Britain,Newcastle-Upon-Tyne,NA,NA,4,NA,8,4,5,10,14,29,33,88
+Great Britain,Newport,NA,NA,NA,NA,NA,NA,NA,2,2,NA,4,20
+Great Britain,Northampton,NA,NA,NA,NA,NA,NA,3,NA,4,5,7,27
+Great Britain,North-Shields,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA
+Great Britain,Norwich,NA,NA,10,14,13,6,10,20,30,37,37,68
+Great Britain,Nottingham,NA,NA,NA,NA,4,NA,3,4,5,12,29,99
+Great Britain,Nuneaton,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5,5
+Great Britain,Ogwr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,16
+Great Britain,Oldham,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,12,53
+Great Britain,Oxford,NA,NA,NA,NA,NA,NA,5,5,8,8,12,29
+Great Britain,Paisley,NA,NA,NA,NA,NA,NA,NA,4,NA,7,25,48
+Great Britain,Perth,NA,NA,NA,NA,NA,NA,9,5,NA,9,15,25
+Great Britain,Peterborough,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,3,9
+Great Britain,Plymouth,NA,NA,NA,NA,12,7,3,7,8,14,16,52
+Great Britain,Poole,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5,9
+Great Britain,Portsmouth,NA,NA,NA,NA,5,NA,NA,1,3,10,33,72
+Great Britain,Preston,NA,NA,NA,NA,NA,NA,NA,NA,2,6,12,70
+Great Britain,Reading,NA,NA,NA,NA,NA,NA,4,NA,5,7,10,21
+Great Britain,Renfrew,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,17,47
+Great Britain,Rochdale,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,13,42
+Great Britain,Rochester,NA,NA,NA,NA,NA,NA,2,3,3,NA,7,17
+Great Britain,Rotherham,NA,NA,NA,NA,NA,2,3,NA,1,NA,8,14
+Great Britain,Rowley Regis,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,14
+Great Britain,Rugby,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1,6
+Great Britain,Salford,NA,NA,NA,NA,NA,NA,NA,NA,1,3,18,85
+Great Britain,Salisbury,NA,NA,NA,NA,8,5,8,6,7,9,8,12
+Great Britain,Sandwich,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,4,5
+Great Britain,Scarborough,NA,NA,NA,NA,NA,NA,NA,2,4,NA,6,13
+Great Britain,Sedgley,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,10,30
+Great Britain,Sefton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5
+Great Britain,Sheffield,NA,NA,NA,NA,1,2,NA,3,3,12,46,135
+Great Britain,Shepton-Mallet,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5,4
+Great Britain,Shrewsbury,NA,NA,NA,NA,NA,4,4,NA,7,8,15,20
+Great Britain,Southampton,NA,NA,NA,NA,NA,NA,3,4,3,3,8,35
+Great Britain,South-Ribble,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,11
+Great Britain,South-Shields,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,29
+Great Britain,Stafford,NA,NA,NA,NA,NA,NA,NA,1,2,NA,4,12
+Great Britain,St-Albans,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,3,7
+Great Britain,St-Andrews,NA,NA,NA,NA,NA,NA,4,14,NA,NA,3,6
+Great Britain,St-Helens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,25
+Great Britain,Stockport,NA,NA,NA,NA,NA,NA,NA,1,2,3,20,54
+Great Britain,Stockton-On-Tees,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5,10
+Great Britain,Stoke-On-Trent,NA,NA,NA,NA,NA,NA,NA,NA,1,3,23,66
+Great Britain,St-Peter Port,NA,NA,NA,NA,NA,NA,NA,2,5,NA,8,17
+Great Britain,Stroud,NA,NA,NA,NA,NA,NA,NA,1,2,NA,5,9
+Great Britain,Sunderland,NA,NA,NA,NA,1,NA,NA,NA,5,10,24,65
+Great Britain,Swansea,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,9,31
+Great Britain,Tameside,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,62
+Great Britain,Taunton,NA,NA,NA,NA,NA,NA,3,NA,2,NA,5,10
+Great Britain,Thetford,NA,NA,3,NA,NA,NA,1,1,2,NA,3,4
+Great Britain,Tiverton,NA,NA,NA,NA,NA,NA,3,4,7,NA,7,11
+Great Britain,Tunbridge-Wells,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11
+Great Britain,Tynemouth,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,13,29
+Great Britain,Wakefield,NA,NA,NA,NA,NA,NA,3,NA,2,4,11,22
+Great Britain,Walsall,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,10,26
+Great Britain,Warminster,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,7,8
+Great Britain,Warrington,NA,NA,NA,NA,NA,NA,NA,NA,2,4,11,21
+Great Britain,Warwick,NA,NA,1,NA,NA,NA,1,3,3,4,6,11
+Great Britain,Wellington,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,8,5
+Great Britain,West-Bromwich,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,6,35
+Great Britain,West-Ham,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,19
+Great Britain,Whitby,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,7,8
+Great Britain,Whitehaven,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,9,14
+Great Britain,Wigan,NA,NA,NA,NA,NA,NA,NA,NA,2,4,11,32
+Great Britain,Winchester,NA,NA,15,20,15,3,3,3,3,NA,6,14
+Great Britain,Windsor-And-Maidenhead,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5,14
+Great Britain,Wolverhampton,NA,NA,NA,NA,NA,NA,NA,NA,6,7,13,50
+Great Britain,Woolwich,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,24,52
+Great Britain,Worcester,NA,NA,NA,NA,NA,NA,4,6,9,10,11,31
+Great Britain,Workington,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,6,6
+Great Britain,York,NA,NA,12,NA,8,12,7,12,12,11,17,41
+Greece,Agrinion,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+Greece,Argos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Greece,Arta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8
+Greece,Athinai,NA,NA,15,NA,25,35,10,33,13,10,12,30
+Greece,Ioannina,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,20,24
+Greece,Iraklion,15,NA,NA,NA,11,14,NA,NA,NA,NA,15,19
+Greece,Kalamai,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,1,3
+Greece,Kerkira,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,15,15
+Greece,Khalkis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+Greece,Khios,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,NA
+Greece,Korinthos,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,4,2
+Greece,Larisa,NA,NA,NA,NA,10,NA,NA,NA,NA,NA,20,13
+Greece,Missolonghi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+Greece,Nafplion,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,7,6
+Greece,Patrai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,15
+Greece,Piraievs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Greece,Pirgos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4
+Greece,Preveza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+Greece,Salonika,NA,50,40,30,50,42,19,50,40,45,70,70
+Greece,Serrai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,NA
+Greece,Trikkala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5
+Greece,Tripolis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,7
+Greece,Volos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5
+Greece,Zakynthos,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,15,18
+Hungary,Baja,NA,NA,NA,NA,NA,NA,NA,NA,2,4,8,15
+Hungary,Bekes,NA,NA,NA,NA,NA,NA,NA,NA,1,6,10,18
+Hungary,Bekescsaba,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,10,23
+Hungary,Buda,NA,NA,NA,NA,NA,8,12,NA,13,NA,25,42
+Hungary,Cegled,NA,NA,NA,NA,NA,NA,NA,NA,1,6,8,17
+Hungary,Csongrad,NA,NA,NA,NA,NA,NA,NA,NA,1,6,7,13
+Hungary,Debrecen,NA,NA,NA,NA,3,NA,9,12,20,28,35,49
+Hungary,Dunafoeldvar,NA,NA,NA,NA,NA,NA,NA,NA,1,2,7,12
+Hungary,Eger,NA,NA,NA,NA,NA,NA,NA,NA,2,6,17,18
+Hungary,Esztergom,NA,NA,NA,NA,NA,NA,NA,NA,2,5,6,7
+Hungary,Gyoengyoes,NA,NA,NA,NA,NA,NA,NA,NA,1,8,10,13
+Hungary,Gyoer,NA,NA,NA,NA,NA,NA,NA,NA,7,10,13,16
+Hungary,Gyula,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,9,15
+Hungary,Hajduboeszoermeny,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,15
+Hungary,Hajdunanas,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8,10
+Hungary,Hajduszoboszlo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Hungary,Hodmezoevasarhely,NA,NA,NA,NA,NA,NA,NA,NA,3,14,16,33
+Hungary,Jaszarokszallas,NA,NA,NA,NA,NA,NA,NA,NA,1,4,6,8
+Hungary,Jaszbereny,NA,NA,NA,NA,NA,NA,NA,NA,2,8,11,17
+Hungary,Kalocsa,NA,NA,NA,NA,NA,NA,NA,NA,1,2,6,6
+Hungary,Karcag,NA,NA,NA,NA,NA,NA,NA,NA,1,6,8,12
+Hungary,Kecskemet,NA,NA,NA,NA,NA,NA,NA,4,5,NA,23,32
+Hungary,Kiskunfelegyhaza,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8,18
+Hungary,Kiskunhalas,NA,NA,NA,NA,NA,NA,NA,NA,1,5,7,13
+Hungary,Koeszeg,NA,NA,NA,NA,NA,NA,NA,NA,3,4,5,6
+Hungary,Mako,NA,NA,NA,NA,NA,NA,NA,NA,2,8,10,23
+Hungary,Mezoetur,NA,NA,NA,NA,NA,NA,NA,NA,1,7,8,16
+Hungary,Miskolc,NA,NA,NA,NA,NA,NA,NA,NA,4,10,14,16
+Hungary,Mohacs,NA,NA,NA,NA,NA,NA,NA,NA,1,2,5,9
+Hungary,Nagykoeroes,NA,NA,NA,NA,NA,NA,NA,NA,3,7,9,16
+Hungary,Nyiregyhaza,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7,14
+Hungary,Obuda,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6,12
+Hungary,Oroshaza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,11
+Hungary,Paks,NA,NA,NA,NA,NA,NA,NA,NA,1,2,6,9
+Hungary,Papa,NA,NA,NA,NA,NA,NA,NA,NA,3,8,9,12
+Hungary,Pecs,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,9,16
+Hungary,Pest,NA,NA,NA,NA,NA,7,10,NA,4,NA,25,119
+Hungary,Sopron,NA,NA,NA,NA,NA,4,3,6,5,11,11,16
+Hungary,Szarvas,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8,17
+Hungary,Szeged,NA,NA,NA,NA,4,NA,7,NA,4,15,22,49
+Hungary,Szekesfehervar,NA,NA,2,NA,NA,NA,NA,NA,3,11,12,15
+Hungary,Szekszard,NA,NA,NA,NA,NA,NA,NA,NA,1,2,6,9
+Hungary,Szentes,NA,NA,NA,NA,NA,NA,NA,NA,2,8,9,22
+Hungary,Szolnok,NA,NA,NA,NA,NA,NA,NA,NA,1,5,6,11
+Hungary,Toeroekszentmiklos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Hungary,Vac,NA,NA,NA,NA,NA,NA,NA,NA,1,7,9,11
+Hungary,Veszprem,NA,NA,NA,NA,NA,NA,NA,NA,2,4,8,11
+Ireland,Armagh,NA,NA,15,NA,5,NA,2,NA,NA,10,7,10
+Ireland,Belfast,NA,NA,NA,NA,NA,NA,2,NA,2,9,20,87
+Ireland,Carlow,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Ireland,Carrickfergus,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,8,4
+Ireland,Castlebar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4
+Ireland,Clonmell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Ireland,Cork,NA,NA,NA,5,6,NA,4,2,25,58,75,85
+Ireland,Downpatrick,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,5,4
+Ireland,Drogheda,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,18,17
+Ireland,Dublin,NA,NA,4,9,11,15,8,5,60,129,200,262
+Ireland,Dundalk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,12
+Ireland,Galway,NA,NA,NA,4,4,NA,NA,4,6,12,15,15
+Ireland,Kilkenny,NA,NA,NA,NA,3,NA,NA,NA,7,11,16,12
+Ireland,Kilmallock,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,12,21
+Ireland,Limerick,NA,NA,NA,NA,3,NA,NA,3,11,16,39,53
+Ireland,Londonderry,3,NA,NA,2,NA,NA,3,1,3,NA,15,20
+Ireland,New-Ross,NA,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,8
+Ireland,Newry,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,15,15
+Ireland,Sligo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,10
+Ireland,Tralee,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+Ireland,Waterford,NA,2,NA,4,3,NA,NA,2,6,10,20,22
+Ireland,Wexford,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,10,12
+Italy,Acerra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,10
+Italy,Acireale,NA,NA,NA,NA,NA,NA,NA,8,12,13,15,24
+Italy,Acquaviva,NA,NA,NA,NA,NA,NA,3,6,7,NA,6,7
+Italy,Acqui Terme,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,7
+Italy,Aderno,NA,NA,NA,NA,NA,NA,NA,6,5,5,7,13
+Italy,Afragola,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,16
+Italy,Agnone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Italy,Agrigento,NA,NA,NA,NA,NA,NA,10,11,11,18,14,16
+Italy,Aidone,NA,NA,NA,NA,NA,NA,NA,7,6,4,4,6
+Italy,Alassio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Italy,Alatri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA
+Italy,Alba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5
+Italy,Alcamo,NA,NA,NA,NA,1,3,6,8,8,9,13,20
+Italy,Alessandria,NA,NA,NA,20,NA,NA,8,14,12,17,30,27
+Italy,Alghero,NA,NA,NA,NA,NA,NA,NA,NA,5,5,6,8
+Italy,Altamura,NA,NA,NA,NA,NA,NA,6,12,NA,NA,18,17
+Italy,Amalfi,NA,NA,NA,NA,13,NA,2,NA,2,NA,5,7
+Italy,Anagni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+Italy,Ancona,NA,NA,NA,NA,NA,NA,NA,10,9,10,17,32
+Italy,Andria,NA,NA,NA,NA,NA,NA,5,14,7,NA,14,25
+Italy,Angri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Italy,Aosta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Italy,Aquila,NA,NA,NA,NA,40,30,10,9,7,NA,14,13
+Italy,Aragona,NA,NA,NA,NA,NA,NA,NA,NA,4,6,6,NA
+Italy,Arezzo,NA,NA,NA,8,20,4,6,7,6,7,8,11
+Italy,Ariano Irpino,NA,NA,NA,NA,NA,NA,4,8,NA,NA,10,14
+Italy,Arpino,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,12
+Italy,Asaro,NA,NA,NA,NA,NA,NA,NA,5,3,3,4,3
+Italy,Ascoli Piceno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,11
+Italy,Ascoli Satriano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Italy,Asiago,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+Italy,Assisi,NA,NA,NA,NA,NA,NA,4,4,5,NA,4,4
+Italy,Asti,NA,NA,NA,15,16,NA,8,10,10,13,21,20
+Italy,Atessa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Italy,Atri,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5,7
+Italy,Augusta,NA,NA,NA,NA,2,1,NA,4,6,9,15,13
+Italy,Avellino,NA,NA,NA,NA,NA,NA,NA,3,8,NA,11,13
+Italy,Aversa,NA,NA,NA,NA,15,10,NA,8,NA,NA,14,16
+Italy,Avigliano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,14
+Italy,Avola,NA,NA,NA,NA,NA,NA,NA,4,6,6,7,11
+Italy,Bagnara Calabra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Italy,Bari,10,NA,11,NA,10,6,8,15,18,15,17,34
+Italy,Barletta,NA,NA,NA,NA,13,NA,8,14,NA,NA,16,25
+Italy,Barrafranca,NA,NA,NA,NA,NA,NA,NA,2,3,5,6,9
+Italy,Bassano,NA,NA,NA,2,NA,NA,3,7,NA,8,10,NA
+Italy,Bella,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5
+Italy,Belluno,NA,NA,NA,NA,NA,NA,NA,5,NA,4,7,NA
+Italy,Belpasso,NA,NA,NA,NA,NA,NA,NA,3,3,4,5,7
+Italy,Benevento,NA,NA,NA,NA,NA,NA,NA,7,8,10,14,16
+Italy,Bergamo,NA,NA,13,NA,14,NA,18,24,25,27,24,24
+Italy,Biancavilla,NA,NA,NA,NA,NA,NA,NA,NA,3,6,6,9
+Italy,Biella,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,8
+Italy,Bisacquino,NA,NA,NA,NA,1,NA,NA,4,4,7,8,9
+Italy,Bisceglie,NA,NA,NA,NA,NA,NA,3,10,6,9,11,18
+Italy,Bitonto,NA,NA,NA,NA,NA,NA,6,12,NA,NA,15,21
+Italy,Bivona,NA,NA,NA,NA,3,2,NA,6,4,4,2,3
+Italy,Bologna,NA,NA,NA,35,40,45,50,63,63,69,68,74
+Italy,Bolzano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8
+Italy,Bosa,NA,NA,NA,NA,NA,NA,NA,NA,3,5,5,6
+Italy,Boves,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Italy,Bra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Italy,Brescia,NA,NA,NA,20,24,27,49,36,35,30,32,41
+Italy,Brindisi,NA,NA,NA,NA,NA,NA,4,9,8,8,6,8
+Italy,Bronte,NA,NA,NA,NA,NA,NA,NA,7,9,8,9,11
+Italy,Burgio,NA,NA,NA,NA,NA,NA,NA,4,4,6,6,5
+Italy,Busca,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,7,NA
+Italy,Caccamo,NA,NA,NA,NA,4,3,NA,9,7,6,6,7
+Italy,Cagliari,NA,NA,NA,NA,NA,NA,4,8,15,20,25,28
+Italy,Caivano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Italy,Calascibetta,NA,NA,NA,NA,NA,2,NA,5,4,5,5,5
+Italy,Calatafimi,NA,NA,NA,NA,3,2,NA,5,6,8,10,9
+Italy,Caltabellotta,NA,NA,NA,NA,3,2,NA,4,4,4,5,6
+Italy,Caltagirone,NA,NA,NA,NA,5,4,8,11,12,17,20,22
+Italy,Caltanisseta,NA,NA,NA,NA,1,3,NA,10,12,15,16,20
+Italy,Caltavuturo,NA,NA,NA,NA,4,1,NA,3,5,4,4,5
+Italy,Calvello,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6
+Italy,Camerino,NA,NA,NA,NA,NA,NA,7,5,4,4,5,6
+Italy,Cammarata,NA,NA,NA,NA,3,NA,NA,8,7,7,8,5
+Italy,Campagna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Italy,Campli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Italy,Campobasso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,11
+Italy,Canicatti,NA,NA,NA,NA,NA,NA,NA,3,7,11,16,20
+Italy,Capri,NA,NA,NA,NA,NA,NA,NA,NA,3,3,2,2
+Italy,Capua,NA,NA,NA,NA,NA,NA,NA,5,6,NA,7,11
+Italy,Caraglio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6
+Italy,Carignano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Italy,Carini,NA,NA,NA,NA,NA,NA,NA,3,4,5,7,13
+Italy,Carmagnole,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,11
+Italy,Carrara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Italy,Casale,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,16,17
+Italy,Casalmaggiore,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,NA
+Italy,Caserta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11
+Italy,Cassano All'ionio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+Italy,Castelbuono,NA,NA,NA,NA,NA,NA,NA,5,7,6,7,8
+Italy,Castellamare Del Golfo,NA,NA,NA,NA,NA,NA,NA,1,2,3,6,NA
+Italy,Castellammare,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,20
+Italy,Casteltermini,NA,NA,NA,NA,NA,NA,NA,NA,4,6,6,7
+Italy,Castelvetrano,NA,NA,NA,NA,3,NA,NA,11,12,8,14,18
+Italy,Castiglione Delle Stiviere,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,5
+Italy,Castronuovo Di Sicilia,NA,NA,NA,NA,3,3,NA,5,3,5,6,4
+Italy,Castroreale,NA,NA,NA,NA,NA,NA,NA,10,11,9,11,8
+Italy,Catania,NA,NA,NA,15,10,NA,14,15,18,26,45,65
+Italy,Catanzaro,NA,NA,NA,NA,NA,4,NA,10,NA,NA,13,17
+Italy,Cattolica Eraclea,NA,NA,NA,NA,NA,NA,NA,NA,5,9,7,6
+Italy,Cava De Tirreni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,20
+Italy,Cavour,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Italy,Cefalu,NA,NA,NA,NA,4,1,NA,5,7,5,9,11
+Italy,Cerreto Sannita,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Italy,Cervinara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Italy,Cesena,NA,NA,NA,NA,NA,8,7,7,6,6,7,7
+Italy,Cetraro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Italy,Cherasco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Italy,Chiaramonte Gulfi,NA,NA,NA,NA,NA,1,NA,5,5,6,7,8
+Italy,Chiavari,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7
+Italy,Chieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+Italy,Chieti,NA,NA,NA,NA,NA,NA,NA,10,9,7,13,17
+Italy,Chioggia,NA,NA,NA,NA,5,NA,NA,9,NA,19,24,NA
+Italy,Chiusa Sclafani,NA,NA,NA,NA,NA,1,NA,5,5,6,6,7
+Italy,Chivasso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,NA
+Italy,Ciminna,NA,NA,NA,NA,1,4,NA,6,7,5,6,5
+Italy,Cinisi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Italy,Citta Di Castello,NA,NA,NA,NA,NA,NA,NA,NA,6,7,8,NA
+Italy,Civitavecchia,NA,NA,NA,NA,NA,NA,NA,3,3,NA,7,NA
+Italy,Comiso,NA,NA,NA,NA,NA,NA,NA,5,5,9,11,16
+Italy,Como,NA,NA,NA,NA,12,10,10,12,13,14,15,12
+Italy,Conegliano,NA,NA,NA,NA,NA,NA,NA,5,NA,3,4,NA
+Italy,Conversano,NA,NA,NA,NA,3,5,NA,NA,NA,NA,8,10
+Italy,Corato,NA,NA,NA,NA,NA,NA,3,7,NA,NA,10,23
+Italy,Corleone,NA,NA,NA,NA,13,5,5,6,3,10,12,14
+Italy,Cortona,NA,NA,NA,NA,NA,3,5,5,3,4,5,NA
+Italy,Cosenza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,11
+Italy,Crema,NA,NA,NA,NA,9,NA,12,14,7,8,9,8
+Italy,Cremona,NA,NA,NA,25,40,35,40,36,22,24,23,31
+Italy,Cuneo,NA,NA,NA,NA,NA,3,NA,10,12,13,18,13
+Italy,Dronero,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+Italy,Eboli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Italy,Enna,NA,NA,NA,NA,NA,12,NA,14,9,10,11,14
+Italy,Este,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+Italy,Faenza,NA,NA,NA,NA,12,10,NA,15,11,13,15,17
+Italy,Fano,NA,NA,NA,NA,NA,NA,NA,NA,4,6,7,7
+Italy,Fasano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,12
+Italy,Favara,NA,NA,NA,NA,NA,NA,NA,3,5,6,8,11
+Italy,Ferentino,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+Italy,Ferrara,NA,NA,12,27,36,40,42,33,27,30,30,28
+Italy,Firenze,NA,NA,NA,NA,95,55,55,76,72,74,81,94
+Italy,Foggia,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,13,27
+Italy,Foligno,NA,NA,NA,NA,NA,NA,NA,6,6,7,7,8
+Italy,Fondi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Italy,Forli,NA,NA,NA,NA,14,12,NA,11,12,14,16,18
+Italy,Fossano,NA,NA,NA,NA,NA,NA,NA,10,NA,12,14,7
+Italy,Fossombrone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+Italy,Francavilla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,15
+Italy,Frosinone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+Italy,Gaeta,NA,NA,NA,NA,NA,4,NA,10,NA,NA,13,NA
+Italy,Gallipoli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,7
+Italy,Gangi,NA,NA,NA,NA,2,NA,NA,3,4,5,9,11
+Italy,Gela,NA,NA,NA,NA,NA,NA,NA,6,5,9,9,9
+Italy,Genova,NA,NA,15,30,100,100,58,63,65,87,90,128
+Italy,Giaveno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+Italy,Gibellina,NA,NA,NA,NA,NA,NA,NA,2,4,5,5,9
+Italy,Gioia Del Colle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,15
+Italy,Giovinazzo,NA,NA,NA,NA,3,NA,9,9,NA,NA,5,6
+Italy,Giullano In Campania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,10
+Italy,Gorizia,NA,NA,NA,NA,NA,NA,NA,5,10,NA,10,NA
+Italy,Gragnano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,10
+Italy,Grammichele,NA,NA,NA,NA,NA,NA,NA,1,2,5,8,10
+Italy,Gravina,NA,NA,NA,NA,NA,NA,10,12,7,8,8,11
+Italy,Gubbio,NA,NA,NA,NA,NA,NA,NA,4,4,4,4,6
+Italy,Iesi,NA,NA,NA,NA,NA,6,NA,NA,5,NA,5,11
+Italy,Iglesias,NA,NA,NA,NA,NA,NA,NA,NA,5,6,5,5
+Italy,Imola,NA,NA,NA,NA,8,7,5,6,6,7,8,11
+Italy,Isernia,NA,NA,NA,NA,NA,NA,NA,NA,3,4,5,7
+Italy,Itri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Italy,Ivrea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Italy,La Spezia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,12
+Italy,Lanciano,NA,NA,NA,NA,NA,NA,NA,10,NA,NA,12,15
+Italy,Laurenzana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7
+Italy,Lauria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,9
+Italy,Lecce,NA,NA,NA,NA,7,6,15,30,13,13,16,18
+Italy,Lentini,NA,NA,NA,NA,2,5,NA,7,5,4,5,9
+Italy,Leonessa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Italy,Leonforte,NA,NA,NA,NA,NA,NA,NA,1,5,8,10,12
+Italy,Lercara,NA,NA,NA,NA,NA,NA,NA,NA,1,2,5,9
+Italy,Licata,NA,NA,NA,NA,5,2,NA,6,9,11,11,14
+Italy,Licodia Eubea,NA,NA,NA,NA,NA,NA,NA,4,5,6,7,6
+Italy,Livorno,NA,NA,NA,NA,1,1,1,3,23,31,53,84
+Italy,Lodi,NA,NA,NA,NA,NA,NA,8,10,15,15,12,18
+Italy,Lucca,NA,NA,NA,10,16,23,30,24,23,21,17,22
+Italy,Lucera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,14
+Italy,Macerata,NA,NA,NA,NA,6,NA,6,6,NA,NA,12,10
+Italy,Maddaloni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,18
+Italy,Mammola,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Italy,Manduria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Italy,Manfredonia,NA,NA,NA,NA,NA,NA,NA,NA,2,4,5,6
+Italy,Mantua,NA,NA,12,NA,30,25,25,30,22,24,25,30
+Italy,Marigliano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8
+Italy,Marineo,NA,NA,NA,NA,NA,NA,NA,2,3,5,7,8
+Italy,Marsala,NA,NA,NA,NA,6,3,6,9,14,15,16,18
+Italy,Marsico Nuovo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Italy,Martina Franca,NA,NA,NA,NA,NA,NA,5,9,8,9,12,13
+Italy,Mascali,NA,NA,NA,NA,1,NA,NA,NA,2,11,14,4
+Italy,Massa,NA,NA,NA,NA,3,2,5,5,NA,5,3,6
+Italy,Massafra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9
+Italy,Matelica,NA,NA,NA,NA,NA,NA,NA,NA,5,5,2,NA
+Italy,Matera,NA,NA,NA,NA,NA,NA,10,15,NA,NA,12,14
+Italy,Mazzara,NA,NA,NA,NA,4,1,NA,7,7,8,8,11
+Italy,Mazzarino,NA,NA,NA,NA,NA,1,NA,6,8,11,11,11
+Italy,Melfi,NA,NA,NA,NA,NA,NA,NA,10,NA,NA,8,10
+Italy,Melilli,NA,NA,NA,NA,NA,NA,NA,5,6,4,4,5
+Italy,Menfi,NA,NA,NA,NA,NA,NA,NA,NA,1,3,6,NA
+Italy,Messina,NA,NA,1,30,27,NA,25,50,40,27,35,62
+Italy,Milano,NA,NA,NA,NA,100,90,100,120,125,124,135,209
+Italy,Milazzo,NA,NA,NA,NA,5,NA,NA,5,6,6,6,9
+Italy,Militello In Val Di Catania,NA,NA,NA,NA,NA,NA,NA,6,6,7,7,9
+Italy,Mineo,NA,NA,NA,NA,2,3,7,7,5,7,8,9
+Italy,Mirabella Eclano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Italy,Mirandola,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+Italy,Misilmeri,NA,NA,NA,NA,NA,NA,NA,1,2,3,6,7
+Italy,Mistretta,NA,NA,NA,NA,3,NA,NA,6,7,9,11,11
+Italy,Modena,NA,NA,NA,10,18,NA,18,21,19,20,23,32
+Italy,Modica,NA,NA,NA,NA,NA,3,NA,16,19,20,17,31
+Italy,Mola,NA,NA,NA,NA,NA,NA,NA,NA,3,6,8,11
+Italy,Molfetta,NA,NA,NA,NA,NA,NA,NA,5,8,NA,12,23
+Italy,Mondovi,NA,NA,NA,NA,NA,NA,NA,11,10,7,10,11
+Italy,Monopoli,NA,NA,NA,NA,NA,NA,5,12,10,NA,15,16
+Italy,Monreale,NA,NA,NA,NA,2,1,NA,7,6,10,8,12
+Italy,Monselice,NA,NA,NA,NA,5,NA,3,NA,NA,NA,5,NA
+Italy,Montagnana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+Italy,Montalbano Di Elicona,NA,NA,NA,NA,NA,NA,NA,2,5,NA,NA,4
+Italy,Monte Di San-Giuliano,NA,NA,NA,NA,5,4,6,7,7,7,6,15
+Italy,Monte Sant'angelo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,15
+Italy,Montefiascone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Italy,Montemaggiore,NA,NA,NA,NA,NA,NA,NA,1,2,5,6,6
+Italy,Montepulciano,NA,NA,NA,NA,NA,NA,4,NA,2,2,3,4
+Italy,Montesarchio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Italy,Montescaglioso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Italy,Monza,NA,NA,NA,NA,10,NA,NA,12,7,9,10,16
+Italy,Morano Calabro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8
+Italy,Morcone,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Italy,Mormanno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6
+Italy,Mussomeli,NA,NA,NA,NA,NA,NA,NA,5,5,7,9,8
+Italy,Napoli,50,30,30,30,60,45,125,275,300,339,430,409
+Italy,Nardo,NA,NA,NA,NA,NA,NA,5,7,7,NA,8,9
+Italy,Naro,NA,NA,NA,NA,4,4,NA,6,8,9,11,11
+Italy,Nicastro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Italy,Nicosia,NA,NA,NA,NA,5,6,16,15,10,12,12,14
+Italy,Niscemi,NA,NA,NA,NA,NA,NA,NA,NA,2,4,7,9
+Italy,Nocera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,6
+Italy,Nola,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8
+Italy,Norcia,NA,NA,NA,NA,NA,NA,5,NA,3,2,4,NA
+Italy,Noto,NA,NA,NA,NA,2,6,5,6,7,11,11,13
+Italy,Novara,NA,NA,NA,NA,2,NA,7,8,9,10,12,14
+Italy,Novi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA
+Italy,Oria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+Italy,Oristano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Italy,Ormea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5
+Italy,Ortona-A-Mare,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+Italy,Orvieto,NA,NA,NA,7,12,NA,8,7,6,6,7,8
+Italy,Osimo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+Italy,Ostuni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,14
+Italy,Otranto,NA,NA,NA,10,NA,NA,NA,NA,NA,NA,2,2
+Italy,Padova,NA,NA,10,20,35,34,29,33,37,31,33,47
+Italy,Palama Di Montechiaro,NA,NA,NA,NA,NA,NA,NA,NA,4,6,8,NA
+Italy,Palazzo Adriano,NA,NA,NA,NA,NA,NA,NA,2,3,4,5,5
+Italy,Palazzolo Acreide,NA,NA,NA,NA,NA,1,NA,6,6,7,9,9
+Italy,Palermo,10,30,350,150,51,27,55,105,100,124,139,168
+Italy,Palma Campania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7
+Italy,Palmanova,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Italy,Palmi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Italy,Parma,NA,NA,NA,11,22,15,16,25,30,29,34,47
+Italy,Partanna,NA,NA,NA,NA,NA,1,NA,5,7,7,11,12
+Italy,Partinico,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,19
+Italy,Paterno,NA,NA,NA,NA,3,4,6,4,7,8,9,14
+Italy,Patti,NA,NA,NA,NA,4,NA,NA,6,3,4,7,8
+Italy,Pavia,NA,NA,NA,30,30,20,16,25,20,24,23,29
+Italy,Penne,NA,NA,NA,NA,NA,NA,NA,NA,5,6,NA,NA
+Italy,Perugia,NA,NA,NA,10,34,NA,12,10,16,12,15,14
+Italy,Pesaro,NA,NA,NA,NA,NA,NA,NA,6,7,9,10,11
+Italy,Pescara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4
+Italy,Petrali Soprana,NA,NA,NA,NA,1,1,NA,4,3,3,5,6
+Italy,Petralia Sottana,NA,NA,NA,NA,1,1,NA,7,7,5,6,6
+Italy,Peveragno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+Italy,Piacenza,NA,NA,NA,NA,20,25,25,33,31,28,28,39
+Italy,Piana,NA,NA,NA,NA,NA,NA,NA,3,4,5,5,7
+Italy,Piazza Armerina,NA,NA,NA,NA,4,7,NA,16,14,12,12,20
+Italy,Pietraperzia,NA,NA,NA,NA,NA,NA,NA,2,4,7,8,11
+Italy,Pisa,NA,NA,9,17,38,23,10,13,11,15,23,34
+Italy,Pisticci,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Italy,Pistoia,NA,NA,NA,11,11,4,5,8,8,10,9,12
+Italy,Pitigliano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3
+Italy,Pizzo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Italy,Poggibonsi,NA,NA,NA,5,3,2,NA,3,NA,NA,1,NA
+Italy,Polizzi Generosa,NA,NA,NA,NA,11,NA,NA,6,5,3,4,5
+Italy,Pomigliano D'arco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Italy,Pontecorvo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Italy,Portici,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,10
+Italy,Potenza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,13
+Italy,Pozzuoli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11
+Italy,Prato,NA,NA,NA,6,15,4,7,7,7,7,8,12
+Italy,Prizzi,NA,NA,NA,NA,1,NA,NA,2,4,5,7,11
+Italy,Procida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,10
+Italy,Putignano,NA,NA,NA,NA,NA,NA,NA,7,7,7,10,10
+Italy,Racalmuto,NA,NA,NA,NA,NA,1,NA,4,4,6,8,10
+Italy,Racconigi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,11
+Italy,Raffadali,NA,NA,NA,NA,NA,NA,NA,3,3,3,5,6
+Italy,Ragusa,NA,NA,NA,NA,4,3,NA,8,10,12,17,22
+Italy,Randazzo,NA,NA,NA,NA,1,5,NA,7,6,4,4,6
+Italy,Ravanusa,NA,NA,NA,NA,NA,NA,NA,NA,2,4,6,7
+Italy,Ravenna,NA,NA,NA,NA,12,9,8,14,14,13,10,11
+Italy,Regalbuto,NA,NA,NA,NA,NA,NA,NA,4,4,6,6,9
+Italy,Reggio Di Calabria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,16
+Italy,Reggio Nell'emilia,NA,NA,NA,NA,14,NA,9,11,16,16,18,21
+Italy,Resina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+Italy,Rieti,NA,NA,NA,NA,NA,4,7,NA,7,8,9,10
+Italy,Rimini,NA,NA,NA,NA,13,11,10,8,7,10,15,17
+Italy,Rionero In Vulture,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,12
+Italy,Roma,50,40,35,35,30,33,55,100,135,158,153,175
+Italy,Rossano,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7,11
+Italy,Rovereto,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA
+Italy,Rovigo,NA,NA,NA,NA,NA,NA,2,4,5,5,6,NA
+Italy,Ruvo,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,6,12
+Italy,S.-Caterina,NA,NA,NA,NA,NA,NA,NA,NA,2,3,6,6
+Italy,S.-Margherita,NA,NA,NA,NA,NA,NA,NA,NA,3,6,7,NA
+Italy,S.-Maria Capua Vetere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,12
+Italy,Salemi,NA,NA,NA,NA,4,3,NA,7,6,10,12,13
+Italy,Salerno,NA,NA,50,NA,10,3,5,11,8,8,10,21
+Italy,Saluzzo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10
+Italy,Sambuca Di Sicilia,NA,NA,NA,NA,NA,NA,NA,6,5,8,9,9
+Italy,San-Bartolomeo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Italy,San-Cataldo,NA,NA,NA,NA,NA,NA,NA,NA,3,7,8,13
+Italy,San-Fele,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8
+Italy,San-Filippo Di Mela,NA,NA,NA,NA,1,3,8,11,6,7,6,12
+Italy,San-Gimignano,NA,NA,NA,5,8,3,4,4,3,4,4,7
+Italy,San-Marco In Lamis,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,9,NA
+Italy,San-Remo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Italy,San-Severo,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,16,17
+Italy,San-Stefano Di Briga,NA,NA,NA,NA,NA,NA,NA,NA,3,3,5,5
+Italy,Sant'angelo Di Brolo,NA,NA,NA,NA,NA,NA,NA,4,5,4,4,5
+Italy,Sarno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,14
+Italy,Sassari,NA,NA,NA,NA,NA,NA,13,14,14,15,18,22
+Italy,Savigliano,NA,NA,NA,NA,4,5,5,9,NA,11,15,17
+Italy,Savona,NA,NA,NA,NA,NA,NA,NA,11,7,7,8,11
+Italy,Sciacca,NA,NA,NA,NA,3,5,NA,9,8,9,11,14
+Italy,Scicli,NA,NA,NA,NA,4,1,NA,11,9,11,10,10
+Italy,Scigliano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Italy,Serino,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6
+Italy,Serradifalco,NA,NA,NA,NA,NA,NA,NA,NA,1,2,5,6
+Italy,Sezze,NA,NA,NA,NA,NA,7,NA,NA,NA,NA,6,NA
+Italy,Siculiana,NA,NA,NA,NA,NA,NA,NA,1,3,4,5,6
+Italy,Siena,NA,NA,NA,12,50,17,16,19,16,15,17,22
+Italy,Sinigaglia,NA,NA,NA,NA,NA,NA,NA,3,5,7,6,7
+Italy,Siracusa,NA,NA,NA,NA,4,8,10,12,17,18,16,17
+Italy,Solofra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Italy,Somma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA
+Italy,Sora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Italy,Sorrento,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1
+Italy,Sortino,NA,NA,NA,NA,NA,1,NA,7,6,NA,NA,8
+Italy,Spaccafurno,NA,NA,NA,NA,NA,NA,NA,4,8,10,8,8
+Italy,Spoleto,NA,NA,NA,NA,6,NA,12,8,4,4,6,7
+Italy,Sulmona,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,7,12
+Italy,Taormina,NA,NA,NA,NA,3,NA,NA,5,3,3,3,1
+Italy,Taranto,NA,NA,NA,NA,NA,NA,12,17,11,14,17,19
+Italy,Teramo,NA,NA,NA,NA,NA,NA,3,3,NA,NA,5,10
+Italy,Terlizzi,NA,NA,NA,NA,NA,NA,NA,NA,5,7,10,17
+Italy,Termini Imerese,NA,NA,NA,NA,3,1,NA,10,7,10,14,26
+Italy,Terni,NA,NA,NA,NA,NA,NA,NA,5,5,6,7,9
+Italy,Terracina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Italy,Tivoli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,17
+Italy,Torino,NA,NA,NA,NA,3,4,15,16,40,69,82,137
+Italy,Torre Annunziata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,15
+Italy,Torre Del Greco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,12
+Italy,Tortona,NA,NA,NA,NA,NA,NA,5,5,NA,7,8,7
+Italy,Tortorici,NA,NA,NA,NA,1,NA,NA,4,2,3,4,6
+Italy,Trani,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,14,20
+Italy,Trapani,NA,NA,NA,NA,14,12,15,18,20,17,24,25
+Italy,Trento,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Italy,Treviglio,NA,NA,NA,NA,NA,NA,NA,4,4,4,6,NA
+Italy,Treviso,NA,NA,NA,NA,NA,NA,12,13,NA,10,10,18
+Italy,Trieste,NA,NA,NA,NA,5,NA,NA,5,6,NA,25,64
+Italy,Trino,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+Italy,Troina,NA,NA,NA,NA,NA,NA,NA,5,7,6,7,8
+Italy,Udine,NA,NA,NA,NA,7,NA,13,10,14,14,16,23
+Italy,Urbino,NA,NA,NA,NA,NA,NA,NA,3,3,5,7,NA
+Italy,Valenza,NA,NA,NA,NA,NA,NA,4,5,4,4,6,7
+Italy,Varallo,NA,NA,NA,NA,NA,NA,NA,NA,5,3,3,3
+Italy,Vasto,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,8,10
+Italy,Velletri,NA,NA,NA,NA,NA,NA,NA,NA,10,NA,9,NA
+Italy,Venezia,NA,37,45,70,110,100,100,151,138,150,138,127
+Italy,Ventimiglia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+Italy,Verbania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+Italy,Vercelli,NA,NA,NA,NA,NA,NA,NA,10,8,9,16,19
+Italy,Veroli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Italy,Verona,30,25,20,33,30,35,50,45,35,45,51,51
+Italy,Vibo Valentia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+Italy,Vicari,NA,NA,NA,NA,1,1,NA,2,2,3,5,4
+Italy,Vicenza,NA,NA,NA,NA,22,NA,21,32,25,27,28,29
+Italy,Vico Del Gargano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Italy,Viesti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Italy,Vigevano,NA,NA,NA,NA,NA,NA,6,8,8,9,12,14
+Italy,Vigon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6
+Italy,Villafranca Di Piemonte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Italy,Viterbo,NA,NA,NA,20,9,9,12,10,12,13,13,16
+Italy,Vittoria,NA,NA,NA,NA,NA,NA,NA,NA,4,8,10,15
+Italy,Vizzini,NA,NA,NA,NA,1,2,NA,9,9,8,9,13
+Italy,Voghera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10
+Italy,Volterra,NA,NA,NA,NA,NA,3,4,5,3,5,6,6
+Luxemburg,Luxemburg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,22
+Malta,La Valette,NA,NA,NA,NA,5,NA,NA,21,24,27,37,60
+Netherlands,Alkmaar,NA,NA,NA,NA,NA,NA,5,12,12,12,8,10
+Netherlands,Amersfoort,NA,NA,NA,NA,NA,NA,7,7,7,8,9,12
+Netherlands,Amsterdam,NA,NA,NA,NA,1,3,15,54,200,210,217,225
+Netherlands,Apeldoorn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,10
+Netherlands,Arnhem,NA,NA,NA,NA,NA,3,6,7,6,6,10,19
+Netherlands,Bergen-Op-Zoom,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,5,9
+Netherlands,Breda,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,8,15
+Netherlands,Delft,NA,NA,NA,NA,3,7,12,20,18,15,17,18
+Netherlands,Deventer,NA,NA,NA,NA,13,5,7,NA,7,NA,8,15
+Netherlands,Dordrecht,NA,NA,NA,NA,5,8,10,18,22,18,18,21
+Netherlands,Edam,NA,NA,NA,NA,NA,NA,4,5,5,NA,4,4
+Netherlands,Enkhuizen,NA,NA,NA,NA,NA,NA,4,20,17,7,7,5
+Netherlands,Franeker,NA,NA,NA,NA,NA,NA,NA,NA,4,3,4,5
+Netherlands,Goes,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,4,5
+Netherlands,Gorinchem,NA,NA,NA,NA,NA,NA,4,5,5,5,5,9
+Netherlands,Gouda,NA,NA,NA,NA,NA,4,11,14,17,20,12,14
+Netherlands,Groningen,NA,NA,NA,NA,4,5,14,19,19,21,24,34
+Netherlands,Haarlem,NA,NA,NA,NA,NA,8,12,39,37,27,22,26
+Netherlands,Harderwuk,NA,NA,NA,NA,NA,NA,4,NA,4,NA,4,6
+Netherlands,Harlingen,NA,NA,NA,NA,NA,NA,NA,NA,7,7,7,9
+Netherlands,Heerlen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5
+Netherlands,Helmond,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5
+Netherlands,Hengelo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4
+Netherlands,Hilversum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5
+Netherlands,Hoogeveen,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,4,7
+Netherlands,Hoorn,NA,NA,NA,NA,NA,NA,6,12,13,10,10,9
+Netherlands,Kampen,NA,NA,NA,NA,13,5,7,7,7,NA,6,11
+Netherlands,Leeuwarden,NA,NA,NA,NA,NA,NA,4,11,15,14,16,24
+Netherlands,Leiden,NA,NA,NA,NA,3,6,14,44,65,37,31,37
+Netherlands,Maasluis,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,5,4
+Netherlands,Maastricht,NA,NA,NA,NA,4,7,10,18,13,18,18,25
+Netherlands,Medemblik,NA,NA,NA,NA,NA,NA,NA,3,3,2,2,3
+Netherlands,Meppel,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,4,6
+Netherlands,Middelburg,NA,NA,NA,NA,8,5,7,20,28,25,20,16
+Netherlands,Monnikendam,NA,NA,NA,NA,NA,NA,4,3,3,NA,2,3
+Netherlands,Naarden,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,2,3
+Netherlands,Nijkerk,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,5,7
+Netherlands,Nijmegen,NA,NA,NA,NA,3,6,12,12,11,12,13,21
+Netherlands,Roermond,NA,NA,NA,NA,NA,6,7,NA,3,NA,4,7
+Netherlands,Roosendaal,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,5,6
+Netherlands,Rotterdam,NA,NA,NA,NA,NA,NA,5,19,51,44,53,90
+Netherlands,'S Gravenhague,NA,NA,NA,NA,10,5,7,15,30,38,39,72
+Netherlands,'S Hertogenbosch,NA,NA,NA,NA,3,9,16,13,10,14,13,22
+Netherlands,Schiedam,NA,NA,NA,NA,1,2,4,5,7,8,9,15
+Netherlands,Schoonhoven,NA,NA,NA,NA,NA,NA,3,2,3,NA,2,3
+Netherlands,Sneek,NA,NA,NA,NA,NA,NA,NA,NA,3,4,5,8
+Netherlands,Tiel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,6
+Netherlands,Tilburg,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,9,15
+Netherlands,Utrecht,NA,NA,NA,12,6,9,20,25,30,25,32,48
+Netherlands,Veendam,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Netherlands,Venlo,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,4,8
+Netherlands,Vlaardingen,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,6,8
+Netherlands,Vlissingen,NA,NA,NA,NA,NA,NA,4,NA,7,8,6,10
+Netherlands,Weert,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,5,7
+Netherlands,Winterswijk,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6,8
+Netherlands,Workum,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,6
+Netherlands,Zaandam,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,11
+Netherlands,Zierikzee,NA,NA,NA,NA,NA,NA,4,NA,6,NA,6,7
+Netherlands,Zutphen,NA,NA,NA,NA,6,4,NA,NA,7,NA,7,12
+Netherlands,Zwolle,NA,NA,NA,NA,13,NA,7,NA,10,12,12,14
+Norway,Arendal,NA,NA,NA,NA,NA,NA,NA,1,1,1,2,4
+Norway,Bergen,NA,NA,NA,NA,7,NA,7,8,10,14,17,25
+Norway,Drammen,NA,NA,NA,NA,NA,NA,NA,NA,4,4,5,9
+Norway,Halden,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,7
+Norway,Kongsberg,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,7,4
+Norway,Kristiansand,NA,NA,NA,NA,NA,NA,NA,NA,1,3,5,9
+Norway,Larvick,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4
+Norway,Oslo,NA,NA,NA,NA,2,NA,NA,3,4,7,10,29
+Norway,Stavanger,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,9
+Norway,Trondheim,NA,NA,NA,NA,3,NA,1,2,5,7,9,15
+Poland,Bialystok,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,14
+Poland,Bielsko-Biala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,12
+Poland,Bochnia,NA,NA,NA,NA,NA,2,NA,5,NA,NA,3,NA
+Poland,Braniewo,NA,NA,NA,NA,NA,2,3,5,NA,NA,5,9
+Poland,Brzeg,NA,NA,NA,NA,NA,NA,NA,NA,4,4,9,13
+Poland,Bydgoszcz,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,4,13
+Poland,Chelmno,NA,NA,NA,NA,NA,NA,4,3,NA,NA,5,NA
+Poland,Czestochowa,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,1,12
+Poland,Elblag,NA,NA,NA,NA,NA,NA,10,15,16,16,17,22
+Poland,Gdansk,NA,NA,NA,NA,9,20,30,80,40,48,37,64
+Poland,Glogow,NA,NA,NA,NA,NA,NA,NA,12,2,5,8,12
+Poland,Gniezno,NA,NA,NA,4,NA,NA,3,5,NA,NA,3,NA
+Poland,Gorzow Wielkopolski,NA,NA,NA,NA,NA,NA,NA,3,3,4,7,12
+Poland,Grudziadz,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,5,NA
+Poland,Gubin,NA,NA,NA,NA,NA,NA,NA,4,NA,4,6,12
+Poland,Jaroslav,NA,NA,NA,NA,NA,NA,NA,5,NA,17,23,26
+Poland,Jelenia Gora,NA,NA,NA,NA,NA,NA,NA,3,NA,6,6,8
+Poland,Kalisz,NA,NA,NA,NA,NA,NA,NA,3,3,NA,4,11
+Poland,Kazimierz Dolny,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,2,NA
+Poland,Kielce,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,5
+Poland,Klodzko,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,6,9
+Poland,Kolobrzeg,NA,NA,NA,NA,NA,4,5,6,NA,5,4,8
+Poland,Kostrzyn,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6,7
+Poland,Krakow,NA,NA,NA,10,NA,10,22,28,30,20,24,42
+Poland,Kwidzyn,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Poland,Legnica,NA,NA,NA,NA,NA,NA,2,8,NA,6,7,15
+Poland,Leszno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA
+Poland,Luban,NA,NA,NA,NA,NA,NA,NA,NA,4,7,5,6
+Poland,Lublin,NA,NA,NA,NA,NA,NA,NA,15,NA,NA,7,16
+Poland,Malbork,NA,NA,NA,NA,NA,NA,NA,5,NA,3,5,7
+Poland,Nowy Sacz,NA,NA,NA,NA,2,NA,NA,5,NA,NA,4,6
+Poland,Nysa,NA,NA,NA,NA,NA,4,NA,NA,7,5,7,13
+Poland,Olkusz,NA,NA,NA,NA,NA,NA,NA,5,2,NA,1,2
+Poland,Opole,NA,NA,NA,NA,NA,NA,4,NA,NA,1,3,10
+Poland,Plock,NA,NA,NA,NA,NA,NA,4,5,1,6,3,12
+Poland,Poznan,NA,NA,NA,4,NA,4,32,20,NA,20,12,40
+Poland,Przemysl,NA,NA,NA,NA,NA,NA,NA,6,1,NA,5,NA
+Poland,Radom,NA,NA,NA,NA,NA,NA,NA,2,1,NA,1,6
+Poland,Rawicz,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5,10
+Poland,Rzeszow,NA,NA,NA,NA,NA,NA,1,3,NA,NA,3,6
+Poland,Sandomierz,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,2,6
+Poland,Slupsk,NA,NA,NA,NA,NA,NA,4,3,2,3,5,10
+Poland,Stargard Szczecinski,NA,NA,NA,NA,NA,NA,NA,5,NA,6,9,12
+Poland,Sulechow,NA,NA,NA,NA,NA,NA,NA,NA,4,4,5,5
+Poland,Swidnik,NA,NA,NA,NA,NA,NA,NA,6,NA,7,9,14
+Poland,Szczecin,NA,NA,NA,NA,6,10,9,12,11,13,23,48
+Poland,Tarnow,NA,NA,NA,NA,NA,1,NA,2,1,NA,4,7
+Poland,Torun,NA,NA,NA,NA,NA,NA,12,15,NA,NA,9,13
+Poland,Warszawa,NA,NA,NA,NA,2,NA,5,12,15,20,63,167
+Poland,Wroclaw,NA,NA,NA,5,12,20,25,40,40,55,60,114
+Poland,Wschowa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Poland,Zagan,NA,NA,NA,NA,NA,NA,NA,4,NA,3,5,8
+Poland,Zamosc,NA,NA,NA,NA,NA,NA,NA,5,4,NA,7,NA
+Poland,Zielona Gora,NA,NA,NA,NA,1,1,2,10,5,5,8,11
+Poland,Zlotoryja,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6,7
+Portugal,Abrantes,NA,NA,NA,NA,NA,NA,3,NA,NA,5,5,6
+Portugal,Almeida,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4,NA
+Portugal,Arouca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Portugal,Aveiro,NA,NA,NA,NA,5,NA,4,NA,NA,6,4,6
+Portugal,Beja,NA,NA,NA,NA,4,NA,6,NA,NA,8,6,7
+Portugal,Braga,NA,NA,NA,10,4,NA,4,10,NA,15,16,19
+Portugal,Braganca,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,5
+Portugal,Campo-Maior,NA,NA,NA,NA,NA,NA,3,NA,NA,5,4,NA
+Portugal,Castelo-Branco,NA,NA,NA,NA,NA,NA,4,NA,NA,5,5,6
+Portugal,Castelo-De-Vide,NA,NA,NA,NA,NA,NA,4,NA,NA,9,7,NA
+Portugal,Chaves,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,5,6
+Portugal,Coimbra,NA,NA,NA,20,6,NA,6,10,11,14,15,18
+Portugal,Coruche,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA
+Portugal,Covilha,NA,NA,NA,NA,NA,NA,4,NA,NA,5,7,8
+Portugal,Elvas,NA,NA,NA,NA,NA,NA,9,NA,NA,NA,13,10
+Portugal,Estremoz,NA,NA,NA,NA,NA,NA,4,NA,NA,8,7,8
+Portugal,Evora,NA,NA,NA,NA,12,NA,13,NA,12,15,12,12
+Portugal,Faro,NA,NA,NA,NA,NA,NA,4,6,5,8,7,8
+Portugal,Figuera-Da-Foz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Portugal,Guimaraes,NA,NA,NA,NA,NA,NA,7,NA,NA,7,7,8
+Portugal,Ilhavo,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7,NA
+Portugal,Lagos,NA,NA,NA,NA,NA,NA,6,6,3,5,7,8
+Portugal,Lamego,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,6,8
+Portugal,Leiria,NA,NA,NA,NA,NA,NA,3,NA,NA,5,NA,3
+Portugal,Lisboa,15,NA,15,15,35,55,65,130,180,185,195,240
+Portugal,Loule,NA,NA,NA,NA,NA,NA,2,NA,NA,6,7,NA
+Portugal,Monchique,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+Portugal,Montemor-O-Novo,NA,NA,NA,NA,NA,NA,4,NA,NA,5,NA,NA
+Portugal,Moura,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,NA
+Portugal,Obidos,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA
+Portugal,Olhao,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+Portugal,Ovar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,NA
+Portugal,Palmela,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+Portugal,Ponta-Delgada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,16
+Portugal,Portalegre,NA,NA,NA,NA,NA,NA,6,NA,NA,5,7,6
+Portugal,Porto,NA,10,NA,NA,6,18,14,14,25,30,43,74
+Portugal,Povoa-De-Varzim,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Portugal,Santarem,NA,NA,NA,NA,7,NA,10,NA,NA,NA,9,6
+Portugal,Serpa,NA,NA,NA,NA,NA,NA,3,NA,NA,6,5,NA
+Portugal,Setubal,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,15,13
+Portugal,Sezimbra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+Portugal,Silves,NA,NA,NA,NA,4,NA,NA,NA,NA,2,2,5
+Portugal,Soure,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA
+Portugal,Tavira,NA,NA,NA,NA,NA,NA,7,9,6,9,7,11
+Portugal,Tomar,NA,NA,NA,NA,NA,NA,3,NA,NA,5,4,4
+Portugal,Torres-Novas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+Portugal,Torres-Vedras,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+Portugal,Viana-Do-Castello,NA,NA,NA,NA,NA,NA,4,NA,NA,9,7,9
+Portugal,Vila-Franca-De-Xira,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,NA
+Portugal,Vila-Nova-De-Gaia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Portugal,Vila-Real,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,5
+Portugal,Vila-Vicosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA
+Portugal,Vizeu,NA,NA,NA,NA,3,NA,NA,NA,NA,4,9,6
+Rumania,Alba-Iulia,NA,NA,NA,NA,2,NA,NA,2,3,4,6,6
+Rumania,Arad,NA,NA,NA,NA,NA,NA,NA,NA,3,7,10,20
+Rumania,Babadag,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,3
+Rumania,Baia Mare,NA,NA,NA,NA,NA,NA,6,NA,2,3,4,6
+Rumania,Bistrita,NA,NA,NA,NA,NA,3,3,4,4,4,5,6
+Rumania,Braila,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,15
+Rumania,Brasov,NA,NA,NA,NA,NA,NA,6,10,12,12,18,24
+Rumania,Bucuresti,NA,NA,NA,NA,5,NA,3,8,45,56,50,104
+Rumania,Buzau,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,3,8
+Rumania,Cimpulung,NA,NA,NA,NA,10,NA,NA,NA,NA,NA,4,9
+Rumania,Cluj,NA,NA,NA,NA,NA,5,6,9,9,11,11,20
+Rumania,Craiova,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,11,20
+Rumania,Curtea-De-Arges,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3
+Rumania,Galati,NA,NA,NA,NA,NA,NA,NA,NA,3,3,8,24
+Rumania,Giurgiu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+Rumania,Iasi,NA,NA,NA,NA,6,NA,NA,15,20,25,17,50
+Rumania,Medias,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6
+Rumania,Nagykaroly,NA,NA,NA,NA,NA,NA,NA,NA,1,3,8,10
+Rumania,Oradea,NA,NA,NA,NA,NA,NA,NA,NA,1,4,7,21
+Rumania,Pecska,NA,NA,NA,NA,NA,NA,NA,NA,1,5,6,14
+Rumania,Pitesti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+Rumania,Ploiesti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,27
+Rumania,Roman,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,10
+Rumania,Satu Mare,NA,NA,NA,NA,NA,NA,NA,NA,3,7,10,13
+Rumania,Sibiu,NA,NA,NA,NA,NA,NA,6,8,10,12,14,16
+Rumania,Sighisoara,NA,NA,NA,NA,1,2,3,4,4,5,5,8
+Rumania,Sinnicolau Mare,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6,11
+Rumania,Suceava,NA,NA,NA,20,20,NA,10,20,NA,NA,5,NA
+Rumania,Szalonta,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,10
+Rumania,Timisoara,NA,NA,NA,NA,NA,NA,NA,NA,10,8,10,17
+Rumania,Tirgoviste,NA,NA,NA,NA,10,25,50,10,3,3,3,4
+Rumania,Tirgu Mures,NA,NA,NA,NA,NA,NA,NA,NA,3,3,6,9
+Rumania,Turda,NA,NA,NA,NA,1,NA,NA,NA,3,4,6,8
+Rumania,Zalau,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4,5
+Russia,Ahtyrka,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,11,14
+Russia,Andreeva,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,30
+Russia,Andropov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,9
+Russia,Arhangel'sk,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,11,15
+Russia,Arzamas,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,7,10
+Russia,Astrahan',NA,NA,10,NA,12,NA,15,NA,20,15,35,45
+Russia,Bahcisaraj,NA,NA,NA,NA,NA,NA,25,30,24,NA,8,12
+Russia,Balta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,12
+Russia,Bednodem'janovsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Russia,Belev,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6,8
+Russia,Belgorod,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,8,13
+Russia,Belgorod-Dnestrovskij,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,20
+Russia,Belogorsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,14
+Russia,Bendery,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,14
+Russia,Berdicev,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,50
+Russia,Berdjansk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+Russia,Berezna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Russia,Bobrujsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,17
+Russia,Bogoduhov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Russia,Bolgary,NA,NA,25,NA,50,NA,NA,NA,NA,NA,NA,NA
+Russia,Bolhov,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,9,17
+Russia,Borisoglebsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,4,8
+Russia,Borisov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,3
+Russia,Borovici,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,8
+Russia,Borovsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6,9
+Russia,Borzna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Russia,Brest,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,17
+Russia,Brjansk,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4,11
+Russia,Brody,NA,NA,NA,NA,NA,NA,NA,2,5,15,16,NA
+Russia,Byhov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Russia,Ceboksary,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,5
+Russia,Cerkassy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,12
+Russia,Cernigov,NA,NA,20,25,5,NA,NA,NA,NA,4,5,11
+Russia,Cernjahovsk,NA,NA,NA,NA,NA,NA,NA,1,NA,3,5,9
+Russia,Cernovtsy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,21
+Russia,Cistopol',NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Russia,Cuguev,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,9,8
+Russia,Derbent,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+Russia,Dnepropetrovsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,13
+Russia,Doneck,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+Russia,Dorogobuz,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6
+Russia,Dubno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Russia,Ejsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+Russia,Elatma,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6
+Russia,Elec,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,14,23
+Russia,Elgava,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,21
+Russia,Evpatorija,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+Russia,Feodosija,NA,NA,NA,NA,40,85,50,40,36,44,5,8
+Russia,Galic,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6,6
+Russia,Gluhov,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,8
+Russia,Gomel',NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+Russia,Gor'kij,NA,NA,NA,NA,NA,NA,NA,5,24,9,14,36
+Russia,Grodno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,18
+Russia,Gusev,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,7
+Russia,Har'kov,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,10,30
+Russia,Herson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,33
+Russia,Hotin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,12
+Russia,Ivanovo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Russia,Izevsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21
+Russia,Izjaslav,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Russia,Izjum,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,8
+Russia,Izmail,NA,NA,NA,NA,6,NA,NA,NA,30,NA,30,26
+Russia,Jaroslavl',NA,NA,NA,NA,NA,NA,NA,NA,NA,15,24,25
+Russia,Kalinin,NA,NA,10,NA,27,20,5,3,NA,8,17,22
+Russia,Kaliningrad,NA,NA,NA,NA,3,10,9,15,35,60,60,76
+Russia,Kaljazin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6
+Russia,Kaluga,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,23,34
+Russia,Kamenec-Podol'skij,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,16
+Russia,Karacev,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6,9
+Russia,Kasimov,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,9
+Russia,Kazan',NA,NA,NA,NA,NA,NA,15,15,23,20,50,44
+Russia,Kerc',NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,13
+Russia,Kiev,NA,NA,45,40,5,NA,NA,14,15,23,20,61
+Russia,Kirov,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,4,13
+Russia,Kirovograd,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,14
+Russia,Kisinev,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,90
+Russia,Kizljar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Russia,Klajpeda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,11
+Russia,Kobeljaki,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7
+Russia,Kolomna,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,7,13
+Russia,Konotop,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,9
+Russia,Korop,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,5
+Russia,Kostroma,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10,15
+Russia,Kozel'sk,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,5,8
+Russia,Kozmodem'jansk,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,5,5
+Russia,Krasnodar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,9
+Russia,Krasnokutsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5
+Russia,Krasnoslobodsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,6,6
+Russia,Kremencug,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,20
+Russia,Kremenec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,9
+Russia,Krolevec,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4,6
+Russia,Kronslot,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,30,44
+Russia,Kujbysev,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,4,24
+Russia,Kungur,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,9
+Russia,Kupjansk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,3
+Russia,Kursk,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,23,41
+Russia,Kutaisi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+Russia,Kuzneck,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,11
+Russia,Lebedin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10
+Russia,Leningrad,NA,NA,NA,NA,NA,NA,NA,NA,2,95,220,524
+Russia,Liepaja,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Russia,Lipeck,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11
+Russia,L'vov,NA,NA,NA,NA,NA,NA,NA,20,20,25,42,68
+Russia,Mahackala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Russia,Mcensk,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,8,12
+Russia,Mglin,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,7
+Russia,Micurinsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,12,21
+Russia,Mihajlov,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,2,5
+Russia,Minsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11,25
+Russia,Mirgorod,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8
+Russia,Miropol'e,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Russia,Mogilev,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,6,23
+Russia,Mogilev-Podol'skij,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Russia,Moksan,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,10
+Russia,Morsansk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,12
+Russia,Moskva,NA,NA,NA,NA,30,30,36,80,130,130,300,440
+Russia,Mozdok,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Russia,Mstislav,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,7
+Russia,Murom,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,11
+Russia,Nahicevan',NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,14
+Russia,Narva,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,6
+Russia,Nezin,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,12,16
+Russia,Nikolaev,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,44
+Russia,Niznij-Lomov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Russia,Novgorod,NA,NA,18,30,40,50,42,10,NA,9,4,17
+Russia,Novocerkassk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,18
+Russia,Novomoskovsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,9
+Russia,Novozybkov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Russia,Odessa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,15,100
+Russia,Orel,NA,NA,NA,NA,NA,NA,NA,NA,1,15,25,34
+Russia,Orenburg,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,5,13
+Russia,Ostaskov,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7,9
+Russia,Ostrog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Russia,Pavlovo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+Russia,Penza,NA,NA,NA,NA,NA,NA,NA,NA,4,6,14,23
+Russia,Perejaslav-Hmel'nickij,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,8
+Russia,Pereslavl'-Zalesskij,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6,5
+Russia,Perm',NA,NA,NA,NA,NA,NA,NA,NA,NA,6,3,13
+Russia,Petrovsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,7,9
+Russia,Petrozavodsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,10
+Russia,Pjarnu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,5
+Russia,Pocinki,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Russia,Polock,NA,NA,NA,NA,20,NA,30,20,NA,NA,4,12
+Russia,Poltava,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,20
+Russia,Priluki,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Russia,Pronsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1,2
+Russia,Pskov,NA,NA,8,9,30,35,29,3,4,3,9,14
+Russia,Putivl',NA,NA,NA,NA,NA,NA,NA,NA,NA,5,4,6
+Russia,Riga,NA,NA,NA,2,7,7,13,10,14,16,30,70
+Russia,Rjazan',NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7,21
+Russia,Rostov,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,20
+Russia,Rovno,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5
+Russia,Ryl'sk,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,7
+Russia,Rzev,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9,14
+Russia,Sack,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,6,6
+Russia,Saransk,NA,NA,NA,NA,NA,NA,NA,NA,4,4,9,5
+Russia,Sarapul,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,7
+Russia,Saratov,NA,NA,NA,NA,NA,NA,NA,3,NA,8,27,62
+Russia,Serdobsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Russia,Serpuhov,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,15
+Russia,Sevsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,6
+Russia,Simferopol',NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,15
+Russia,Skopin,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,7,11
+Russia,Slonim,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,8
+Russia,Smolensk,NA,NA,1,40,25,25,50,64,40,5,12,9
+Russia,Soroki,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+Russia,Sovetsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9,14
+Russia,Staraja Russa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,6,8
+Russia,Starodub,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,5,8
+Russia,Starokonstantinov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11
+Russia,Staryi Oskol,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,4,8
+Russia,Stavropol',NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,17
+Russia,Sudak,NA,NA,NA,NA,30,30,NA,NA,NA,NA,1,NA
+Russia,Sudza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,4
+Russia,Sumy,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,9,12
+Russia,Suzdal',NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,6
+Russia,Sverdlovsk,NA,NA,NA,NA,NA,NA,NA,NA,3,7,4,17
+Russia,Syzran',NA,NA,NA,NA,NA,NA,NA,NA,NA,4,7,17
+Russia,Taganrog,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,26
+Russia,Tallin,NA,NA,NA,NA,NA,3,5,8,NA,NA,17,22
+Russia,Tambov,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,16,21
+Russia,Tartu,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,6,12
+Russia,Ternopol',NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,13
+Russia,Toropec,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,6
+Russia,Torzok,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10,11
+Russia,Trakaj,NA,NA,NA,NA,NA,50,NA,NA,NA,NA,2,5
+Russia,Tula,NA,NA,NA,NA,NA,NA,NA,2,10,17,52,50
+Russia,Ufa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,9,16
+Russia,Uglic,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,7,9
+Russia,Ul'janovsk,NA,NA,NA,NA,NA,NA,NA,NA,4,8,13,23
+Russia,Uman',NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11
+Russia,Ural'sk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,10
+Russia,Vadinsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,7
+Russia,Valki,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,7
+Russia,Vasil'kov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,10
+Russia,Velikij Ustjug,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7,8
+Russia,Veliz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,10
+Russia,Venev,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,3,4
+Russia,Verhnij Lomov,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6
+Russia,Vil'njus,NA,NA,NA,NA,20,NA,25,40,40,21,25,56
+Russia,Vitebsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,17,21
+Russia,Vjaz'ma,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,10
+Russia,Vladimir,NA,NA,15,18,31,12,NA,NA,NA,6,6,13
+Russia,Vladimir-Vochynskiy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+Russia,Volgograd,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,4,7
+Russia,Vologda,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,9,14
+Russia,Vol'sk,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8,19
+Russia,Voronez,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,22,38
+Russia,Vorosilovgrad,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,7
+Russia,Vyborg,NA,NA,NA,NA,NA,NA,NA,2,3,3,5,9
+Russia,Vysnij Volocek,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8
+Russia,Zarajsk,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6
+Russia,Zdanov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+Russia,Zen'kov,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8
+Russia,Zitomir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,29
+Russia,Zizdra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Russia,Zolocev,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+Russia,Zolotonosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6
+Spain,Adra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+Spain,Agreda,NA,NA,NA,NA,NA,NA,NA,5,3,4,3,3
+Spain,Aguilar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+Spain,Aguilas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+Spain,Alaejos,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,3,4
+Spain,Alba,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,4
+Spain,Albacete,NA,NA,NA,NA,NA,NA,NA,6,5,4,6,17
+Spain,Albuquerque,NA,NA,NA,NA,NA,NA,NA,9,NA,5,6,8
+Spain,Alcala-De-Henares,NA,NA,NA,NA,6,NA,8,13,3,6,5,9
+Spain,Alcala-La-Real,NA,NA,NA,NA,NA,NA,2,10,5,7,9,14
+Spain,Alcaniz,NA,NA,NA,NA,NA,NA,NA,3,3,NA,6,8
+Spain,Alcaraz,NA,NA,NA,NA,NA,NA,NA,6,2,9,8,5
+Spain,Alcazar-De-San-Juan,NA,NA,NA,NA,NA,NA,20,10,7,9,10,8
+Spain,Alcira,NA,NA,NA,NA,NA,5,3,4,3,9,9,14
+Spain,Alcoy,NA,NA,NA,NA,NA,NA,NA,5,4,9,16,27
+Spain,Alfaro,NA,NA,NA,NA,NA,NA,NA,6,4,5,4,5
+Spain,Algeciras,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,16
+Spain,Alicante,NA,NA,NA,NA,NA,2,3,11,12,18,13,17
+Spain,Allariz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+Spain,Almagro,NA,NA,NA,NA,NA,NA,NA,9,7,9,9,10
+Spain,Almansa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,9
+Spain,Almendralejo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+Spain,Almeria,NA,NA,27,NA,18,25,30,7,10,9,7,23
+Spain,Almodovar,NA,NA,NA,NA,NA,NA,NA,6,3,4,4,6
+Spain,Altea,NA,NA,NA,NA,NA,NA,NA,NA,1,4,5,5
+Spain,Andujar,NA,NA,NA,NA,NA,NA,NA,14,8,9,10,14
+Spain,Antequera,NA,NA,NA,NA,NA,NA,10,20,22,20,15,27
+Spain,Aracena,NA,NA,NA,NA,NA,NA,NA,10,5,6,10,5
+Spain,Aranda-De-Duero,NA,NA,NA,NA,NA,NA,NA,6,3,3,4,5
+Spain,Archinoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Spain,Arcos-De-La-Frontera,NA,NA,NA,NA,NA,9,12,4,4,7,12,15
+Spain,Arevalo,NA,NA,NA,NA,NA,NA,NA,4,NA,4,3,3
+Spain,Arjona,NA,NA,NA,NA,NA,NA,4,10,2,3,3,5
+Spain,Aspe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Spain,Astorga,NA,NA,NA,NA,NA,NA,7,3,2,NA,3,5
+Spain,Avila,NA,NA,NA,NA,NA,NA,10,12,5,6,4,6
+Spain,Azuaga,NA,NA,NA,NA,NA,NA,NA,6,2,4,3,7
+Spain,Badajoz,NA,NA,16,NA,9,NA,NA,14,8,10,10,22
+Spain,Badalona,NA,NA,NA,NA,NA,NA,NA,1,1,NA,3,10
+Spain,Baena,NA,NA,NA,NA,NA,NA,14,10,12,9,9,13
+Spain,Baeza,NA,NA,NA,NA,13,9,14,26,7,10,10,11
+Spain,Barbastro,28,36,35,NA,NA,NA,2,4,3,NA,7,8
+Spain,Barcelona,NA,NA,5,NA,48,38,20,32,34,50,100,220
+Spain,Baza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,14
+Spain,Becerril,NA,NA,NA,NA,NA,NA,NA,5,2,NA,3,3
+Spain,Bejar,NA,NA,NA,NA,NA,NA,NA,5,1,5,4,11
+Spain,Berja,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+Spain,Bilbao,NA,NA,NA,NA,NA,NA,NA,NA,6,7,10,18
+Spain,Brozas,NA,NA,NA,NA,NA,NA,NA,8,4,5,5,6
+Spain,Buendia,NA,NA,NA,NA,NA,NA,NA,5,2,2,2,2
+Spain,Bujalance,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9
+Spain,Burgos,NA,9,18,NA,21,27,8,11,10,9,10,26
+Spain,Burriana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,8
+Spain,Cabra,NA,NA,NA,NA,NA,NA,4,10,6,NA,8,13
+Spain,Caceres,NA,NA,NA,NA,NA,NA,8,8,5,8,8,15
+Spain,Cadiz,NA,NA,NA,1,2,NA,2,5,40,60,70,62
+Spain,Calahorra,NA,NA,NA,NA,NA,NA,NA,5,4,5,5,7
+Spain,Calatayud,NA,NA,NA,NA,6,NA,NA,5,3,NA,9,11
+Spain,Callosa-De-Segura,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3,4
+Spain,Campo-De-Criptana,NA,NA,NA,NA,NA,NA,NA,7,4,5,4,6
+Spain,Cangas-De-Onis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+Spain,Caravaca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,14
+Spain,Carcagente,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,9
+Spain,Carmona,NA,NA,NA,NA,NA,NA,7,8,8,16,12,19
+Spain,Cartagena,NA,NA,33,NA,5,NA,4,5,12,20,25,22
+Spain,Caspe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11
+Spain,Castellon-De-La-Plana,NA,NA,NA,NA,7,5,7,3,4,10,13,20
+Spain,Cazorla,NA,NA,NA,NA,NA,NA,NA,11,4,4,5,6
+Spain,Cervera,NA,NA,NA,NA,8,NA,NA,2,2,NA,5,4
+Spain,Chinchon,NA,NA,NA,NA,NA,NA,NA,5,3,5,4,5
+Spain,Ciempozuelos,NA,NA,NA,NA,NA,NA,NA,4,2,2,2,3
+Spain,Cieza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+Spain,Ciudad-Real,NA,NA,NA,NA,NA,NA,6,10,3,6,8,10
+Spain,Colmenar-De-Oreja,NA,NA,NA,NA,NA,NA,NA,7,3,6,5,5
+Spain,Colmenar-Viejo,NA,NA,NA,NA,NA,NA,NA,8,3,4,3,5
+Spain,Constantina,NA,NA,NA,NA,NA,NA,NA,5,3,6,7,8
+Spain,Consuegra,NA,NA,NA,NA,NA,NA,NA,7,6,6,3,7
+Spain,Cordoba,160,NA,450,60,60,40,35,31,31,34,40,36
+Spain,Corral,NA,NA,NA,NA,NA,NA,NA,7,2,3,3,4
+Spain,Crevillente,NA,NA,NA,NA,NA,NA,NA,2,2,NA,7,8
+Spain,Cuenca,NA,NA,NA,NA,NA,NA,13,15,7,8,6,8
+Spain,Cuidad-Rodrigo,NA,NA,NA,NA,5,NA,5,10,17,4,1,6
+Spain,Cullera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,10
+Spain,Daimiel,NA,NA,NA,NA,NA,NA,NA,9,5,7,9,13
+Spain,Dalias,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,11
+Spain,Don-Benito,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,NA,15
+Spain,Ecija,NA,NA,18,NA,15,NA,17,23,11,20,28,28
+Spain,Elche,NA,NA,NA,NA,NA,NA,NA,6,7,NA,17,20
+Spain,Elvira,15,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Estepa,NA,NA,NA,NA,NA,NA,NA,12,7,8,7,9
+Spain,Felanitx,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,10
+Spain,Ferrol,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,19
+Spain,Figueras,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Spain,Fraga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Spain,Fuente-Del-Maestre,NA,NA,NA,NA,NA,NA,NA,5,1,4,4,6
+Spain,Fuente-El-Sauco,NA,NA,NA,NA,NA,NA,NA,4,1,NA,2,3
+Spain,Fuentes-De-Andalucia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,7
+Spain,Gandia,NA,NA,NA,NA,NA,NA,NA,3,1,6,6,7
+Spain,Gerona,NA,NA,NA,NA,8,5,6,5,4,9,14,15
+Spain,Getafe,NA,NA,NA,NA,NA,NA,NA,6,3,4,3,4
+Spain,Gibraltar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,16
+Spain,Gijon,NA,NA,NA,NA,NA,NA,NA,5,4,5,5,10
+Spain,Granada,15,NA,26,60,150,100,70,69,70,70,70,62
+Spain,Guadalajara,NA,NA,NA,NA,NA,NA,4,10,3,6,16,7
+Spain,Guadix,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,11
+Spain,Hellin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11
+Spain,Hinojosa-Del-Duque,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,9
+Spain,Hornachos,NA,NA,NA,NA,NA,NA,NA,5,3,3,3,4
+Spain,Huelva,NA,NA,NA,NA,NA,NA,NA,5,4,5,5,8
+Spain,Huercal-Overa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11
+Spain,Huesca,NA,NA,10,NA,7,NA,7,5,4,NA,7,10
+Spain,Huete,NA,NA,NA,NA,NA,NA,NA,7,3,3,3,3
+Spain,Igualada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,14
+Spain,Jaca,NA,NA,NA,NA,NA,NA,NA,1,2,NA,3,4
+Spain,Jaen,NA,NA,20,NA,16,NA,23,28,18,22,27,20
+Spain,Jativa,NA,NA,NA,NA,9,13,9,11,2,13,10,16
+Spain,Javea,NA,NA,NA,NA,NA,NA,NA,2,2,NA,3,6
+Spain,Jerez-De-La-Frontera,12,NA,19,15,12,15,10,33,30,31,35,39
+Spain,Jerez-De-Los-Caballeros,NA,NA,NA,NA,NA,NA,NA,10,5,8,7,8
+Spain,Jumilla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,11
+Spain,La Coruna,NA,NA,NA,NA,NA,NA,3,3,5,9,15,27
+Spain,Lebrija,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,11
+Spain,Leon,NA,NA,15,40,25,NA,5,4,3,NA,6,10
+Spain,Lerida,NA,NA,NA,NA,10,NA,4,2,2,NA,11,20
+Spain,Lillo,NA,NA,NA,NA,NA,NA,NA,5,1,3,3,3
+Spain,Linares,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,11
+Spain,Liria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,9
+Spain,Llerena,NA,NA,NA,NA,NA,NA,NA,10,6,6,5,6
+Spain,Llummayor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9
+Spain,Logrono,NA,NA,NA,NA,NA,NA,NA,5,5,7,7,10
+Spain,Loja,NA,NA,NA,NA,NA,NA,NA,7,8,10,13,17
+Spain,Lora-Del-Rio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Spain,Lorca,NA,NA,NA,NA,NA,NA,7,10,11,33,22,48
+Spain,Lucena,NA,NA,NA,NA,NA,NA,2,15,18,16,18,17
+Spain,Lugo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,21
+Spain,Madrid,NA,NA,NA,NA,3,NA,13,65,140,160,168,281
+Spain,Mahon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,19
+Spain,Malaga,NA,NA,17,15,40,40,42,11,30,36,49,93
+Spain,Manacor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,12
+Spain,Manresa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,15
+Spain,Manzanares,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,10
+Spain,Marchena,NA,NA,NA,NA,NA,NA,NA,10,10,8,10,13
+Spain,Martos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,13
+Spain,Mataro,NA,NA,NA,NA,NA,NA,NA,1,5,NA,10,17
+Spain,Medina-Del-Campo,NA,NA,NA,NA,20,NA,21,9,4,5,3,3
+Spain,Medina-De-Rio-Seco,NA,NA,NA,NA,NA,NA,16,12,7,8,5,5
+Spain,Membrilla,NA,NA,NA,NA,NA,NA,NA,4,2,3,3,5
+Spain,Merida,30,40,30,NA,12,NA,10,6,5,5,5,6
+Spain,Mondejar,NA,NA,NA,NA,NA,NA,NA,4,1,2,3,2
+Spain,Mondonedo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,10
+Spain,Monforte-De-Lemos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11
+Spain,Monovar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9
+Spain,Montefrio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9
+Spain,Montilla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,15
+Spain,Montoro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,12
+Spain,Moratalla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,10
+Spain,Morella,NA,NA,NA,NA,6,13,2,3,2,NA,6,7
+Spain,Moron-De-La-Frontera,NA,NA,NA,NA,NA,NA,NA,10,8,12,8,16
+Spain,Motril,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,14
+Spain,Mula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Spain,Murcia,10,NA,19,NA,15,NA,25,17,26,32,40,27
+Spain,Najera,NA,NA,NA,NA,NA,NA,NA,5,1,2,2,3
+Spain,Nijar,NA,NA,NA,NA,NA,NA,NA,NA,1,2,5,9
+Spain,Novelda,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,7,8
+Spain,Ocana,NA,NA,NA,NA,NA,NA,9,15,3,5,5,5
+Spain,Olivenza,NA,NA,NA,NA,NA,NA,5,NA,NA,8,NA,7
+Spain,Olot,NA,NA,NA,NA,NA,NA,NA,1,3,10,15,10
+Spain,Olvera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Spain,Onteniente,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,10
+Spain,Orense,NA,NA,NA,NA,NA,NA,5,4,3,3,4,11
+Spain,Orihuela,NA,NA,NA,NA,NA,5,7,10,8,NA,19,26
+Spain,Osuna,NA,NA,NA,NA,NA,NA,NA,12,13,18,14,17
+Spain,Oviedo,NA,NA,NA,NA,NA,NA,2,9,4,8,9,14
+Spain,Palencia,NA,NA,NA,NA,NA,NA,14,15,4,11,10,13
+Spain,Palma,NA,NA,25,30,17,9,13,17,NA,28,29,40
+Spain,Pamplona,NA,NA,NA,NA,8,5,NA,11,11,NA,14,23
+Spain,Paredes-De-Nava,NA,NA,NA,NA,NA,NA,NA,5,2,4,4,5
+Spain,Pastrana,NA,NA,NA,NA,NA,NA,NA,8,3,3,3,2
+Spain,Pego,NA,NA,NA,NA,NA,NA,NA,1,2,5,5,6
+Spain,Penaranda,NA,NA,NA,NA,NA,NA,NA,4,3,3,NA,4
+Spain,Plasencia,NA,NA,NA,NA,NA,NA,25,9,5,5,7,7
+Spain,Pontevedra,NA,NA,NA,NA,NA,NA,NA,8,6,6,4,7
+Spain,Porcuna,NA,NA,NA,NA,NA,NA,NA,6,2,4,4,8
+Spain,Pozoblanco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,8
+Spain,Priego-De-Cordoba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,14
+Spain,Puente-Genil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,10
+Spain,Puerto-De-Santa-Maria,NA,NA,NA,NA,NA,NA,7,4,9,17,17,21
+Spain,Puerto-Real,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Spain,Puigcerda,NA,NA,NA,NA,8,NA,NA,2,1,1,2,2
+Spain,Quiroga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+Spain,Requena,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,12
+Spain,Reus,NA,NA,NA,NA,NA,NA,2,NA,2,NA,15,28
+Spain,Ronda,NA,NA,NA,NA,NA,NA,7,8,10,11,15,23
+Spain,Rota,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,7
+Spain,Rute,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,9
+Spain,Sabadell,NA,NA,NA,NA,NA,NA,NA,1,1,NA,5,14
+Spain,Salamanca,NA,NA,NA,NA,15,NA,12,25,12,10,9,15
+Spain,San-Clemente,NA,NA,NA,NA,NA,NA,NA,8,2,4,5,4
+Spain,San-Fernando,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,28,23
+Spain,San-Lucar-De-Barrameda,NA,NA,NA,NA,NA,NA,NA,4,6,12,15,19
+Spain,San-Roque,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,11
+Spain,San-Sebastian,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,10,9
+Spain,Santander,NA,NA,NA,NA,6,6,1,4,2,3,15,25
+Spain,Santiago,NA,NA,NA,NA,7,NA,5,5,8,20,25,27
+Spain,Segorbe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8
+Spain,Segovia,NA,NA,NA,NA,6,NA,14,21,7,11,10,10
+Spain,Seron,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Spain,Sevilla,30,40,90,80,90,70,45,135,72,66,96,113
+Spain,Solana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,7
+Spain,Soller,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8
+Spain,Soria,NA,NA,NA,NA,4,4,5,6,4,3,5,6
+Spain,Tafalla,NA,NA,NA,NA,NA,NA,NA,2,4,NA,5,5
+Spain,Talavera,NA,NA,NA,NA,NA,NA,5,10,5,7,7,9
+Spain,Tarazona,NA,NA,NA,NA,NA,NA,NA,3,5,NA,7,5
+Spain,Tarifa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,12
+Spain,Tarragona,NA,NA,NA,NA,9,NA,4,4,5,NA,9,18
+Spain,Tarrasa,NA,NA,NA,NA,NA,NA,NA,2,2,NA,4,9
+Spain,Tembleque,NA,NA,NA,NA,NA,NA,NA,6,4,5,5,4
+Spain,Teruel,NA,NA,NA,NA,8,NA,NA,2,2,NA,7,10
+Spain,Tineo,NA,NA,NA,NA,NA,NA,NA,8,4,NA,15,21
+Spain,Toledo,25,NA,37,35,42,45,32,80,23,20,18,15
+Spain,Tolosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Spain,Tomelloso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,8
+Spain,Tordesillas,NA,NA,NA,NA,NA,NA,NA,5,3,NA,3,4
+Spain,Toro,NA,NA,NA,NA,NA,NA,8,9,3,NA,9,9
+Spain,Torre-Don-Jimeno,NA,NA,NA,NA,NA,NA,NA,8,3,4,6,7
+Spain,Torrevieja,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,7
+Spain,Tortosa,NA,NA,NA,NA,8,NA,NA,4,5,NA,10,25
+Spain,Totana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,9
+Spain,Trujillo,NA,NA,NA,NA,NA,NA,8,8,3,6,5,8
+Spain,Tudela,NA,NA,NA,NA,8,NA,NA,9,8,NA,8,9
+Spain,Tuy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,12
+Spain,Ubeda,NA,NA,NA,NA,NA,NA,20,23,10,14,14,13
+Spain,Utiel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7
+Spain,Utrera,NA,NA,NA,NA,NA,NA,8,13,8,NA,11,14
+Spain,Valdepenas,NA,NA,NA,NA,NA,NA,NA,7,3,6,8,11
+Spain,Valencia,NA,NA,15,26,44,36,42,65,50,60,80,87
+Spain,Valladolid,NA,NA,6,NA,25,NA,30,41,16,19,20,40
+Spain,Vall-De-Ujo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Spain,Valls,NA,NA,NA,NA,NA,NA,NA,3,3,14,9,14
+Spain,Velez-Blanco,NA,NA,NA,NA,NA,NA,NA,NA,3,2,6,7
+Spain,Velez-Malaga,NA,NA,NA,NA,NA,NA,NA,6,6,9,16,21
+Spain,Velez-Rubio,NA,NA,NA,NA,NA,NA,NA,NA,6,6,11,11
+Spain,Vich,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,14
+Spain,Vigo,NA,NA,NA,NA,NA,NA,5,4,1,3,5,8
+Spain,Villacarrillo,NA,NA,NA,NA,NA,NA,NA,4,4,4,5,6
+Spain,Villafranca-De-Los-Barros,NA,NA,NA,NA,NA,NA,NA,3,2,3,6,8
+Spain,Villajoyosa,NA,NA,NA,NA,NA,NA,NA,2,2,6,7,9
+Spain,Villalon,NA,NA,NA,NA,NA,NA,NA,3,2,3,5,5
+Spain,Villanueva-De-Cordoba,NA,NA,NA,NA,NA,NA,NA,2,4,5,5,6
+Spain,Villanueva-De-La-Jara,NA,NA,NA,NA,NA,NA,NA,6,2,3,3,2
+Spain,Villanueva-De-La-Serena,NA,NA,NA,NA,NA,NA,NA,4,3,5,11,10
+Spain,Villanueva-De-Los-Infantes,NA,NA,NA,NA,NA,NA,NA,8,3,6,7,6
+Spain,Villanueva-Y-Geltru,NA,NA,NA,NA,NA,NA,NA,1,2,NA,9,11
+Spain,Villa-Robledo,NA,NA,NA,NA,NA,NA,NA,8,4,7,7,8
+Spain,Villarreal,NA,NA,NA,NA,NA,3,1,2,2,NA,8,10
+Spain,Villena,NA,NA,NA,NA,NA,NA,NA,4,4,6,9,10
+Spain,Vinaroz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,10
+Spain,Vitoria,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,10,19
+Spain,Vivero,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,11
+Spain,Yecla,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,12
+Spain,Yepes,NA,NA,NA,NA,NA,NA,NA,8,2,4,3,3
+Spain,Yniesta,NA,NA,NA,NA,NA,NA,NA,5,2,4,3,3
+Spain,Zamora,NA,NA,NA,NA,8,NA,5,8,6,NA,10,13
+Spain,Zaragoza,NA,NA,17,21,15,20,20,25,30,35,43,56
+Sweden,Arboga,NA,NA,NA,NA,NA,1,2,2,3,1,1,2
+Sweden,Falun,NA,NA,NA,NA,NA,NA,NA,NA,6,6,5,4
+Sweden,Gaevle,NA,NA,NA,NA,NA,NA,1,3,3,3,5,9
+Sweden,Goeteborg,NA,NA,NA,NA,NA,NA,1,2,5,10,13,26
+Sweden,Haelsingborg,NA,NA,NA,NA,1,1,1,1,2,1,2,4
+Sweden,Joenkoeping,NA,NA,NA,NA,NA,1,1,1,3,3,3,6
+Sweden,Kalmar,NA,NA,NA,NA,1,2,2,2,2,3,3,7
+Sweden,Karlskrona,NA,NA,NA,NA,NA,NA,NA,NA,5,10,10,14
+Sweden,Landskrona,NA,NA,NA,NA,NA,NA,2,1,2,1,4,4
+Sweden,Linkoeping,NA,NA,NA,NA,1,1,1,1,2,2,3,5
+Sweden,Lund,NA,NA,NA,2,3,3,2,1,2,3,3,7
+Sweden,Malmoe,NA,NA,NA,NA,NA,3,5,5,6,4,5,13
+Sweden,Norrkoeping,NA,NA,NA,NA,NA,NA,1,3,6,6,9,17
+Sweden,Oerebro,NA,NA,NA,NA,NA,1,1,1,2,2,3,5
+Sweden,Stockholm,NA,NA,NA,NA,2,5,7,9,40,70,76,93
+Sweden,Uddevalla,NA,NA,NA,NA,NA,NA,1,2,2,2,4,4
+Sweden,Uppsala,NA,NA,NA,NA,1,1,1,2,3,4,5,7
+Sweden,Vaesteras,NA,NA,NA,NA,1,1,1,1,3,2,3,4
+Sweden,Vaestervik,NA,NA,NA,NA,NA,NA,1,1,2,2,3,4
+Sweden,Visby,NA,NA,NA,1,3,3,3,3,3,3,4,5
+Switzerland,Altstaetten,NA,NA,NA,NA,NA,NA,1,1,3,4,6,6
+Switzerland,Basel,NA,NA,NA,5,NA,10,10,11,15,16,15,35
+Switzerland,Bern,NA,NA,NA,NA,3,NA,3,NA,8,13,11,42
+Switzerland,Fribourg,NA,NA,NA,NA,1,5,5,NA,NA,NA,5,9
+Switzerland,Geneve,NA,NA,1,NA,4,8,12,16,18,23,25,45
+Switzerland,Herisau,NA,NA,NA,NA,NA,NA,NA,NA,4,5,6,8
+Switzerland,La Chaux-De-Fonds,NA,NA,NA,NA,NA,NA,NA,NA,2,2,5,14
+Switzerland,Lausanne,NA,NA,NA,5,NA,5,NA,6,6,7,6,19
+Switzerland,Le Locle,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,5,7
+Switzerland,Lugano,NA,NA,NA,NA,NA,2,NA,3,NA,NA,4,6
+Switzerland,Luzern,NA,NA,NA,NA,3,4,3,NA,4,5,4,16
+Switzerland,Neuchatel,NA,NA,NA,NA,NA,2,NA,NA,NA,4,4,8
+Switzerland,Schaffhausen,NA,NA,NA,2,2,3,4,NA,NA,7,7,11
+Switzerland,Schwyz,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3,5
+Switzerland,Solothurn,NA,NA,NA,NA,NA,2,3,NA,4,4,4,7
+Switzerland,St-Gallen,NA,NA,NA,NA,NA,3,5,5,6,8,6,18
+Switzerland,Vevey,NA,NA,NA,NA,NA,2,NA,NA,NA,3,4,8
+Switzerland,Winterthur,NA,NA,NA,NA,NA,NA,2,2,3,3,8,14
+Switzerland,Zuerich,NA,NA,NA,NA,6,5,5,8,8,10,10,46
+Yugoslavia,Bakar,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,8,2
+Yugoslavia,Banja Luka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,15
+Yugoslavia,Belgrade,NA,NA,NA,NA,20,30,30,55,50,40,25,18
+Yugoslavia,Bitola,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,NA
+Yugoslavia,Debar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA
+Yugoslavia,Dubrovnik,NA,NA,NA,NA,NA,NA,7,NA,NA,NA,NA,NA
+Yugoslavia,Gjakove,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA
+Yugoslavia,Koper,NA,NA,NA,NA,NA,NA,NA,4,5,5,5,NA
+Yugoslavia,Kragujevac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+Yugoslavia,Ljubljana,NA,NA,NA,NA,NA,NA,NA,7,10,10,10,17
+Yugoslavia,Maribor,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,5,7
+Yugoslavia,Nagykikinda,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,15
+Yugoslavia,Nis,NA,NA,NA,NA,5,15,20,18,NA,NA,4,4
+Yugoslavia,Novi Sad,NA,NA,NA,NA,NA,NA,NA,NA,1,3,9,10
+Yugoslavia,Novipazar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+Yugoslavia,Ohrid,NA,30,40,NA,5,NA,NA,NA,NA,NA,8,5
+Yugoslavia,Osijek,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,9,13
+Yugoslavia,Panczova,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,NA
+Yugoslavia,Pec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA
+Yugoslavia,Pristina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA
+Yugoslavia,Prizrend,NA,NA,15,NA,10,NA,NA,22,22,21,20,10
+Yugoslavia,Rijeka,NA,NA,NA,NA,NA,NA,NA,NA,3,5,6,11
+Yugoslavia,Rovinj,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,NA
+Yugoslavia,Sarajevo,NA,NA,NA,NA,NA,NA,5,45,20,NA,40,50
+Yugoslavia,Semlin,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,7,8
+Yugoslavia,Senta,NA,NA,NA,NA,NA,NA,NA,NA,1,3,7,15
+Yugoslavia,Skopje,NA,NA,NA,NA,18,22,50,55,45,NA,6,21
+Yugoslavia,Smederevo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA
+Yugoslavia,Sombor,NA,NA,NA,NA,NA,NA,NA,NA,2,12,15,22
+Yugoslavia,Split,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,11
+Yugoslavia,Subotica,NA,NA,NA,NA,NA,NA,NA,NA,2,18,21,48
+Yugoslavia,Tetovo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+Yugoslavia,Titovo Uzice,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA
+Yugoslavia,Trebinje,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Yugoslavia,Ulqin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+Yugoslavia,Varasd,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,5,NA
+Yugoslavia,Vrsac,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,18
+Yugoslavia,Zadar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,7
+Yugoslavia,Zagreb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,14
+Yugoslavia,Zrenjanin,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,6,15
