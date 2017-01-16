@@ -35,3 +35,6 @@ vignettes/*.pdf
 
 # Luterbacher et al data is too large for Github
 data/raw/Luterbacher_et_al_2004
+
+# GADM file too large for Github
+data/raw/GADM
