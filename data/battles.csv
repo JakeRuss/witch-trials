@@ -1,0 +1,425 @@
+battle,month,year,decade,century,city,country,war,war.theater,lon,lat,gadm.adm0,gadm.adm1,gadm.adm2,source,source.page
+Trier,August,1522,1520,1500,Trier,Germany,Knights' Revolt,NA,6.6371433,49.749992,Germany,Rheinland-Pfalz,Trier,Hitchcock (1958),1
+Landstuhl,April,1523,1520,1500,Landstuhl,Germany,Knights' Revolt,NA,7.5709052,49.4141464,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Hitchcock (1958),1
+Donaueschingen,December,1524,1520,1500,Donaueschingen,Germany,German Peasants' War,NA,8.4979461,47.9521523,Germany,Baden-Wurttemberg,Freiburg,Miller (2003),17
+Kempten,April,1525,1520,1500,Kempten,Germany,German Peasants' War,NA,10.3157835,47.7285699,Germany,Bayern,Schwaben,Miller (2003),14
+Leipheim,April,1525,1520,1500,Leipheim,Germany,German Peasants' War,NA,10.2263059,48.4444121,Germany,Bayern,Schwaben,Miller (2003),14
+Wurzach,April,1525,1520,1500,Bad Wurzach,Germany,German Peasants' War,NA,9.8938287,47.9081917,Germany,Baden-Wurttemberg,Tubingen,Miller (2003),21
+Boblingen,May,1525,1520,1500,Boblingen,Germany,German Peasants' War,NA,9.0088299,48.6813312,Germany,Baden-Wurttemberg,Stuttgart,Miller (2003),34
+Frankenhausen,May,1525,1520,1500,Bad Frankenhausen,Germany,German Peasants' War,NA,11.1016361,51.3561014,Germany,Thuringen,Thuringen,Miller (2003),40
+Freiburg,May,1525,1520,1500,Freiburg,Germany,German Peasants' War,NA,7.8421043,47.9990077,Germany,Baden-Wurttemberg,Freiburg,Miller (2003),22
+Wurzburg,May,1525,1520,1500,Wurzburg,Germany,German Peasants' War,NA,9.9533548,49.7913044,Germany,Bayern,Unterfranken,Miller (2003),15
+Zabern (Saverne),May,1525,1520,1500,Saverne,France,German Peasants' War,NA,7.361647,48.741963,France,Alsace,Bas-Rhin,Miller (2003),23
+Ingolstadt,June,1525,1520,1500,Ingolstadt,Germany,German Peasants' War,NA,11.4257541,48.7665351,Germany,Bayern,Oberbayern,Miller (2003),37
+Konigshofen,June,1525,1520,1500,Bad Konigshofen,Germany,German Peasants' War,NA,10.4662774,50.3013477,Germany,Bayern,Unterfranken,Miller (2003),16
+Pfeddersheim,June,1525,1520,1500,Pfeddersheim,Germany,German Peasants' War,NA,8.273839,49.6372769,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Miller (2003),38
+Wurzburg,June,1525,1520,1500,Wurzburg,Germany,German Peasants' War,NA,9.9533548,49.7913044,Germany,Bayern,Unterfranken,Miller (2003),16
+Leubas River,July,1525,1520,1500,Leubas,Germany,German Peasants' War,NA,10.3371232,47.7637923,Germany,Bayern,Schwaben,Miller (2003),38
+Schladming,July,1525,1520,1500,Schladming,Austria,German Peasants' War,NA,13.68544,47.394203,Austria,Steiermark,Liezen,Miller (2003),41
+Hohentweil,NA,1525,1520,1500,Hohentwiel,Germany,German Peasants' War,NA,8.8188889,47.7647222,Germany,Baden-Wurttemberg,Freiburg,Miller (2003),15
+Sulzberg,Spring,1525,1520,1500,Sulzberg,Germany,German Peasants' War,NA,10.3480918,47.6609921,Germany,Bayern,Schwaben,Miller (2003),41
+Kappel,June,1529,1520,1500,Kappel am Albis,Switzerland,Swiss Religious Wars,First War of Kappel,8.5259411,47.2279625,Switzerland,Zurich,Affoltern,Heinze (2005),130
+Zug,October,1531,1530,1500,Zug,Switzerland,Swiss Religious Wars,Second War of Kappel,8.513854,47.1745887,Switzerland,Zug,Zug,Jaques (2007),1136
+Zurich (Kappel),October,1531,1530,1500,Kappel am Albis,Switzerland,Swiss Religious Wars,Second War of Kappel,8.5259411,47.2279625,Switzerland,Zurich,Affoltern,Jaques (2007),510
+Ingolstadt,August,1546,1540,1500,Ingolstadt,Germany,Schmalkaldic Wars,War of the German Reformation,11.4257541,48.7665351,Germany,Bayern,Oberbayern,Tracy (2002),211
+Muhlberg,April,1547,1540,1500,Muhlberg,Germany,Schmalkaldic Wars,War of the German Reformation,10.824167,50.8675,Germany,Thuringen,Thuringen,Jaques (2007),694
+Wittenberg,May,1547,1540,1500,Wittenberg,Germany,Schmalkaldic Wars,War of the German Reformation,12.6279659,51.8739831,Germany,Sachsen-Anhalt,Dessau,Heinze (2005),116
+Parma,May,1551,1550,1500,Parma,Italy,Schmalkaldic Wars,War of the German Reformation,10.3279036,44.801485,Italy,Emilia-Romagna,Parma,Tracy (2002),240
+Metz,November,1552,1550,1500,Metz,France,Schmalkaldic Wars,War of the German Reformation,6.1757156,49.1193089,France,Lorraine,Moselle,Tracy (2002),239
+Sieveshausen,July,1553,1550,1500,Sieveshausen,Germany,Schmalkaldic Wars,War of the German Reformation,9.655833,51.769722,Germany,Niedersachsen,Braunschweig,Jaques (2007),942
+Vassy,March,1562,1560,1500,Wassy,France,French Wars of Religion,First French War of Religion,4.948753,48.499508,France,Champagne-Ardenne,Haute-Marne,Jaques (2007),1064
+Corrichie,October,1562,1560,1500,Banchory,Scotland,Marian Civil War,NA,-2.49096,57.053856,United Kingdom,Scotland,Aberdeenshire,Wormald (2001),123
+Rouen,October,1562,1560,1500,Rouen,France,French Wars of Religion,First French War of Religion,1.099971,49.443232,France,Haute-Normandie,Seine-Maritime,Jaques (2007),866
+Vergt,October,1562,1560,1500,Vergt,France,French Wars of Religion,First French War of Religion,0.7193119,45.026165,France,Aquitaine,Dordogne,Jaques (2007),1070
+Dreux,December,1562,1560,1500,Dreux,France,French Wars of Religion,First French War of Religion,1.370889,48.736134,France,Centre,Eure-et-Loir,Jaques (2007),314
+Inverness,NA,1562,1560,1500,Inverness,Scotland,Marian Civil War,NA,-4.224721,57.477773,United Kingdom,Scotland,Highland,Wormald (2001),125
+Orleans,February,1563,1560,1500,Orleans,France,French Wars of Religion,First French War of Religion,1.909251,47.902964,France,Centre,Loiret,Jaques (2007),758
+Le Havre,July,1563,1560,1500,Le Havre,France,French Wars of Religion,First French War of Religion,0.107929,49.49437,France,Haute-Normandie,Seine-Maritime,Jaques (2007),578
+Chaseabout Raid,NA,1565,1560,1500,Stirling,Scotland,Marian Civil War,NA,-3.9369029,56.1165227,United Kingdom,Scotland,Stirling,Wormald (2001),157
+Valenciennes,December,1566,1560,1500,Valenciennes,France,Eighty Years' War,Netherlands War of Independence,3.518332,50.357113,France,Nord-Pas-de-Calais,Nord,Jaques (2007),1059
+Oosterweel,March,1567,1560,1500,Antwerp,Belgium,Eighty Years' War,Netherlands War of Independence,4.4024643,51.2194475,Belgium,Vlaanderen,Antwerpen,Parker (1977),97
+Carberry Hill,June,1567,1560,1500,Musselburgh,Scotland,Marian Civil War,NA,-3.053918,55.941941,United Kingdom,Scotland,East Lothian,Jaques (2007),200
+Saint-Denis,November,1567,1560,1500,Saint-Denis,France,French Wars of Religion,Second French War of Religion,2.357443,48.936181,France,Ile-de-France,Seine-Saint-Denis,Jaques (2007),878
+Chartres,February,1568,1560,1500,Chartres,France,French Wars of Religion,Second French War of Religion,1.489012,48.443854,France,Centre,Eure-et-Loir,Knecht (2010),xv
+Heiligerlee,May,1568,1560,1500,Heiligerlee,Netherlands,Eighty Years' War,Netherlands War of Independence,7.0118901,53.1549624,Netherlands,Groningen,Reiderland,Jaques (2007),440
+Langside,May,1568,1560,1500,Langside,Scotland,Marian Civil War,NA,-3.9542091,56.3016086,United Kingdom,Scotland,Perthshire and Kinross,Jaques (2007),568
+Jemmingen,July,1568,1560,1500,Jemgum,Germany,Eighty Years' War,Netherlands War of Independence,7.3849319,53.2682267,Germany,Niedersachsen,Weser-Ems,Jaques (2007),489
+Jodoigne,October,1568,1560,1500,Jodoigne,Belgium,Eighty Years' War,Netherlands War of Independence,4.87115,50.72336,Belgium,Wallonie,Brabant Wallon,Jaques (2007),496
+Jarnac,March,1569,1560,1500,Bassac,France,French Wars of Religion,Third French War of Religion,-0.104503,45.663292,France,Poitou-Charentes,Charente,Jaques (2007),487
+La Roche-L'Abeille,June,1569,1560,1500,La Roche-l'Abeille,France,French Wars of Religion,Third French War of Religion,1.240181,45.596783,France,Limousin,Haute-Vienne,Jaques (2007),571
+Poitiers,July,1569,1560,1500,Poitiers,France,French Wars of Religion,Third French War of Religion,0.340375,46.580224,France,Poitou-Charentes,Vienne,Jaques (2007),806
+Orthez,August,1569,1560,1500,Orthez,France,French Wars of Religion,Third French War of Religion,-0.7739279,43.48756,France,Aquitaine,Pyrenees-Atlantiques,Jaques (2007),759
+Moncontour,October,1569,1560,1500,Moncontour,France,French Wars of Religion,Third French War of Religion,-2.63149,48.361272,France,Bretagne,Cotes-d'Armor,Jaques (2007),674
+Saint-Jean-d'Angely,October,1569,1560,1500,Saint-Jean-d'Angely,France,French Wars of Religion,Third French War of Religion,-0.517763,45.944823,France,Poitou-Charentes,Charente-Maritime,Knecht (2010),xv
+Arnay-le-Duc,June,1570,1570,1500,Arnay-le-Duc,France,French Wars of Religion,Third French War of Religion,4.485898,47.130623,France,Bourgogne,Cote-d'Or,Jaques (2007),68
+Brielle,April,1572,1570,1500,Brielle,Netherlands,Eighty Years' War,Netherlands War of Independence,4.1636846,51.902582,Netherlands,Zuid-Holland,Brielle,Jaques (2007),165
+Flushing,April,1572,1570,1500,Vlissingen,Netherlands,Eighty Years' War,Netherlands War of Independence,3.5709125,51.4536672,Netherlands,Zeeland,Vlissingen,Parker (1977),133
+Mons,June,1572,1570,1500,Mons,Belgium,Eighty Years' War,Netherlands War of Independence,3.956659,50.4542408,Belgium,Wallonie,Hainaut,Jaques (2007),676
+St. Bartholomew's Eve,August,1572,1570,1500,Paris,France,French Wars of Religion,Fourth French War of Religion,2.3522219,48.856614,France,Ile-de-France,Paris,Jaques (2007),877
+Mechelen,October,1572,1570,1500,Mechelen,Belgium,Eighty Years' War,Netherlands War of Independence,4.4775362,51.0258761,Belgium,Vlaanderen,Antwerpen,Parker (1977),141
+Middelburg,November,1572,1570,1500,Middleburg,Netherlands,Eighty Years' War,Netherlands War of Independence,3.610998,51.4987962,Netherlands,Zeeland,Middelburg,Jaques (2007),661
+Zutphen,November,1572,1570,1500,Zutphen,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1960584,52.142736,Netherlands,Gelderland,Warnsveld,Parker (1977),142
+Haarlem,December,1572,1570,1500,Haarlem,Netherlands,Eighty Years' War,Netherlands War of Independence,4.6462194,52.3873878,Netherlands,Noord-Holland,Haarlem,Jaques (2007),424
+La Rochelle,December,1572,1570,1500,La Rochelle,France,French Wars of Religion,Fourth French War of Religion,-1.151139,46.160329,France,Poitou-Charentes,Charente-Maritime,Jaques (2007),572
+Naarden,December,1572,1570,1500,Naarden,Netherlands,Eighty Years' War,Netherlands War of Independence,5.1604238,52.2952549,Netherlands,Noord-Holland,Naarden,Jaques (2007),703
+Sancerre,March,1573,1570,1500,Sancerre,France,French Wars of Religion,Fourth French War of Religion,2.839867,47.329583,France,Centre,Cher,Knecht (2010),xvi
+Alkmaar,August,1573,1570,1500,Alkmaar,Netherlands,Eighty Years' War,Netherlands War of Independence,4.7533754,52.6323813,Netherlands,Noord-Holland,Alkmaar,Jaques (2007),35
+Leyden (Leiden),October,1573,1570,1500,Leiden,Netherlands,Eighty Years' War,Netherlands War of Independence,4.4970097,52.1601144,Netherlands,Zuid-Holland,Leiden,Jaques (2007),584
+Zuyder Zee (Zuiderzee),October,1573,1570,1500,Ijsselmeer,Netherlands,Eighty Years' War,Netherlands War of Independence,5.3235903,52.7978321,Netherlands,Noord-Holland,Andijk,Jaques (2007),1137
+Edinburgh,NA,1573,1570,1500,Edinburgh,Scotland,Marian Civil War,NA,-3.188267,55.953252,United Kingdom,Scotland,Edinburgh,Wormald (2001),184
+Geertruidenberg,NA,1573,1570,1500,Geertruidenberg,Netherlands,Eighty Years' War,Netherlands War of Independence,4.8499781,51.7023659,Netherlands,Noord-Brabant,Geertruidenberg,Parker (1977),162
+Walcheren (Reimerswaal),January,1574,1570,1500,Walcheren,Netherlands,Eighty Years' War,Netherlands War of Independence,5.1369542,52.0604289,Netherlands,Utrecht,Utrecht,Jaques (2007),1091
+Mookerheyde,April,1574,1570,1500,Mook en Middelaar,Netherlands,Eighty Years' War,Netherlands War of Independence,5.8962161,51.7521696,Netherlands,Limburg,Mook en Middelaar,Jaques (2007),684
+Dormans,October,1575,1570,1500,Dormans,France,French Wars of Religion,Fifth French War of Religion,3.638479,49.07464,France,Champagne-Ardenne,Marne,Jaques (2007),310
+Zierikzee,October,1575,1570,1500,Zierikzee,Netherlands,Eighty Years' War,Netherlands War of Independence,3.9184977,51.6501218,Netherlands,Zeeland,Schouwen-Duiveland,Jaques (2007),1133
+Buren,NA,1575,1570,1500,Buren,Netherlands,Eighty Years' War,Netherlands War of Independence,5.3340584,51.9103889,Netherlands,Gelderland,Buren,Tracy (2008),99
+Schoonhoven,NA,1575,1570,1500,Schoonhoven,Netherlands,Eighty Years' War,Netherlands War of Independence,4.8432204,51.9525204,Netherlands,Zuid-Holland,Schoonhoven,Tracy (2008),99
+Aalst,July,1576,1570,1500,Aalst,Belgium,Eighty Years' War,Netherlands War of Independence,4.0409517,50.9378101,Belgium,Vlaanderen,Oost-Vlaanderen,Parker (1977),173
+Antwerp,November,1576,1570,1500,Antwerp,Belgium,Eighty Years' War,Netherlands War of Independence,4.4024643,51.2194475,Belgium,Vlaanderen,Antwerpen,Jaques (2007),56
+La Charite-sur-Loire,May,1577,1570,1500,La Charite-sur-Loire,France,French Wars of Religion,Sixth French War of Religion,3.018014,47.177091,France,Bourgogne,Nievre,Knecht (2010),xvii
+Issoire,June,1577,1570,1500,Issoire,France,French Wars of Religion,Sixth French War of Religion,3.248128,45.54151,France,Auvergne,Puy-de-Dome,Knecht (2010),xvii
+Namur,July,1577,1570,1500,Namur,Belgium,Eighty Years' War,Netherlands War of Independence,4.8719854,50.4673883,Belgium,Wallonie,Namur,Tracy (2008),158
+Gembloux,January,1578,1570,1500,Gembloux,Belgium,Eighty Years' War,Netherlands War of Independence,4.68843,50.56515,Belgium,Wallonie,Namur,Parker (1977),186
+Rymenant (Rijmenam),August,1578,1570,1500,Rijmenam,Belgium,Eighty Years' War,Netherlands War of Independence,4.5902677,51.0037609,Belgium,Vlaanderen,Antwerpen,Jaques (2007),871
+Oudenaarde,NA,1578,1570,1500,Oudenaarde,Belgium,Eighty Years' War,Netherlands War of Independence,3.601368,50.846955,Belgium,Vlaanderen,Oost-Vlaanderen,Tracy (2008),139
+Maastricht,March,1579,1570,1500,Maastricht,Netherlands,Eighty Years' War,Netherlands War of Independence,5.6909725,50.8513682,Netherlands,Limburg,Maastricht,Jaques (2007),611
+Mechelen,May,1579,1570,1500,Mechelen,Belgium,Eighty Years' War,Netherlands War of Independence,4.4775362,51.0258761,Belgium,Vlaanderen,Antwerpen,Tracy (2008),157
+Mechelen,April,1580,1580,1500,Mechelen,Belgium,Eighty Years' War,Netherlands War of Independence,4.4775362,51.0258761,Belgium,Vlaanderen,Antwerpen,Tracy (2008),157
+Cahors,May,1580,1580,1500,Cahors,France,French Wars of Religion,Seventh French War of Religion,1.441989,44.4475229,France,Midi-Pyrenees,Lot,Knecht (2010),xviii
+Hardenberg Heath,June,1580,1580,1500,Hardenberg,Netherlands,Eighty Years' War,Netherlands War of Independence,6.6166947,52.5754084,Netherlands,Overijssel,Hardenberg,Jaques (2007),434
+Steenwijk,October,1580,1580,1500,Steenwijk,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1180686,52.7868939,Netherlands,Overijssel,Steenwijkerland,Jaques (2007),969
+Aachen,May,1581,1580,1500,Aachen,Germany,Eighty Years' War,Netherlands War of Independence,6.0838868,50.7753455,Germany,Nordrhein-Westfalen,Koln,Israel (1997),28
+Kollum,July,1581,1580,1500,Kollum,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1477459,53.2801424,Netherlands,Friesland,Kollumerland c.a.,Jaques (2007),538
+Noordhorn,September,1581,1580,1500,Groningen,Netherlands,Eighty Years' War,Netherlands War of Independence,6.5665018,53.2193835,Netherlands,Groningen,Groningen,Jaques (2007),736
+Tournai,October,1581,1580,1500,Tournai,Belgium,Eighty Years' War,Netherlands War of Independence,3.3879338,50.6056475,Belgium,Wallonie,Hainaut,Jaques (2007),1030
+Eindhoven,April,1583,1580,1500,Eindhoven,Netherlands,Eighty Years' War,Netherlands War of Independence,5.4697225,51.441642,Netherlands,Noord-Brabant,Eindhoven,Tracy (2008),216
+Dunkirk,July,1583,1580,1500,Dunkirk,France,Eighty Years' War,Netherlands War of Independence,2.3767763,51.0343684,France,Nord-Pas-de-Calais,Nord,Tracy (2008),216
+Steenbergen,NA,1583,1580,1500,Steenbergen,Netherlands,Eighty Years' War,Netherlands War of Independence,4.3155991,51.5812395,Netherlands,Noord-Brabant,Steenbergen,Tracy (2008),216
+Bonn,January,1584,1580,1500,Bonn,Germany,Eighty Years' War,Netherlands War of Independence,7.0982068,50.73743,Germany,Nordrhein-Westfalen,Koln,Tracy (2008),222
+Antwerp,June,1584,1580,1500,Antwerp,Belgium,Eighty Years' War,Netherlands War of Independence,4.4024643,51.2194475,Belgium,Vlaanderen,Antwerpen,Jaques (2007),56
+Ghent,October,1584,1580,1500,Ghent,Belgium,Eighty Years' War,Netherlands War of Independence,3.7174243,51.0543422,Belgium,Vlaanderen,Oost-Vlaanderen,Tracy (2008),217
+Brussels,March,1585,1580,1500,Brussels,Belgium,Eighty Years' War,Netherlands War of Independence,4.3517103,50.8503396,Belgium,Bruxelles,Bruxelles,Tracy (2008),158
+Neuss,May,1585,1580,1500,Neuss,Germany,Eighty Years' War,Netherlands War of Independence,6.6879511,51.2041968,Germany,Nordrhein-Westfalen,Dusseldorf,Tracy (2008),222
+Mechelen,July,1585,1580,1500,Mechelen,Belgium,Eighty Years' War,Netherlands War of Independence,4.4775362,51.0258761,Belgium,Vlaanderen,Antwerpen,Tracy (2008),158
+Arnhem,October,1585,1580,1500,Arnhem,Belgium,Eighty Years' War,Netherlands War of Independence,4.8279351,51.174422,Belgium,Vlaanderen,Antwerpen,Tracy (2008),240
+Axel,NA,1585,1580,1500,Axel,Netherlands,Eighty Years' War,Netherlands War of Independence,3.9094234,51.2668789,Netherlands,Zeeland,Terneuzen,Tracy (2008),222
+Venlo,June,1586,1580,1500,Venlo,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1724031,51.3703748,Netherlands,Limburg,Arcen en Velden,Tracy (2008),221
+Zutphen,September,1586,1580,1500,Zutphen,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1960584,52.142736,Netherlands,Gelderland,Warnsveld,Jaques (2007),1137
+Grave,NA,1586,1580,1500,Grave,Netherlands,Eighty Years' War,Netherlands War of Independence,5.7383579,51.7589248,Netherlands,Noord-Brabant,Grave,Tracy (2008),221
+Coutras,October,1587,1580,1500,Coutras,France,French Wars of Religion,Eighth French War of Religion,-0.129361,45.04067,France,Aquitaine,Gironde,Jaques (2007),267
+Vimory,October,1587,1580,1500,Vimory,France,French Wars of Religion,Eighth French War of Religion,2.676921,47.94444,France,Centre,Loiret,Knecht (2010),xix
+Auneau,November,1587,1580,1500,Auneau,France,French Wars of Religion,Eighth French War of Religion,1.773238,48.4622839,France,Centre,Eure-et-Loir,Jaques (2007),83
+Deventer,NA,1587,1580,1500,Deventer,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1552165,52.2660751,Netherlands,Overijssel,Bathmen,Parker (1977),219
+Gertruydenberg (Geertruidenberg),April,1588,1580,1500,Geertruidenberg,Netherlands,Eighty Years' War,Netherlands War of Independence,4.8499781,51.7023659,Netherlands,Noord-Brabant,Geertruidenberg,Jaques (2007),390
+Rheinsberg,July,1588,1580,1500,Rheinsberg,Germany,Eighty Years' War,Netherlands War of Independence,12.8974874,53.0983691,Germany,Brandenburg,Brandenburg,Tracy (2008),241
+Bergen-op-Zoom,November,1588,1580,1500,Bergen op Zoom,Netherlands,Eighty Years' War,Netherlands War of Independence,4.2871622,51.4945758,Netherlands,Noord-Brabant,Bergen op Zoom,Jaques (2007),132
+Medemblik,NA,1588,1580,1500,Medemblik,Netherlands,Eighty Years' War,Netherlands War of Independence,5.1069179,52.7674467,Netherlands,Noord-Holland,Medemblik,Tracy (2008),288
+Arques,September,1589,1580,1500,Arques-la-Bataille,France,French Wars of Religion,Nineth French War of Religion,1.125068,49.880241,France,Haute-Normandie,Seine-Maritime,Jaques (2007),69
+Breda,March,1590,1590,1500,Breda,Netherlands,Eighty Years' War,Netherlands War of Independence,4.7769505,51.58307,Netherlands,Noord-Brabant,Breda,Jaques (2007),161
+Ivry,March,1590,1590,1500,Ivry,France,French Wars of Religion,Nineth French War of Religion,2.38822,48.813055,France,Ile-de-France,Val-de-Marne,Jaques (2007),480
+Paris,May,1590,1590,1500,Paris,France,French Wars of Religion,Nineth French War of Religion,2.3522219,48.856614,France,Ile-de-France,Paris,Jaques (2007),777
+Chartres,February,1591,1590,1500,Chartres,France,French Wars of Religion,Nineth French War of Religion,1.489012,48.443854,France,Centre,Eure-et-Loir,Knecht (2010),xx
+Zutphen,May,1591,1590,1500,Zutphen,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1960584,52.142736,Netherlands,Gelderland,Warnsveld,Jaques (2007),1137
+Deventer,June,1591,1590,1500,Deventer,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1552165,52.2660751,Netherlands,Overijssel,Bathmen,Parker (1977),228
+Rouen,November,1591,1590,1500,Rouen,France,French Wars of Religion,Nineth French War of Religion,1.099971,49.443232,France,Haute-Normandie,Seine-Maritime,Jaques (2007),866
+Aumale,February,1592,1590,1500,Aumale,France,French Wars of Religion,Nineth French War of Religion,1.752119,49.76861,France,Haute-Normandie,Seine-Maritime,Jaques (2007),83
+Caudebec,April,1592,1590,1500,Caudebec-en-Caux,France,French Wars of Religion,Nineth French War of Religion,0.723336,49.525303,France,Haute-Normandie,Seine-Maritime,Jaques (2007),213
+Steenwijk,May,1592,1590,1500,Steenwijk,Netherlands,Eighty Years' War,Netherlands War of Independence,6.1180686,52.7868939,Netherlands,Overijssel,Steenwijkerland,Jaques (2007),969
+Gertruydenberg (Geertruidenberg),March,1593,1590,1500,Geertruidenberg,Netherlands,Eighty Years' War,Netherlands War of Independence,4.8499781,51.7023659,Netherlands,Noord-Brabant,Geertruidenberg,Jaques (2007),390
+Groningen,April,1594,1590,1500,Groningen,Netherlands,Eighty Years' War,Netherlands War of Independence,6.5665018,53.2193835,Netherlands,Groningen,Groningen,Jaques (2007),412
+Fontaine-Francaise,June,1595,1590,1500,Fontaine-Francaise,France,French Wars of Religion,Nineth French War of Religion,5.370847,47.526469,France,Bourgogne,Cote-d'Or,Jaques (2007),357
+Calais,April,1596,1590,1500,Calais,France,French Wars of Religion,Nineth French War of Religion,1.858686,50.95129,France,Nord-Pas-de-Calais,Pas-de-Calais,Jaques (2007),184
+Turnhout,January,1597,1590,1500,Turnhout,Belgium,Eighty Years' War,Netherlands War of Independence,4.9375577,51.3216509,Belgium,Vlaanderen,Antwerpen,Jaques (2007),1045
+Rheinberg,August,1597,1590,1500,Rheinberg,Germany,Eighty Years' War,Netherlands War of Independence,6.5899097,51.5460798,Germany,Nordrhein-Westfalen,Dusseldorf,Israel (1997),29
+Amiens,September,1597,1590,1500,Amiens,France,French Wars of Religion,Nineth French War of Religion,2.295753,49.894067,France,Picardie,Somme,Jaques (2007),45
+Bredevoort,NA,1597,1590,1500,Bredevoort,Netherlands,Eighty Years' War,Netherlands War of Independence,6.6184985,51.9421422,Netherlands,Gelderland,Aalten,Israel (1997),30
+Enschede,NA,1597,1590,1500,Enschede,Netherlands,Eighty Years' War,Netherlands War of Independence,6.8936619,52.2215372,Netherlands,Overijssel,Enschede,Israel (1997),30
+Grol (Groenlo),NA,1597,1590,1500,Groenlo,Netherlands,Eighty Years' War,Netherlands War of Independence,6.6113711,52.0419627,Netherlands,Gelderland,Groenlo,Israel (1997),30
+Lingen,NA,1597,1590,1500,Lingen,Germany,Eighty Years' War,Netherlands War of Independence,7.323279,52.52306,Germany,Niedersachsen,Weser-Ems,Israel (1997),30
+Oldenzaal,NA,1597,1590,1500,Oldenzaal,Netherlands,Eighty Years' War,Netherlands War of Independence,6.9268283,52.3116551,Netherlands,Overijssel,Oldenzaal,Israel (1997),30
+Nieuport (Nieuwpoort),July,1600,1600,1600,Nieuwpoort,Belgium,Eighty Years' War,Netherlands War of Independence,2.7480158,51.1284823,Belgium,Wallonie,West-Vlaanderen,Jaques (2007),730
+Ostend,July,1601,1600,1600,Ostend,Belgium,Eighty Years' War,Netherlands War of Independence,2.928656,51.21543,Belgium,Wallonie,West-Vlaanderen,Jaques (2007),760
+Narrow Seas,September,1602,1600,1600,Dunkirk,France,Eighty Years' War,Netherlands War of Independence,2.3767763,51.0343684,France,Nord-Pas-de-Calais,Nord,Jaques (2007),714
+Geneva,NA,1602,1600,1600,Geneva,Switzerland,Swiss Religious Wars,NA,6.1422961,46.1983922,Switzerland,Geneve,Geneve,Jaques (2007),388
+Sluys (Sluis),May,1603,1600,1600,Sluis,Netherlands,Eighty Years' War,Netherlands War of Independence,3.3879195,51.3086558,Netherlands,Zeeland,Sluis,Jaques (2007),952
+Sluys (Sluis),NA,1604,1600,1600,Sluis,Netherlands,Eighty Years' War,Netherlands War of Independence,3.3879195,51.3086558,Netherlands,Zeeland,Sluis,Jaques (2007),952
+Lingen,August,1605,1600,1600,Lingen,Germany,Eighty Years' War,Netherlands War of Independence,7.323279,52.52306,Germany,Niedersachsen,Weser-Ems,Israel (1997),31
+Mulheim,October,1605,1600,1600,Mulheim,Germany,Eighty Years' War,Netherlands War of Independence,6.8845226,51.4185682,Germany,Nordrhein-Westfalen,Dusseldorf,Jaques (2007),696
+Bredevoort,NA,1606,1600,1600,Bredevoort,Netherlands,Eighty Years' War,Netherlands War of Independence,6.6184985,51.9421422,Netherlands,Gelderland,Aalten,Israel (1997),31
+Cape St. Vincent,NA,1606,1600,1600,Cape St. Vincent,Portugal,Eighty Years' War,Netherlands War of Independence,-8.9964565,37.0230468,Portugal,Faro,Vila do Bispo,Jaques (2007),198
+Grol (Groenlo),NA,1606,1600,1600,Groenlo,Netherlands,Eighty Years' War,Netherlands War of Independence,6.6113711,52.0419627,Netherlands,Gelderland,Groenlo,Israel (1997),31
+Rheinberg,NA,1606,1600,1600,Rheinberg,Germany,Eighty Years' War,Netherlands War of Independence,6.5899097,51.5460798,Germany,Nordrhein-Westfalen,Dusseldorf,Israel (1997),31
+Gibraltar,April,1607,1600,1600,Gibraltar,Spain,Eighty Years' War,Netherlands War of Independence,-5.353585,36.140751,Gibraltar,NA,NA,Jaques (2007),393
+Julich,NA,1609,1600,1600,Julich,Germany,Thirty Years' War,NA,6.3639119,50.9224226,Germany,Nordrhein-Westfalen,Koln,Wilson (2009),232
+Aachen,August,1614,1610,1600,Aachen,Germany,Eighty Years' War,Netherlands War of Independence,6.0838868,50.7753455,Germany,Nordrhein-Westfalen,Koln,Israel (1997),32
+Pilsen,November,1618,1610,1600,Pilsen,Czech Republic,Thirty Years' War,Bohemian War,13.373637,49.738431,Czech Republic,Plzensky,Plzen,Jaques (2007),797
+Sablat (Zablati),June,1619,1610,1600,Budejovice,Czech Republic,Thirty Years' War,Bohemian War,14.480255,48.975658,Czech Republic,Jihocesky,Ceske Budejovice,Jaques (2007),873
+Vienna,June,1619,1610,1600,Vienna,Austria,Thirty Years' War,NA,16.3738189,48.2081743,Austria,Wien,Wien,Wilson (2009),280
+Bruck an der Leitha,November,1619,1610,1600,Bruck an der Leitha,Austria,Thirty Years' War,NA,16.77534,48.02375,Austria,Niederosterreich,Bruck an der Leitha,Wilson (2009),291
+Kreuznach,August,1620,1620,1600,Kreuznach,Germany,Thirty Years' War,NA,12.795201,52.9345045,Germany,Brandenburg,Brandenburg,Wilson (2009),300
+Bautzen,October,1620,1620,1600,Bautzen,Germany,Thirty Years' War,NA,14.4237749,51.182293,Germany,Sachsen,Dresden,Wilson (2009),301
+White Mountain (Prague),November,1620,1620,1600,Prague,Czech Republic,Thirty Years' War,Bohemian War,14.4378005,50.0755381,Czech Republic,Prague,Praha 1,Jaques (2007),1102
+Waidhaus,May,1621,1620,1600,Waidhaus,Germany,Thirty Years' War,NA,12.4962639,49.6417301,Germany,Bayern,Oberpfalz,Wilson (2009),332
+Saint-Jean-d'Angely,June,1621,1620,1600,Saint-Jean-d'Angely,France,French Wars of Religion,First Huguenot Rebellion,-0.517763,45.944823,France,Poitou-Charentes,Charente-Maritime,Jaques (2007),880
+Montauban,August,1621,1620,1600,Montauban,France,French Wars of Religion,First Huguenot Rebellion,1.3529599,44.0221252,France,Midi-Pyrenees,Tarn-et-Garonne,Jaques (2007),678
+Julich,September,1621,1620,1600,Julich,Germany,Thirty Years' War,NA,6.3639119,50.9224226,Germany,Nordrhein-Westfalen,Koln,Wilson (2009),331
+Frankenthal,NA,1621,1620,1600,Frankenthal,Germany,Thirty Years' War,NA,8.35,49.533333,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Wilson (2009),333
+Glatz,March,1622,1620,1600,Klodzko,Poland,Thirty Years' War,NA,16.6613941,50.4345636,Poland,Lower Silesian,Klodzko,Wilson (2009),325
+Ile de Re,April,1622,1620,1600,La Rochelle,France,French Wars of Religion,NA,-1.151139,46.160329,France,Poitou-Charentes,Charente-Maritime,Holt (2005),186
+Wiesloch,April,1622,1620,1600,Wiesloch,Germany,Thirty Years' War,Palatinate War,8.6962064,49.2953714,Germany,Baden-Wurttemberg,Karlsruhe,Jaques (2007),1104
+Wimpfen,May,1622,1620,1600,Wimpfen,Germany,Thirty Years' War,Palatinate War,9.1575,49.23007,Germany,Baden-Wurttemberg,Stuttgart,Jaques (2007),1106
+Hochst,June,1622,1620,1600,Hochst,Germany,Thirty Years' War,Palatinate War,8.9950307,49.8007957,Germany,Hessen,Darmstadt,Jaques (2007),451
+Lorsch,June,1622,1620,1600,Lorsch,Germany,Thirty Years' War,NA,8.5650614,49.6510898,Germany,Hessen,Darmstadt,Wilson (2009),337
+Fleurus,August,1622,1620,1600,Fleurus,Belgium,Thirty Years' War,Palatinate War,4.5511869,50.4822605,Belgium,Wallonie,Hainaut,Jaques (2007),355
+Montpellier,August,1622,1620,1600,Montpellier,France,French Wars of Religion,NA,3.876716,43.610769,France,Languedoc-Roussillon,Herault,Holt (2005),187
+Heidelberg,September,1622,1620,1600,Heidelberg,Germany,Thirty Years' War,Palatinate War,8.6724335,49.3987524,Germany,Baden-Wurttemberg,Karlsruhe,Jaques (2007),440
+Mannheim,November,1622,1620,1600,Mannheim,Germany,Thirty Years' War,Palatinate War,8.4660395,49.4874592,Germany,Baden-Wurttemberg,Karlsruhe,Jaques (2007),629
+Bergen-op-Zoom,NA,1622,1620,1600,Bergen op Zoom,Netherlands,Eighty Years' War,Netherlands War of Independence,4.2871622,51.4945758,Netherlands,Noord-Brabant,Bergen op Zoom,Israel (1997),36
+Goch,NA,1622,1620,1600,Goch,Germany,Eighty Years' War,Netherlands War of Independence,6.1565522,51.679984,Germany,Nordrhein-Westfalen,Dusseldorf,Israel (1997),36
+Stadtlohn,August,1623,1620,1600,Stadtlohn,Germany,Thirty Years' War,Palatinate War,6.9137972,51.9920909,Germany,Nordrhein-Westfalen,Munster,Jaques (2007),966
+Goding,September,1623,1620,1600,Hodonin,Czech Republic,Thirty Years' War,NA,17.1260024,48.8529391,Czech Republic,Jihomoravsky,Hodonin,Wilson (2009),346
+Breda,August,1624,1620,1600,Breda,Netherlands,Eighty Years' War,Netherlands War of Independence,4.7769505,51.58307,Netherlands,Noord-Brabant,Breda,Jaques (2007),161
+La Rochelle,September,1625,1620,1600,La Rochelle,France,French Wars of Religion,Second Huguenot Rebellion,-1.151139,46.160329,France,Poitou-Charentes,Charente-Maritime,Jaques (2007),572
+Dessau,April,1626,1620,1600,Dessau-Rosslau,Germany,Thirty Years' War,Saxon-Danish War,12.24245,51.82224,Germany,Sachsen-Anhalt,Dessau,Jaques (2007),299
+Linz,May,1626,1620,1600,Linz,Austria,Thirty Years' War,NA,14.28583,48.30694,Austria,Oberosterreich,Linz,Wilson (2009),412
+Peuerbach,May,1626,1620,1600,Peuerbach,Austria,Thirty Years' War,NA,13.7708033,48.3447243,Austria,Oberosterreich,Grieskirchen,Wilson (2009),412
+Rossing,July,1626,1620,1600,Rossing,Germany,Thirty Years' War,NA,9.813056,52.183889,Germany,Niedersachsen,Hannover,Wilson (2009),414
+Lutter am Barenberg,August,1626,1620,1600,Lutter am Barenberge,Germany,Thirty Years' War,Saxon-Danish War,10.2678979,51.9893213,Germany,Niedersachsen,Braunschweig,Jaques (2007),607
+Grol (Groenlo),July,1627,1620,1600,Groenlo,Netherlands,Eighty Years' War,Netherlands War of Independence,6.6113711,52.0419627,Netherlands,Gelderland,Groenlo,Jaques (2007),411
+Ile de Re,July,1627,1620,1600,La Rochelle,France,French Wars of Religion,Third Huguenot Rebellion,-1.151139,46.160329,France,Poitou-Charentes,Charente-Maritime,Jaques (2007),467
+La Rochelle,August,1627,1620,1600,La Rochelle,France,French Wars of Religion,Third Huguenot Rebellion,-1.151139,46.160329,France,Poitou-Charentes,Charente-Maritime,Jaques (2007),572
+Heiligenhafen,September,1627,1620,1600,Heiligenhafen,Germany,Thirty Years' War,NA,10.97561,54.3696799,Germany,Schleswig-Holstein,Schleswig-Holstein,Wilson (2009),420
+Gluckstadt,November,1627,1620,1600,Gluckstadt,Germany,Thirty Years' War,NA,9.4260898,53.7911914,Germany,Schleswig-Holstein,Schleswig-Holstein,Wilson (2009),420
+Casale,March,1628,1620,1600,Casale Monferrato,Italy,Thirty Years' War,Mantuan War,8.450503,45.1316088,Italy,Piemonte,Alessandria,Jaques (2007),207
+Stralsund,May,1628,1620,1600,Stralsund,Germany,Thirty Years' War,Saxon-Danish War,13.0770347,54.3090654,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Jaques (2007),973
+Wolgast,September,1628,1620,1600,Wolgast,Germany,Thirty Years' War,Saxon-Danish War,13.7665592,54.0496018,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Jaques (2007),1110
+Hertogenbosch,May,1629,1620,1600,s-Hertogenbosch,Netherlands,Eighty Years' War,Netherlands War of Independence,5.3036748,51.6978162,Netherlands,Noord-Brabant,'s-Hertogenbosch,Jaques (2007),447
+Wesel,August,1629,1620,1600,Wesel,Germany,Eighty Years' War,Netherlands War of Independence,6.6295679,51.6643079,Germany,Nordrhein-Westfalen,Dusseldorf,Jaques (2007),1099
+Mantua,October,1629,1620,1600,Mantua,Italy,Thirty Years' War,Mantuan War,10.7913751,45.1564168,Italy,Lombardia,Mantua,Jaques (2007),631
+Villabuona,May,1630,1630,1600,Villabuona,Italy,Thirty Years' War,NA,9.9181521,45.355516,Italy,Lombardia,Brescia,Wilson (2009),444
+Avigliana,July,1630,1630,1600,Avigliana,Italy,Thirty Years' War,Mantuan War,7.4016896,45.076291,Italy,Piemonte,Torino,Jaques (2007),85
+Magdeburg,November,1630,1630,1600,Magdeburg,Germany,Thirty Years' War,Swedish War,11.6276237,52.1205333,Germany,Sachsen-Anhalt,Magdeburg,Jaques (2007),615
+Neubrandenburg,February,1631,1630,1600,Neubrandenburg,Germany,Thirty Years' War,Swedish War,13.2779269,53.5678292,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Jaques (2007),722
+Frankfurt an der Oder,April,1631,1630,1600,Frankfurt an der Oder,Germany,Thirty Years' War,Swedish War,14.5505673,52.3472237,Germany,Brandenburg,Brandenburg,Jaques (2007),371
+Werben,July,1631,1630,1600,Werben,Germany,Thirty Years' War,Swedish War,14.1872086,51.8131059,Germany,Brandenburg,Brandenburg,Jaques (2007),1099
+Breitenfeld,September,1631,1630,1600,Leipzig,Germany,Thirty Years' War,Swedish War,12.37307,51.3397,Germany,Sachsen,Leipzig,Jaques (2007),161
+Slaak,September,1631,1630,1600,Tholen,Netherlands,Eighty Years' War,Netherlands War of Independence,4.2162383,51.5332946,Netherlands,Zeeland,Tholen,Jaques (2007),951
+Wurzburg,October,1631,1630,1600,Wurzburg,Germany,Thirty Years' War,NA,9.9533548,49.7913044,Germany,Bayern,Unterfranken,Wilson (2009),477
+Bamberg,February,1632,1630,1600,Bamberg,Germany,Thirty Years' War,NA,10.9027636,49.8988135,Germany,Bayern,Oberfranken,Wilson (2009),497
+Rain (Lech),April,1632,1630,1600,Rain,Germany,Thirty Years' War,Swedish War,10.9208893,48.6901541,Germany,Bayern,Schwaben,Jaques (2007),837
+Ingolstadt,May,1632,1630,1600,Ingolstadt,Germany,Thirty Years' War,NA,11.4257541,48.7665351,Germany,Bayern,Oberbayern,Wilson (2009),500
+Maastricht,June,1632,1630,1600,Maastricht,Netherlands,Eighty Years' War,Netherlands War of Independence,5.6909725,50.8513682,Netherlands,Limburg,Maastricht,Jaques (2007),611
+Alte Veste,August,1632,1630,1600,Alte Veste,Germany,Thirty Years' War,Swedish War,10.972363,49.454322,Germany,Bayern,Mittelfranken,Jaques (2007),41
+Steinau,August,1632,1630,1600,Steinau an der stasse,Germany,Thirty Years' War,NA,9.4512418,50.3166763,Germany,Hessen,Darmstadt,Wilson (2009),502
+Lutzen,November,1632,1630,1600,Lutzen,Germany,Thirty Years' War,Swedish War,12.1417687,51.2558562,Germany,Sachsen-Anhalt,Halle,Jaques (2007),607
+Augsburg,NA,1632,1630,1600,Augsburg,Germany,Thirty Years' War,NA,10.89779,48.3705449,Germany,Bayern,Schwaben,Wilson (2009),481
+Hessich-Oldendorf,July,1633,1630,1600,Hessisch Oldendorf,Germany,Thirty Years' War,Swedish War,9.2459403,52.1715493,Germany,Niedersachsen,Hannover,Jaques (2007),448
+Pfaffenhofen,August,1633,1630,1600,Pfaffenhofen,Germany,Thirty Years' War,NA,11.4977392,48.5325215,Germany,Bayern,Oberbayern,Wilson (2009),521
+Steinau,October,1633,1630,1600,Steinau an der stasse,Germany,Thirty Years' War,Swedish War,9.4512418,50.3166763,Germany,Hessen,Darmstadt,Jaques (2007),969
+Regensburg,November,1633,1630,1600,Regensberg,Germany,Thirty Years' War,NA,12.1016236,49.0134297,Germany,Bayern,Oberpfalz,Wilson (2009),532
+Ebersberg,January,1634,1630,1600,Ebersberg,Germany,Thirty Years' War,NA,11.9669667,48.0780006,Germany,Bayern,Oberbayern,Wilson (2009),533
+Liegnitz,May,1634,1630,1600,Legnica,Poland,Thirty Years' War,NA,16.1553231,51.2070067,Poland,Lower Silesian,Legnica,Wilson (2009),544
+Regensburg,May,1634,1630,1600,Regensberg,Germany,Thirty Years' War,Swedish War,12.1016236,49.0134297,Germany,Bayern,Oberpfalz,Jaques (2007),847
+Landshut,July,1634,1630,1600,Landshut,Germany,Thirty Years' War,Swedish War,12.1468532,48.5441917,Germany,Bayern,Niederbayern,Jaques (2007),567
+Nordlingen,September,1634,1630,1600,Nordlingen,Germany,Thirty Years' War,Swedish War,10.4894906,48.8508157,Germany,Bayern,Schwaben,Jaques (2007),737
+Brema,March,1635,1630,1600,Brema,Italy,Thirty Years' War,Franco-Habsburg War,8.6304529,45.1330057,Italy,Lombardia,Pavia,Jaques (2007),162
+Avein,May,1635,1630,1600,Wasseiges,Belgium,Thirty Years' War,Franco-Habsburg War,5.00162,50.61754,Belgium,Wallonie,Liege,Jaques (2007),85
+Leuven (Louvain),June,1635,1630,1600,Leuven,Belgium,Eighty Years' War,Netherlands War of Independence,4.7,50.883333,Belgium,Vlaanderen,Vlaams Brabant,Israel (1997),69
+Corbie,July,1635,1630,1600,Corbie,France,Thirty Years' War,Franco-Habsburg War,2.511947,49.907676,France,Picardie,Somme,Jaques (2007),261
+Mainz,July,1635,1630,1600,Mainz,Germany,Thirty Years' War,Franco-Habsburg War,8.2472526,49.9928617,Germany,Rheinland-Pfalz,Rheinhessen-Pfalz,Jaques (2007),617
+Saint Jean de Losne,August,1635,1630,1600,Saint-Jean-de-Losne,France,Thirty Years' War,Franco-Habsburg War,5.262806,47.102266,France,Bourgogne,Cote-d'Or,Jaques (2007),880
+Boulay,September,1635,1630,1600,Boulay-Moselle,France,Thirty Years' War,Franco-Habsburg War,6.4981099,49.184543,France,Lorraine,Moselle,Jaques (2007),157
+Domitz,November,1635,1630,1600,Domitz,Germany,Thirty Years' War,Franco-Habsburg War,11.2699357,53.1358097,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Jaques (2007),308
+Goldberg,December,1635,1630,1600,Goldberg,Germany,Thirty Years' War,Franco-Habsburg War,12.0857297,53.5900958,Germany,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Jaques (2007),401
+Kyritz,December,1635,1630,1600,Kyritz,Germany,Thirty Years' War,Franco-Habsburg War,12.3961712,52.9432288,Germany,Brandenburg,Brandenburg,Jaques (2007),556
+Hanau,Autumn,1635,1630,1600,Hanau,Germany,Thirty Years' War,Franco-Habsburg War,8.9283105,50.1264123,Germany,Hessen,Darmstadt,Jaques (2007),430
+Tornavento,June,1636,1630,1600,Tornavento,Italy,Thirty Years' War,Franco-Habsburg War,8.7097632,45.5813483,Italy,Lombardia,Varese,Jaques (2007),1027
+Breda,July,1636,1630,1600,Breda,Netherlands,Eighty Years' War,Netherlands War of Independence,4.7769505,51.58307,Netherlands,Noord-Brabant,Breda,Jaques (2007),161
+Wittstock,September,1636,1630,1600,Wittstock,Germany,Thirty Years' War,Franco-Habsburg War,12.485556,53.163611,Germany,Brandenburg,Brandenburg,Jaques (2007),1109
+Monte Baldo,September,1637,1630,1600,Monte Baldo,Italy,Thirty Years' War,Franco-Habsburg War,10.7730519,45.5670961,Italy,Veneto,Verona,Jaques (2007),678
+Rheinberg,October,1637,1630,1600,Rheinberg,Germany,Eighty Years' War,Netherlands War of Independence,6.5899097,51.5460798,Germany,Nordrhein-Westfalen,Dusseldorf,Israel (1997),81
+Rheinfelden,February,1638,1630,1600,Rheinfelden,Germany,Thirty Years' War,Franco-Habsburg War,7.791667,47.561111,Germany,Baden-Wurttemberg,Freiburg,Jaques (2007),851
+Kallo,May,1638,1630,1600,Antwerp,Belgium,Thirty Years' War,NA,4.4024643,51.2194475,Belgium,Vlaanderen,Antwerpen,Wilson (2009),661
+Saint-Omer,May,1638,1630,1600,Saint-Omer,France,Thirty Years' War,NA,2.252208,50.750115,France,Nord-Pas-de-Calais,Pas-de-Calais,Wilson (2009),661
+Wittenweier,July,1638,1630,1600,Wittenweier,Germany,Thirty Years' War,Franco-Habsburg War,7.761365,48.328779,Germany,Baden-Wurttemberg,Freiburg,Jaques (2007),1109
+Breisach,August,1638,1630,1600,Brieisach,Germany,Thirty Years' War,Franco-Habsburg War,7.5836067,48.0348382,Germany,Baden-Wurttemberg,Freiburg,Jaques (2007),161
+Sennheim,October,1638,1630,1600,Cernay,France,Thirty Years' War,Franco-Habsburg War,7.176532,47.807124,France,Alsace,Haut-Rhin,Jaques (2007),926
+Vlotho,October,1638,1630,1600,Vlotho,Germany,Thirty Years' War,Franco-Habsburg War,8.8560945,52.1605973,Germany,Nordrhein-Westfalen,Detmold,Jaques (2007),1083
+Fuenterrabia,NA,1638,1630,1600,Fuenterrabia,Spain,Thirty Years' War,Franco-Habsburg War,-1.8001488,43.3708434,Spain,Pais Vasco,Guipuzcoa,Jaques (2007),376
+St. Omer ,NA,1638,1630,1600,Saint-Omer,France,Eighty Years' War,Netherlands War of Independence,2.252208,50.750115,France,Nord-Pas-de-Calais,Pas-de-Calais,Israel (1997),83
+Chemnitz,April,1639,1630,1600,Chemnitz,Germany,Thirty Years' War,Franco-Habsburg War,12.9213697,50.827845,Germany,Sachsen,Chemnitz,Jaques (2007),233
+Brandeis,May,1639,1630,1600,Brandys nad Labem-Stara Boleslav,Czech Republic,Thirty Years' War,Franco-Habsburg War,14.6592444,50.1863259,Czech Republic,Stredocesky,Praha - vychod,Jaques (2007),159
+Melnik,May,1639,1630,1600,Melnik,Czech Republic,Thirty Years' War,NA,14.481781,50.353902,Czech Republic,Stredocesky,Melnik,Wilson (2009),614
+Turriff,May,1639,1630,1600,Turiff,Scotland,British Wars of Religion,Scottish Civil War,-2.4623,57.538932,United Kingdom,Scotland,Aberdeenshire,Royle (2004),91
+Dee,June,1639,1630,1600,Aberdeen,Scotland,British Wars of Religion,First Bishops' War,-2.094278,57.149717,United Kingdom,Scotland,Aberdeen,Jaques (2007),293
+Megray Hill,June,1639,1630,1600,Stonehaven,Scotland,British Wars of Religion,First Bishops' War,-2.209288,56.963661,United Kingdom,Scotland,Aberdeenshire,Jaques (2007),650
+Thionville,June,1639,1630,1600,Thionville,France,Thirty Years' War,Franco-Habsburg War,6.168426,49.357571,France,Lorraine,Moselle,Jaques (2007),1013
+Salces,July,1639,1630,1600,Les Salces,France,Thirty Years' War,NA,3.162048,44.534143,France,Languedoc-Roussillon,Lozere,Wilson (2009),652
+Downs,October,1639,1630,1600,The Downs,England,Eighty Years' War,Netherlands War of Independence,0.4097467,51.899764,United Kingdom,England,Essex,Jaques (2007),313
+Chieri,November,1639,1630,1600,Chieri,Italy,Thirty Years' War,Franco-Habsburg War,7.8275551,45.008885,Italy,Piemonte,Torino,Jaques (2007),237
+Thann,Early,1639,1630,1600,Thann,France,Thirty Years' War,NA,7.102382,47.810702,France,Alsace,Haut-Rhin,Wilson (2009),611
+Casale,April,1640,1640,1600,Casale Monferrato,Italy,Thirty Years' War,Franco-Habsburg War,8.450503,45.1316088,Italy,Piemonte,Alessandria,Jaques (2007),207
+Plauen,April,1640,1640,1600,Plauen,Germany,Thirty Years' War,NA,12.1368679,50.4976133,Germany,Sachsen,Chemnitz,Wilson (2009),619
+Turnin,July,1640,1640,1600,Turin,Italy,Thirty Years' War,Franco-Habsburg War,7.6868565,45.070312,Italy,Piemonte,Torino,Jaques (2007),1045
+Newburn,August,1640,1640,1600,Newburn,England,British Wars of Religion,Second Bishops' War,-1.7425365,54.9842861,United Kingdom,England,Tyne and Wear,Jaques (2007),724
+Montjuic,January,1641,1640,1600,Barcelona,Spain,Thirty Years' War,NA,2.173404,41.38506,Spain,Cataluna,Barcelona,Wilson (2009),654
+Wolfenbuttel,June,1641,1640,1600,Wolfenbuttel,Germany,Thirty Years' War,Franco-Habsburg War,10.5408484,52.1640413,Germany,Niedersachsen,Braunschweig,Jaques (2007),1110
+La Marfee,July,1641,1640,1600,Sedan,France,Thirty Years' War,Franco-Habsburg War,4.93863,49.70349,France,Champagne-Ardenne,Ardennes,Jaques (2007),565
+Drogheda,November,1641,1640,1600,Drogheda,Ireland,British Wars of Religion,Irish Confederate Wars,-6.3560985,53.717856,Ireland,Louth,NA,Royle (2004),138
+Julianstown,November,1641,1640,1600,Julianstown,Ireland,British Wars of Religion,Irish Confederate Wars,-6.285651,53.6729374,Ireland,Meath,NA,Siochrú (1999),31
+Kempen,January,1642,1640,1600,Kempen,Germany,Thirty Years' War,Franco-Habsburg War,6.4205309,51.3649942,Germany,Nordrhein-Westfalen,Dusseldorf,Jaques (2007),518
+Kilrush,April,1642,1640,1600,Kilrush,Ireland,British Wars of Religion,Irish Confederate Wars,-9.4859374,52.6406999,Ireland,Clare,NA,Royle (2004),145
+Honnecourt,May,1642,1640,1600,Honnecourt-sur-Escaut,France,Thirty Years' War,NA,3.199481,50.038278,France,Nord-Pas-de-Calais,Nord,Wilson (2009),665
+Newry,May,1642,1640,1600,Newry,Northern Ireland,British Wars of Religion,Irish Confederate Wars,-6.3402299,54.1751024,United Kingdom,Northern Ireland,Newry and Mourne,Royle (2004),142
+Barcelona,June,1642,1640,1600,Barcelona,Spain,Thirty Years' War,Franco-Habsburg War,2.173404,41.38506,Spain,Cataluna,Barcelona,Jaques (2007),107
+Olmutz,June,1642,1640,1600,Olomouc,Czech Republic,Thirty Years' War,Franco-Habsburg War,17.2508787,49.593778,Czech Republic,Olomoucky,Olomouc,Jaques (2007),751
+Schweidnitz,June,1642,1640,1600,Swidnica,Poland,Thirty Years' War,Franco-Habsburg War,16.475679,50.849843,Poland,Lower Silesian,Swidnica,Jaques (2007),920
+Powick Bridge,September,1642,1640,1600,Worcester,England,British Wars of Religion,English Civil War,-2.221575,52.193636,United Kingdom,England,Worcestershire,Jaques (2007),816
+Edgehill,October,1642,1640,1600,Edgehill,England,British Wars of Religion,English Civil War,-1.453197,52.113518,United Kingdom,England,Warwickshire,Jaques (2007),326
+Bandon,November,1642,1640,1600,Bandon,Ireland,British Wars of Religion,Irish Confederate Wars,-8.7318174,51.746124,Ireland,Cork,NA,Siochrú (1999),31
+Breitenfeld,November,1642,1640,1600,Leipzig,Germany,Thirty Years' War,Franco-Habsburg War,12.37307,51.3397,Germany,Sachsen,Leipzig,Jaques (2007),162
+Brentford,November,1642,1640,1600,Brentford,England,British Wars of Religion,English Civil War,-0.3101169,51.486073,United Kingdom,England,Hounslow,Jaques (2007),162
+Turnham Green,November,1642,1640,1600,Chiswick,England,British Wars of Religion,English Civil War,-0.2671732,51.4876272,United Kingdom,England,Hounslow,Jaques (2007),1045
+Tadcaster,December,1642,1640,1600,Tadcaster,England,British Wars of Religion,English Civil War,-1.260889,53.883551,United Kingdom,England,North Yorkshire,Jaques (2007),987
+Cork,NA,1642,1640,1600,Cork,Ireland,British Wars of Religion,Irish Confederate Wars,-8.4863157,51.8968917,Ireland,Cork,NA,Siochrú (1999),31
+Lisburn,NA,1642,1640,1600,Lisburn,Northern Ireland,British Wars of Religion,Irish Confederate Wars,-6.0580106,54.516246,United Kingdom,Northern Ireland,Lisburn,Siochrú (1999),31
+Rathlin Island,NA,1642,1640,1600,Rathlin Island,Northern Ireland,British Wars of Religion,Irish Confederate Wars,-6.20728,55.297949,United Kingdom,Northern Ireland,Antrim,Royle (2004),xvii
+Braddock Down,January,1643,1640,1600,Cornwall,England,British Wars of Religion,English Civil War,-4.6524982,50.5036299,United Kingdom,England,Cornwall,Jaques (2007),159
+Highnam,March,1643,1640,1600,Highnam,England,British Wars of Religion,English Civil War,-2.297121,51.876149,United Kingdom,England,Gloucestershire,Jaques (2007),448
+Hopton Heath,March,1643,1640,1600,Hopton Heath,England,British Wars of Religion,English Civil War,-2.910584,52.391041,United Kingdom,England,Shropshire,Jaques (2007),455
+Old Ross,March,1643,1640,1600,Old Ross,Ireland,British Wars of Religion,Irish Confederate Wars,-6.82663,52.39195,Ireland,Wexford,NA,Siochrú (1999),31
+Seacroft Moor,March,1643,1640,1600,Leeds,England,British Wars of Religion,English Civil War,-1.5490774,53.8007554,United Kingdom,England,West Yorkshire,Jaques (2007),922
+Launceston,April,1643,1640,1600,Launceston,England,British Wars of Religion,English Civil War,-4.358558,50.640134,United Kingdom,England,Cornwall,Jaques (2007),575
+Reading,April,1643,1640,1600,Reading,England,British Wars of Religion,English Civil War,-0.9781303,51.4542645,United Kingdom,England,Berkshire,Jaques (2007),845
+Ripple Field,April,1643,1640,1600,Tewkesbury,England,British Wars of Religion,English Civil War,-2.15796,51.992265,United Kingdom,England,Gloucestershire,Jaques (2007),857
+Sourton Down,April,1643,1640,1600,Sourton,England,British Wars of Religion,English Civil War,-4.078756,50.691741,United Kingdom,England,Devon,Jaques (2007),962
+Grantham,May,1643,1640,1600,Grantham,England,British Wars of Religion,English Civil War,-0.643582,52.912524,United Kingdom,England,Lincolnshire,Jaques (2007),407
+Rocroi,May,1643,1640,1600,Rocroi,France,Thirty Years' War,Franco-Habsburg War,4.519757,49.925149,France,Champagne-Ardenne,Ardennes,Jaques (2007),860
+Stratton,May,1643,1640,1600,Stratton,England,British Wars of Religion,English Civil War,-4.514386,50.8306929,United Kingdom,England,Cornwall,Jaques (2007),974
+Wakefield,May,1643,1640,1600,Wakefield,England,British Wars of Religion,English Civil War,-1.505924,53.683298,United Kingdom,England,West Yorkshire,Jaques (2007),1090
+Adwalton Moor,June,1643,1640,1600,Adwalton,England,British Wars of Religion,English Civil War,-1.6545698,53.7513517,United Kingdom,England,West Yorkshire,Jaques (2007),13
+Chalgrove Field,June,1643,1640,1600,Chalgrove,England,British Wars of Religion,English Civil War,-1.078599,51.666818,United Kingdom,England,Oxfordshire,Jaques (2007),220
+Thionville,June,1643,1640,1600,Thionville,France,Thirty Years' War,Franco-Habsburg War,6.168426,49.357571,France,Lorraine,Moselle,Jaques (2007),1013
+Bristol,July,1643,1640,1600,Bristol,England,British Wars of Religion,English Civil War,-2.58791,51.454513,United Kingdom,England,Bristol,Jaques (2007),166
+Gainsborough,July,1643,1640,1600,Gainsborough,England,British Wars of Religion,English Civil War,-0.774465,53.400575,United Kingdom,England,Lincolnshire,Jaques (2007),379
+Lansdown,July,1643,1640,1600,Landsdown Hill,England,British Wars of Religion,English Civil War,-1.2628913,52.902673,United Kingdom,England,Derbyshire,Jaques (2007),569
+Roundway Down,July,1643,1640,1600,Devizes,England,British Wars of Religion,English Civil War,-1.994828,51.3489069,United Kingdom,England,Wiltshire,Jaques (2007),866
+Rowde Ford,July,1643,1640,1600,Rowde,England,British Wars of Religion,English Civil War,-2.034098,51.362539,United Kingdom,England,Wiltshire,Jaques (2007),867
+Gloucester,August,1643,1640,1600,Gloucester,England,British Wars of Religion,English Civil War,-2.238156,51.8642449,United Kingdom,England,Gloucestershire,Jaques (2007),398
+Sierck,August,1643,1640,1600,Sierck-les-Bains,France,Thirty Years' War,Franco-Habsburg War,6.361008,49.442631,France,Lorraine,Moselle,Jaques (2007),942
+Aldbourne Chase,September,1643,1640,1600,Aldbourne,England,British Wars of Religion,English Civil War,-1.62053,51.479233,United Kingdom,England,Wiltshire,Royle (2004),271
+Cabo de Gata,September,1643,1640,1600,Cabo de Gata,Spain,Thirty Years' War,Franco-Habsburg War,-2.2422484,36.7817465,Spain,Andalucia,Almeria,Jaques (2007),179
+Hull,September,1643,1640,1600,Cottingham,England,British Wars of Religion,English Civil War,-0.413978,53.782081,United Kingdom,England,East Riding of Yorkshire,Royle (2004),273
+Newbury,September,1643,1640,1600,Newbury,England,British Wars of Religion,English Civil War,-1.3231139,51.401409,United Kingdom,England,Berkshire,Jaques (2007),724
+Winceby,October,1643,1640,1600,Winceby,England,British Wars of Religion,English Civil War,-0.018447,53.195482,United Kingdom,England,Lincolnshire,Jaques (2007),1106
+Basing House,November,1643,1640,1600,Basingstoke,England,British Wars of Religion,English Civil War,-1.0923964,51.26654,United Kingdom,England,Hampshire,Jaques (2007),112
+Rottweil,November,1643,1640,1600,Rottweil,Germany,Thirty Years' War,Franco-Habsburg War,8.6316219,48.1610687,Germany,Baden-Wurttemberg,Freiburg,Jaques (2007),865
+Tuttlingen,November,1643,1640,1600,Tuttlingen,Germany,Thirty Years' War,Franco-Habsburg War,8.8192095,47.9823316,Germany,Baden-Wurttemberg,Freiburg,Jaques (2007),1046
+Alton,December,1643,1640,1600,Alton,England,British Wars of Religion,English Civil War,-0.973177,51.150719,United Kingdom,England,Hampshire,Jaques (2007),41
+Arundel,December,1643,1640,1600,Arundel,England,British Wars of Religion,English Civil War,-0.555119,50.855171,United Kingdom,England,West Sussex,Jaques (2007),73
+Piercebridge,December,1643,1640,1600,Piercebridge,England,British Wars of Religion,English Civil War,-1.677401,54.53683,United Kingdom,England,Darlington,Jaques (2007),796
+Fermoy,NA,1643,1640,1600,Fermoy,Ireland,British Wars of Religion,Irish Confederate Wars,-8.2755611,52.1393605,Ireland,Cork,NA,Siochrú (1999),31
+Nantwich,January,1644,1640,1600,Nantwich,England,British Wars of Religion,English Civil War,-2.524102,53.067185,United Kingdom,England,Cheshire,Jaques (2007),712
+Latham,February,1644,1640,1600,Latham,England,British Wars of Religion,English Civil War,0.290851,51.287227,United Kingdom,England,Kent,Jaques (2007),574
+Alresford (Cheriton),March,1644,1640,1600,Cheriton,England,British Wars of Religion,English Civil War,-1.1708223,51.0539153,United Kingdom,England,Hampshire,Jaques (2007),39
+Hilton,March,1644,1640,1600,Hilton,England,British Wars of Religion,English Civil War,-1.637,52.871,United Kingdom,England,Derbyshire,Royle (2004),283
+Newark,March,1644,1640,1600,Newark on Trent,England,British Wars of Religion,English Civil War,-0.81,53.0765,United Kingdom,England,Nottingham,Jaques (2007),724
+Selby,April,1644,1640,1600,Selby,England,British Wars of Religion,English Civil War,-1.067189,53.783524,United Kingdom,England,North Yorkshire,Jaques (2007),924
+York,April,1644,1640,1600,York,England,British Wars of Religion,English Civil War,-1.0872979,53.9599651,United Kingdom,England,York,Jaques (2007),1123
+Bolton,May,1644,1640,1600,Bolton,England,British Wars of Religion,English Civil War,-2.4282192,53.5768647,United Kingdom,England,Manchester,Jaques (2007),151
+Gravelines,May,1644,1640,1600,Gravelines,France,Thirty Years' War,Franco-Habsburg War,2.125537,50.98707,France,Nord-Pas-de-Calais,Nord,Jaques (2007),408
+Lister Deep (Listerdyb),May,1644,1640,1600,Sonderby,Denmark,Thirty Years' War,NA,8.500691,55.05508,Denmark,South Jutland,Skarbak,Wilson (2009),688
+Cropredy Bridge,June,1644,1640,1600,Banbury,England,British Wars of Religion,English Civil War,-1.339775,52.0629009,United Kingdom,England,Oxfordshire,Jaques (2007),273
+Kolberg Heath (Kolberger Heide),July,1644,1640,1600,Fehmarn,Germany,Thirty Years' War,Franco-Habsburg War,11.1337406,54.4600619,Germany,Schleswig-Holstein,Schleswig-Holstein,Jaques (2007),538
+Marston Moor,July,1644,1640,1600,Long Marston,England,British Wars of Religion,English Civil War,-1.778136,52.134166,United Kingdom,England,Warwickshire,Jaques (2007),638
+Sas van Gent,July,1644,1640,1600,Sas Van Gent,Netherlands,Eighty Years' War,Netherlands War of Independence,3.7999937,51.2276878,Netherlands,Zeeland,Terneuzen,Jaques (2007),915
+Taunton,July,1644,1640,1600,Taunton,England,British Wars of Religion,English Civil War,-3.106849,51.015344,United Kingdom,England,Somerset,Jaques (2007),1001
+Beacon Hill,August,1644,1640,1600,Lostwithiel,England,British Wars of Religion,English Civil War,-4.6750679,50.406021,United Kingdom,England,Cornwall,Jaques (2007),119
+Freiburg,August,1644,1640,1600,Freiburg,Germany,Thirty Years' War,Franco-Habsburg War,7.8421043,47.9990077,Germany,Baden-Wurttemberg,Freiburg,Jaques (2007),373
+Lostwithiel,August,1644,1640,1600,Lostwithiel,England,British Wars of Religion,English Civil War,-4.6750679,50.406021,United Kingdom,England,Cornwall,Jaques (2007),601
+Aberdeen,September,1644,1640,1600,Aberdeen,Scotland,British Wars of Religion,Scottish Civil War,-2.094278,57.149717,United Kingdom,Scotland,Aberdeen,Jaques (2007),3
+Tippermuir,September,1644,1640,1600,Perth,Scotland,British Wars of Religion,Scottish Civil War,-3.430838,56.394994,United Kingdom,Scotland,Perthshire and Kinross,Jaques (2007),1019
+Fyvie,October,1644,1640,1600,Fyvie,Scotland,British Wars of Religion,Scottish Civil War,-2.3889999,57.429806,United Kingdom,Scotland,Aberdeenshire,Jaques (2007),378
+Laugharne,October,1644,1640,1600,Laugharne,Wales,British Wars of Religion,English Civil War,-4.464252,51.769203,United Kingdom,Wales,Carmarthenshire,Jaques (2007),574
+Lolland,October,1644,1640,1600,Lolland,Denmark,Thirty Years' War,Franco-Habsburg War,11.46493,54.727543,Denmark,Storstrom,Nysted,Jaques (2007),596
+Newbury,October,1644,1640,1600,Newbury,England,British Wars of Religion,English Civil War,-1.3231139,51.401409,United Kingdom,England,Berkshire,Jaques (2007),724
+Juterbog,November,1644,1640,1600,Juterbog,Germany,Thirty Years' War,Franco-Habsburg War,13.0756312,51.9964734,Germany,Brandenburg,Brandenburg,Jaques (2007),498
+Inveraray,December,1644,1640,1600,Inveraray,Scotland,British Wars of Religion,Scottish Civil War,-5.0771018,56.2309517,United Kingdom,Scotland,Argyll and Bute,Jaques (2007),472
+Lerida,NA,1644,1640,1600,Lleida,Spain,Thirty Years' War,Franco-Habsburg War,0.6200146,41.6175899,Spain,Cataluna,Lleida,Jaques (2007),581
+Duncannon,January,1645,1640,1600,Duncannon,Ireland,British Wars of Religion,Irish Confederate Wars,-6.9316371,52.2255552,Ireland,Wexford,NA,Siochrú (1999),31
+Inverlochy,February,1645,1640,1600,Inverlochy,Scotland,British Wars of Religion,Scottish Civil War,-5.094977,56.825724,United Kingdom,Scotland,Highland,Jaques (2007),473
+Jankau,March,1645,1640,1600,Jankov,Czech Republic,Thirty Years' War,Franco-Habsburg War,14.730747,49.652939,Czech Republic,Stredocesky,Benesov,Jaques (2007),486
+Lyme,April,1645,1640,1600,Lyme Regis,England,British Wars of Religion,English Civil War,-2.936639,50.725156,United Kingdom,England,Dorset,Jaques (2007),609
+Auldearn,May,1645,1640,1600,Auldearn,Scotland,British Wars of Religion,Scottish Civil War,-3.801675,57.576161,United Kingdom,Scotland,Highland,Jaques (2007),83
+Leicester,May,1645,1640,1600,Leicester,England,British Wars of Religion,English Civil War,-1.1397592,52.6368778,United Kingdom,England,Leicester,Jaques (2007),578
+Mergentheim,May,1645,1640,1600,Herbsthausen,Germany,Thirty Years' War,Franco-Habsburg War,9.828538,49.404531,Germany,Baden-Wurttemberg,Stuttgart,Jaques (2007),655
+Rosas,May,1645,1640,1600,Rosas,Spain,Thirty Years' War,Franco-Habsburg War,3.208099,42.26052,Spain,Cataluna,Girona,Jaques (2007),863
+Borough Hill,June,1645,1640,1600,Kislingbury,England,British Wars of Religion,English Civil War,-0.97832,52.226684,United Kingdom,England,Northamptonshire,Jaques (2007),155
+Naseby,June,1645,1640,1600,Naseby,England,British Wars of Religion,English Civil War,-0.9885334,52.3954519,United Kingdom,England,Northamptonshire,Jaques (2007),715
+Alford,July,1645,1640,1600,Alford,England,British Wars of Religion,Scottish Civil War,0.183359,53.263271,United Kingdom,England,Lincolnshire,Jaques (2007),31
+Bridgwater,July,1645,1640,1600,Bridgwater,England,British Wars of Religion,English Civil War,-3.003632,51.127889,United Kingdom,England,Somerset,Jaques (2007),165
+Colby Moor,July,1645,1640,1600,Canaston Bridge,Wales,British Wars of Religion,English Civil War,-4.8042999,51.801575,United Kingdom,Wales,Pembrokeshire,Jaques (2007),252
+Langport,July,1645,1640,1600,Langport,England,British Wars of Religion,English Civil War,-2.828719,51.038134,United Kingdom,England,Somerset,Jaques (2007),568
+Scarborough Castle,July,1645,1640,1600,Scarborough,England,British Wars of Religion,English Civil War,-0.399752,54.283113,United Kingdom,England,North Yorkshire,Royle (2004),365
+Bristol,August,1645,1640,1600,Bristol,England,British Wars of Religion,English Civil War,-2.58791,51.454513,United Kingdom,England,Bristol,Jaques (2007),166
+Kilsyth,August,1645,1640,1600,Kilsyth,Scotland,British Wars of Religion,Scottish Civil War,-4.056933,55.979788,United Kingdom,Scotland,North Lanarkshire,Jaques (2007),532
+Nordlingen,August,1645,1640,1600,Nordlingen,Germany,Thirty Years' War,Franco-Habsburg War,10.4894906,48.8508157,Germany,Bayern,Schwaben,Jaques (2007),737
+Philiphaugh,September,1645,1640,1600,Selkirk,Scotland,British Wars of Religion,Scottish Civil War,-2.838524,55.550658,United Kingdom,Scotland,Scottish Borders,Jaques (2007),793
+Rowton Heath,September,1645,1640,1600,Rowton,England,British Wars of Religion,English Civil War,-2.831632,53.172388,United Kingdom,England,Cheshire,Jaques (2007),867
+Heilbronn,October,1645,1640,1600,Heilbronn,Germany,Thirty Years' War,NA,9.210879,49.1426929,Germany,Baden-Wurttemberg,Stuttgart,Wilson (2009),704
+Hulst,October,1645,1640,1600,Hulst,Netherlands,Eighty Years' War,Netherlands War of Independence,4.0548869,51.2806907,Netherlands,Zeeland,Hulst,Jaques (2007),461
+Annan Moor,NA,1645,1640,1600,Annan,Scotland,British Wars of Religion,Scottish Civil War,-3.259773,54.990246,United Kingdom,Scotland,Dumfries and Galloway,Royle (2004),xvi
+Careston,NA,1645,1640,1600,Angus,Scotland,British Wars of Religion,Scottish Civil War,-2.9206818,56.7969965,United Kingdom,Scotland,Angus,Royle (2004),xvi
+Strathdon,NA,1645,1640,1600,Strathdon,Scotland,British Wars of Religion,Scottish Civil War,-3.07456,57.199078,United Kingdom,Scotland,Aberdeenshire,Royle (2004),xvi
+Youghal,NA,1645,1640,1600,Youghal,Ireland,British Wars of Religion,Irish Confederate Wars,-7.8471707,51.9542704,Ireland,Cork,NA,Siochrú (1999),31
+Torrington,February,1646,1640,1600,Great Torrington,England,British Wars of Religion,English Civil War,-4.135998,50.9546459,United Kingdom,England,Devon,Jaques (2007),1027
+Stow,March,1646,1640,1600,Stow-on-the-Wold,England,British Wars of Religion,English Civil War,-1.726444,51.931364,United Kingdom,England,Gloucestershire,Jaques (2007),972
+Inverness,April,1646,1640,1600,Inverness,Scotland,British Wars of Religion,Scottish Civil War,-4.224721,57.477773,United Kingdom,Scotland,Highland,Jaques (2007),473
+Benburb,June,1646,1640,1600,Benburb,Northern Ireland,British Wars of Religion,Irish Confederate Wars,-6.74394,54.41178,United Kingdom,Northern Ireland,Dungannon,Jaques (2007),129
+Isola del Giglio,June,1646,1640,1600,Isola del Giglio,Italy,Thirty Years' War,Franco-Habsburg War,10.901604,42.353631,Italy,Toscana,Grosseto,Jaques (2007),477
+Lerida,June,1646,1640,1600,Lleida,Spain,Thirty Years' War,Franco-Habsburg War,0.6200146,41.6175899,Spain,Cataluna,Lleida,Jaques (2007),581
+Orbetello,June,1646,1640,1600,Orbetello,Italy,Thirty Years' War,Franco-Habsburg War,11.2124083,42.4396474,Italy,Toscana,Grosseto,Jaques (2007),755
+Dunkirk,September,1646,1640,1600,Dunkirk,France,Thirty Years' War,Franco-Habsburg War,2.3767763,51.0343684,France,Nord-Pas-de-Calais,Nord,Jaques (2007),318
+Porto Longone,September,1646,1640,1600,Porto Azzurro,Italy,Thirty Years' War,Franco-Habsburg War,10.3947803,42.7632329,Italy,Toscana,Livorno,Jaques (2007),812
+Frankenberg,November,1646,1640,1600,Frankenberg,Germany,Thirty Years' War,NA,13.0404029,50.9090361,Germany,Sachsen,Chemnitz,Wilson (2009),713
+Bunratty,NA,1646,1640,1600,Bunratty,Ireland,British Wars of Religion,Irish Confederate Wars,-8.8111283,52.698874,Ireland,Clare,NA,Siochrú (1999),31
+Lagganmore,NA,1646,1640,1600,Stranraer,Scotland,British Wars of Religion,Scottish Civil War,-5.024055,54.903367,United Kingdom,Scotland,Dumfries and Galloway,Royle (2004),xvi
+Uberlingen,January,1647,1640,1600,Uberlingen,Germany,Thirty Years' War,NA,9.1702772,47.7661746,Germany,Baden-Wurttemberg,Tubingen,Wilson (2009),714
+Lerida,May,1647,1640,1600,Lleida,Spain,Thirty Years' War,Franco-Habsburg War,0.6200146,41.6175899,Spain,Cataluna,Lleida,Jaques (2007),581
+Dungan Hill,August,1647,1640,1600,Summerhill,Ireland,British Wars of Religion,Irish Confederate Wars,-6.7325147,53.4813655,Ireland,Meath,NA,Jaques (2007),318
+Knocknanuss,November,1647,1640,1600,Knocknanuss,Ireland,British Wars of Religion,Irish Confederate Wars,-8.8663731,51.6880388,Ireland,Cork,NA,Royle (2004),396
+Liscarroll,NA,1647,1640,1600,Liscarroll,Ireland,British Wars of Religion,Irish Confederate Wars,-8.8041682,52.2600757,Ireland,Cork,NA,Royle (2004),xvii
+Pembroke,May,1648,1640,1600,Pembroke,Wales,British Wars of Religion,English Civil War,-4.908637,51.674043,United Kingdom,Wales,Pembrokeshire,Jaques (2007),785
+Rain (Lech),May,1648,1640,1600,Rain,Germany,Thirty Years' War,NA,10.9208893,48.6901541,Germany,Bayern,Schwaben,Wilson (2009),741
+St. Fagan's,May,1648,1640,1600,Cardiff,Wales,British Wars of Religion,English Civil War,-3.17909,51.481581,United Kingdom,Wales,Cardiff,Jaques (2007),889
+Zusmarshausen,May,1648,1640,1600,Zusmarshasen,Germany,Thirty Years' War,Franco-Habsburg War,10.5995405,48.3982617,Germany,Bayern,Schwaben,Jaques (2007),1137
+Colchester,June,1648,1640,1600,Colchester,England,British Wars of Religion,English Civil War,0.891874,51.895927,United Kingdom,England,Essex,Jaques (2007),252
+Maidstone,June,1648,1640,1600,Maidstone,England,British Wars of Religion,English Civil War,0.522699,51.270363,United Kingdom,England,Kent,Jaques (2007),617
+Mauchline Muir,June,1648,1640,1600,Mauchline,Scotland,British Wars of Religion,Scottish Civil War,-4.3777549,55.515888,United Kingdom,Scotland,East Ayrshire,Royle (2004),458
+Prague,June,1648,1640,1600,Prague,Czech Republic,Thirty Years' War,Franco-Habsburg War,14.4378005,50.0755381,Czech Republic,Prague,Praha 1,Jaques (2007),817
+Trancheron,June,1648,1640,1600,Cremona,Italy,Thirty Years' War,Franco-Habsburg War,10.0226511,45.133249,Italy,Lombardia,Cremona,Jaques (2007),1031
+Lens,August,1648,1640,1600,Lens,France,Thirty Years' War,Franco-Habsburg War,2.83183,50.42893,France,Nord-Pas-de-Calais,Pas-de-Calais,Jaques (2007),580
+Preston,August,1648,1640,1600,Preston,England,British Wars of Religion,NA,-2.70309,53.763201,United Kingdom,England,Lancashire,Jaques (2007),818
+Dachau,October,1648,1640,1600,Dachau,Germany,Thirty Years' War,NA,11.4339022,48.2629984,Germany,Bayern,Oberbayern,Wilson (2009),744
+Balvenie,May,1649,1640,1600,Dufftown,Scotland,British Wars of Religion,Scottish Civil War,-3.12838,57.443623,United Kingdom,Scotland,Moray,Royle (2004),555
+Rathmines,August,1649,1640,1600,Dublin,Ireland,British Wars of Religion,Irish Confederate Wars,-6.2603097,53.3498053,Ireland,Dublin,NA,Jaques (2007),842
+Drogheda,September,1649,1640,1600,Drogheda,Ireland,British Wars of Religion,Irish Confederate Wars,-6.3560985,53.717856,Ireland,Louth,NA,Jaques (2007),314
+Wexford,October,1649,1640,1600,Wexford,Ireland,British Wars of Religion,Irish Confederate Wars,-6.4633381,52.336916,Ireland,Wexford,NA,Jaques (2007),1101
+Waterford,November,1649,1640,1600,Waterford,Ireland,British Wars of Religion,Irish Confederate Wars,-7.129167,52.256667,Ireland,Waterford,NA,Royle (2004),xvii
+Londonderry,NA,1649,1640,1600,Londonderry,Northern Ireland,British Wars of Religion,Irish Confederate Wars,-7.3085748,54.9966124,United Kingdom,Northern Ireland,Derry,Siochrú (1999),31
+Carbisdale,April,1650,1650,1600,Culrain,Scotland,British Wars of Religion,Scottish Civil War,-4.410573,57.918107,United Kingdom,Scotland,Highland,Royle (2004),563
+Clonmel,April,1650,1650,1600,Clonmel,Ireland,British Wars of Religion,Irish Confederate Wars,-7.6902551,52.3558172,Ireland,Tipperary,NA,Jaques (2007),250
+Macroom,May,1650,1650,1600,Macroom,Ireland,British Wars of Religion,Irish Confederate Wars,-8.9588478,51.9048039,Ireland,Cork,NA,Royle (2004),544
+Scarrifholis,June,1650,1650,1600,Donegal,Ireland,British Wars of Religion,Irish Confederate Wars,-8.110546,54.6541972,Ireland,Donegal,NA,Royle (2004),650
+Musselburgh,July,1650,1650,1600,Musselburgh,Scotland,British Wars of Religion,Scottish Civil War,-3.053918,55.941941,United Kingdom,Scotland,East Lothian,Royle (2004),576
+Charlemont,August,1650,1650,1600,Armagh,Northern Ireland,British Wars of Religion,Irish Confederate Wars,-6.652792,54.3502798,United Kingdom,Northern Ireland,Armagh,Royle (2004),550
+Dunbar,September,1650,1650,1600,Dunbar,Scotland,British Wars of Religion,Scottish Civil War,-2.516737,56.002087,United Kingdom,Scotland,East Lothian,Jaques (2007),317
+Hamilton,November,1650,1650,1600,Hamilton,Scotland,British Wars of Religion,English Civil War,-4.053679,55.777633,United Kingdom,Scotland,South Lanarkshire,Royle (2004),590
+Limerick,June,1651,1650,1600,Limerick,Ireland,British Wars of Religion,Irish Confederate Wars,-8.6304975,52.6680204,Ireland,Limerick,NA,Jaques (2007),587
+Inverkeithing,July,1651,1650,1600,Inverkeithing,Scotland,British Wars of Religion,Scottish Civil War,-3.398795,56.030043,United Kingdom,Scotland,Fife,Jaques (2007),473
+Alyth,August,1651,1650,1600,Alyth,Scotland,British Wars of Religion,Scottish Civil War,-3.226867,56.62578,United Kingdom,Scotland,Perthshire and Kinross,Royle (2004),608
+Dundee,August,1651,1650,1600,Dundee,Scotland,British Wars of Religion,Scottish Civil War,-2.970721,56.462018,United Kingdom,Scotland,Dundee,Jaques (2007),317
+Wigan,August,1651,1650,1600,Wigan,England,British Wars of Religion,English Civil War,-2.6325074,53.5450645,United Kingdom,England,Manchester,Jaques (2007),1104
+Worcester,September,1651,1650,1600,Worcester,England,British Wars of Religion,English Civil War,-2.221575,52.193636,United Kingdom,England,Worcestershire,Jaques (2007),1110
+Galway,NA,1652,1650,1600,Galway,Ireland,British Wars of Religion,Irish Confederate Wars,-9.0567905,53.270668,Ireland,Galway,NA,Siochrú (1999),31
+Lochgarry (Dalnaspidal),July,1654,1650,1600,Invergarry,Scotland,British Wars of Religion,Scottish Civil War,-4.800261,57.070951,United Kingdom,Scotland,Highland,Jaques (2007),593
