@@ -1,4 +1,4 @@
-# Title: 0-create-urbanization.R
+# Title: 3-create-urbanization.R
 # Description: Use raw Bairoch data to create urbanization series
 # Authors: Peter T. Leeson and Jacob W. Russ 
 

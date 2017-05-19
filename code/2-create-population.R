@@ -1,8 +1,8 @@
-# Title: 0-create-population.R
+# Title: 2-create-population.R
 # Description: This file takes raw population statistics from McEvedy and 
 #              Jones (1978) and linearly interpolates the values for decade
 #              by decade population estimates.
-# Authors: Peter T. Leeson and Jacob W. Russ 
+# Authors: Peter T. Leeson and Jacob W. Russ
 
 library(readr)
 library(dplyr)

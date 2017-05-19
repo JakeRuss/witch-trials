@@ -1,4 +1,4 @@
-# Title: 0-create-weather.R
+# Title: 1-create-weather.R
 # Description: Use raw data from Oster (2004) to create weather series
 # Authors: Peter T. Leeson and Jacob W. Russ (2017)
 

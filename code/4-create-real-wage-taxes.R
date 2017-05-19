@@ -1,4 +1,4 @@
-# Title: 5-create-taxes-real-wages.R
+# Title: 4-create-taxes-real-wages.R
 # Description: Clean real wage data from Allen (2001) and tax revenue per 
 #              capita data from Karaman and Pamuk (2013) 
 # Authors: Peter T. Leeson and Jacob W. Russ 
